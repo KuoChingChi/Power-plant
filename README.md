@@ -6,12 +6,21 @@
 P1圖面/P2照片/P3概念>案例
 # Knowledge structure
 ## building
+* form
+  - massing strategy
+  - lighting strategy
 * material
+* space
+* facade
 * scale 
 * program
 * structure system
-## generation type
+## energy production
+* generation type
 * power capacity
+* energy source
+* output type
+* byproduct management
 ## event
 * status
 * completion
@@ -23,4 +32,6 @@ P1圖面/P2照片/P3概念>案例
 * architect
 * user
 * client
+* co-eorking designer
+* consultant
 # 其他
