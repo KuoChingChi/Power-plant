@@ -6,39 +6,39 @@
 P1圖面/P2照片/P3概念>案例
 # Knowledge structure
 ## Building
-* form
+- form
   - massing strategy
   - lighting strategy
-* material
-* space
-* facade
-* scale 
-* program
-* structure system
+- material
+- space
+- facade
+- scale 
+- program
+- structure system
 ## Energy production
-* generation type
-* power capacity
-* energy source
-* output type
-* byproduct management
+- generation type
+- power capacity
+- energy source
+- output type
+- byproduct management
 ## Event
-* status
-* completion
-* renovation
+- status
+- completion
+- renovation
 ## Site
-* context
+- context
   - natural context
   - historical context
   - cultural context
-* landscape
+- landscape
 ## Participant
-* architect
-* user
-* client
-* co-working designer
-* consultant
+- architect
+- user
+- client
+- co-working designer
+- consultant
 ## Sustainability
-* carbon footprint
-* circular economy
-* ecological impact
+- carbon footprint
+- circular economy
+- ecological impact
 # 其他
