@@ -4,4 +4,23 @@
 發電廠
 # 資料夾結構
 P1圖面/P2照片/P3概念>案例
+# Knowledge structure
+## building
+* material
+* scale 
+* program
+* structure system
+## generation type
+* power capacity
+## event
+* status
+* completion
+* renovation
+## site
+* context
+* landscape
+## participant
+* architect
+* user
+* client
 # 其他
