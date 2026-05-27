@@ -14,7 +14,7 @@ P1圖面/P2照片/P3概念>案例
 * power capacity
 ## event
 * status
-* ompletion
+* completion
 * renovation
 ## site
 * context
