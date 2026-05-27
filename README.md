@@ -27,11 +27,14 @@ P1圖面/P2照片/P3概念>案例
 * renovation
 ## site
 * context
+  - natural context
+  - historical context
+  - cultural context
 * landscape
 ## participant
 * architect
 * user
 * client
-* co-eorking designer
+* co-working designer
 * consultant
 # 其他
