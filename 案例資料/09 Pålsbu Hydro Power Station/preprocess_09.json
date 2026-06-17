@@ -1,0 +1,24 @@
+// Case09_preprocess.json
+{
+  "P1": {
+    "Vocabulary_Extraction": ["水輪發電機組", "水壩擋水牆", "進水路徑", "尾水路徑", "控制室/機房", "地下水位", "起重機"],
+    "Quantity_Estimation": {
+      "ground_floor": ["發電機組 × 1", "天車/起重設備 × 1"]
+    },
+    "Spatial_Relationship_Descriptions": "建築位於水壩結構的下方或側邊，發電機組垂直貫穿建築，連接著上方的機房與下方的水路，空間完全依據水力發電的垂直水流邏輯配置。",
+    "Overall_Spatial_Impression": "這是一座高度工程化、鑲嵌於巨型水利設施中的附屬建築，空間發展以垂直向度為主。"
+  },
+  "P2": {
+    "Design_Vocabulary_Extraction": ["折板狀混凝土外牆", "狹長採光開口", "格柵開窗", "湍急水流"],
+    "Atmospheric_Description": "外觀極具紀念性與粗獷主義風格，伴隨著周圍湍急的水流，展現出強大、原始的自然與工程力量。",
+    "Spatial_Composition_or_Hierarchy": "建築量體如同一塊被雕琢過的巨石，垂直的折線立面賦予了建築向上延伸的視覺張力，且沒有明顯的傳統門窗比例。",
+    "Design_Intent_Reading": "以如岩石般的混凝土折板外觀回應周遭嚴峻的自然環境與水壩的巨大尺度，展現水力發電廠堅不可摧的意象。",
+    "Contextual_Relationship": "建築緊鄰攔水壩，坐落於水流宣洩的河道旁，與周圍的針葉林與粗獷的水利工程形成一體。"
+  },
+  "P3": {
+    "Vocabulary_Extraction": ["外牆折板平面圖", "外牆構造剖面", "保溫層", "金屬框架", "預鑄混凝土（推測）"],
+    "Quantity_Estimation": null,
+    "Spatial_Relationship_Descriptions": "構造圖詳細展示了鋸齒狀外牆的幾何劃分方式（E1-E15），以及混凝土外牆與內部保溫層、窗框的結合節點。",
+    "Overall_Spatial_Impression": "圖解說明了看似厚重的混凝土折板立面，實際上是由精密的幾何模組拼裝或澆築而成，兼具美學與隔熱機能。"
+  }
+}

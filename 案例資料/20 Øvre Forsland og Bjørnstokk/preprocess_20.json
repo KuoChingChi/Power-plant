@@ -1,0 +1,18 @@
+// Case20_preprocess.json
+{
+  "P1": {
+    "Vocabulary_Extraction": ["變壓器隔間（推測）", "獨立機房單元", "通風/散熱井", "戶外服務樓梯", "車道"],
+    "Quantity_Estimation": {
+      "ground_floor": ["獨立設備隔間 × 多組", "機房控制室 × 1-2"]
+    },
+    "Spatial_Relationship_Descriptions": "各設備單元呈現矩陣式或並排排列，為了防護或散熱需求，每個單元似乎具有獨立的實體牆體區隔與通風口。",
+    "Overall_Spatial_Impression": "平面展現出嚴格的模組化與高度封閉性，是一種典型為了隔離高壓危險或噪音的防護性基礎設施佈局。"
+  },
+  "P2": {
+    "Design_Vocabulary_Extraction": ["無窗/封閉式立面", "金屬網格/沖孔外牆（推測）", "純粹幾何量體", "隱藏式大門"],
+    "Atmospheric_Description": "外觀呈現堅固、封閉、極簡且冷靜的氛圍，沒有多餘的裝飾，透露出不可靠近的工業基礎設施特徵。",
+    "Spatial_Composition_or_Hierarchy": "整體為一個極度乾淨、封閉的矩形或幾何體積，透過特定材質的肌理包覆，將內部零碎的管線與設備完全隱藏。",
+    "Design_Intent_Reading": "將變電所或其他具危險性/干擾性的都市基礎設施安全地包裹起來，同時以外觀的極簡抽象性降低對市民的視覺衝擊。",
+    "Contextual_Relationship": "安置於都市紋理之中，試圖以低調、安靜的雕塑般外觀成為城市的靜謐背景，減少鄰避效應。"
+  }
+}

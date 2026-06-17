@@ -1,0 +1,24 @@
+// Case08_preprocess.json
+{
+  "P1": {
+    "Vocabulary_Extraction": ["管線區", "鍋爐/儲存槽（推測）", "樓梯", "車道", "煙囪"],
+    "Quantity_Estimation": {
+      "ground_floor": ["大型儲存/處理槽 × 多組", "環形走道 × 1"]
+    },
+    "Spatial_Relationship_Descriptions": "內部設施被包覆在一個膠囊形（跑道形）的平面內，設備呈現線性或群聚排列，外圍被結構與外牆所包覆。",
+    "Overall_Spatial_Impression": "建築量體主要作為包覆內部複雜管線與工業設備的外殼，形成一個純粹的幾何容器。"
+  },
+  "P2": {
+    "Design_Vocabulary_Extraction": ["波浪狀半透明立面（聚碳酸酯或玻璃）", "清水模基座", "輕鋼架屋頂/結構", "內部金屬管線與鍋爐", "反光保溫材質"],
+    "Atmospheric_Description": "外觀呈現朦朧、輕盈的質感，內部則因明亮的採光與錯綜複雜的銀色/紅色管線，帶有乾淨的高科技工業氛圍。",
+    "Spatial_Composition_or_Hierarchy": "外觀分為實體的混凝土底座與輕盈的波浪狀半透明帷幕；內部由纖細的白色鋼骨結構支撐，凸顯了中央的工業設備。",
+    "Design_Intent_Reading": "為區域能源中心（DH ecoenergias）打造一個乾淨、現代且具透明度的外殼，以半透明材質暗示內部能源的流動與轉換。",
+    "Contextual_Relationship": "位於城市邊緣或工業區內，其柔和的半透明外觀在周遭剛硬的廠房環境中顯得獨特。"
+  },
+  "P3": {
+    "Vocabulary_Extraction": ["城市節點", "管網分佈圖", "外牆構造細節", "軸測圖"],
+    "Quantity_Estimation": null,
+    "Spatial_Relationship_Descriptions": "概念圖顯示該設施作為區域供熱 (District Heating) 網路的中心，管線輻射至城市各區；構造圖解釋了半透明波浪板如何附著於主體結構上。",
+    "Overall_Spatial_Impression": "該建築不僅是一個獨立的廠房，更是城市能源基礎設施網絡的關鍵節點。"
+  }
+}

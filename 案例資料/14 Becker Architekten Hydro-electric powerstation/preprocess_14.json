@@ -1,0 +1,23 @@
+// Case14_preprocess.json
+{
+  "P1": {
+    "Vocabulary_Extraction": ["筒狀拱頂 (Vault)", "長條形處理池（推測）", "內部通道", "擋土牆", "採光井"],
+    "Quantity_Estimation": {
+      "ground_floor": ["拱頂處理空間 × 數個（並排）", "附屬操作通道 × 1-2"]
+    },
+    "Spatial_Relationship_Descriptions": "數個平行的拱筒狀空間緊密並排，內部容納大型處理池，空間上方透過採光井與地表連結，整體量體半埋或完全嵌入地形中。",
+    "Overall_Spatial_Impression": "空間策略以連續的拱頂結構覆蓋廣大面積，形成一個順應地勢、向內收斂且低矮的基礎設施空間。"
+  },
+  "P2": {
+    "Design_Vocabulary_Extraction": ["混凝土拱頂", "覆土綠化屋頂", "頂部圓形採光罩", "清水混凝土內牆", "地景建築"],
+    "Atmospheric_Description": "內部空間猶如原始洞穴般幽暗穩重，僅有頂部的天光如聚光燈般灑下，呈現極致的靜謐感與工業遺跡般的氛圍。",
+    "Spatial_Composition_or_Hierarchy": "以連續重複的拱形天花為主導，頂部的採光孔成為幽暗空間中唯一的視覺焦點與光線來源。",
+    "Design_Intent_Reading": "將潛在的鄰避設施（如污水處理或厭氧發酵廠）完美隱藏於覆土綠化之下，達到生態融合並創造戲劇性的內部採光體驗。",
+    "Contextual_Relationship": "建築外觀幾乎完全隱形於周遭的地景與田野中，綠化屋頂使其與自然丘陵融為一體，消解了巨型人造物的邊界。"
+  },
+  "P3": {
+    "Vocabulary_Extraction": ["拱頂結構受力圖解", "覆土層斷面", "採光井節點", "草圖"],
+    "Spatial_and_Structural_Logic": "透過圖解與草圖說明拱狀殼體結構如何有效分散上方的覆土載重，以及採光井如何穿透泥土層為地下空間提供自然光。",
+    "Overall_Impression": "展示了高度整合的「地景建築 (Landscraper)」概念，結構力學與環境隱蔽性在此達到了完美的平衡。"
+  }
+}

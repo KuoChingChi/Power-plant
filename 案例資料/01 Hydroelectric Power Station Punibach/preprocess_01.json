@@ -1,0 +1,18 @@
+// Case01_preprocess.json
+{
+  "P1": {
+    "Vocabulary_Extraction": ["發電機組", "設備室（推測）", "走廊", "樓梯", "卡車裝卸區", "水渠", "地下管線"],
+    "Quantity_Estimation": {
+      "ground_floor": ["發電機組 × 約2台", "附屬房間 × 3-4間（推測）", "裝卸車位 × 1"]
+    },
+    "Spatial_Relationship_Descriptions": "主要機房空間與裝卸區相連，便於設備進出；建築體部分嵌入山坡地形，透過地下管線與外部水渠連接。",
+    "Overall_Spatial_Impression": "空間佈局高度機能導向，配合地形高低差進行設備配置，將工業設施隱藏於地景中。"
+  },
+  "P2": {
+    "Design_Vocabulary_Extraction": ["曲面清水模屋頂", "水平木格柵立面", "隱藏式大門", "半透明內部隔牆", "大型工業設備"],
+    "Atmospheric_Description": "外觀呈現自然、低調且具現代感的氛圍，內部則展現明亮、冷靜的工業機能感。",
+    "Spatial_Composition_or_Hierarchy": "以流暢的混凝土曲面屋頂為視覺主導，包覆著幾何形的木作立面，形成強烈的材質對比與融合。",
+    "Design_Intent_Reading": "設計意圖將基礎設施（推測為水力發電設施）完美融入阿爾卑斯山區的自然斜坡與鄉村地景中，降低視覺衝擊。",
+    "Contextual_Relationship": "建築量體順應山勢，綠化屋頂使其從上方俯瞰時與周圍草地融為一體，與遠處的傳統村落形成和諧對話。"
+  }
+}

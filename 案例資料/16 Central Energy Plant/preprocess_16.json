@@ -1,0 +1,23 @@
+// Case16_preprocess.json
+{
+  "P1": {
+    "Vocabulary_Extraction": ["純圓形平面", "中央設備/處理核心", "環形外圍走廊", "車道與出入口"],
+    "Quantity_Estimation": {
+      "ground_floor": ["圓柱形主量體 × 1", "核心設備區 × 1"]
+    },
+    "Spatial_Relationship_Descriptions": "設施高度集中於圓心，所有空間與設備均依循同心圓的邏輯向外擴展，由最外圈的圓形立面牆體完全包覆。",
+    "Overall_Spatial_Impression": "極致且純粹的幾何圓形佈局，呈現出一種強烈內聚、獨立運作的基礎設施廠房設計。"
+  },
+  "P2": {
+    "Design_Vocabulary_Extraction": ["圓柱體量體", "複雜鏤空磚牆砌築", "無縫曲面立面", "參數化磚砌紋理", "工業設施門柱"],
+    "Atmospheric_Description": "龐大的工業量體因精緻的紅磚砌築工藝而顯得溫暖且細膩，陽光透過鏤空磚牆在表面及內部產生豐富的光影編織效果。",
+    "Spatial_Composition_or_Hierarchy": "連續且無稜角的圓柱立面消除了建築的正反面之分，藉由磚塊的疏密與排列角度創造出如織品般的立面肌理。",
+    "Design_Intent_Reading": "透過將傳統材料（磚）以參數化或特殊砌築工法重新演繹，軟化巨型基礎設施的視覺突兀感，賦予其工藝美學與社區親和力。",
+    "Contextual_Relationship": "其龐大的圓形量體成為所在區域的地標，但溫潤的磚紅色調使其能與周遭的傳統磚造建築或城市色彩產生對話。"
+  },
+  "P3": {
+    "Vocabulary_Extraction": ["磚牆砌築節點", "鋼構固定件", "參數化排磚平面", "立面展開圖（推測）"],
+    "Spatial_and_Structural_Logic": "詳細圖解了不規則或漸變的鏤空磚牆如何透過隱藏的金屬支撐件與背後的結構體結合，並展示了曲面放樣的精確度。",
+    "Overall_Impression": "展現了立面美學背後嚴謹的構造技術與材料科學，解釋了看似傳統的磚塊如何實現複雜的現代幾何曲面。"
+  }
+}

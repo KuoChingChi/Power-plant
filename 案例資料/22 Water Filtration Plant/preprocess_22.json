@@ -1,0 +1,24 @@
+// Case22_preprocess.json
+{
+  "P1": {
+    "Vocabulary_Extraction": ["雙坡屋頂", "地上控制機房（推測）", "地下發電/渦輪室", "進水管道", "尾水渠道"],
+    "Quantity_Estimation": {
+      "ground_floor": ["地上機房空間 × 1"],
+      "underground": ["發電機組區 × 1"]
+    },
+    "Spatial_Relationship_Descriptions": "建築呈立體化配置，地上部分保持小巧的農舍尺度，大部分複雜的水利機電設施與管線皆隱藏於地下深處，與水體直接相連。",
+    "Overall_Spatial_Impression": "空間佈局順應水文與地形高低差，呈現出「地上微型化、地表下巨大化」的基礎設施特徵。"
+  },
+  "P2": {
+    "Design_Vocabulary_Extraction": ["傳統雙坡屋頂 (Gable roof)", "木瓦/木板外牆", "無簷口極簡細部", "混凝土基座", "自然地景"],
+    "Atmospheric_Description": "散發出質樸、溫潤且與自然和諧共處的氛圍，若不仔細觀察，宛如一棟傳統的鄉村小木屋。",
+    "Spatial_Composition_or_Hierarchy": "外觀以極簡的房屋原型（Prototype）呈現，去除了多餘的開窗與裝飾，強調整體木質量體的純粹感。",
+    "Design_Intent_Reading": "採用在地傳統建築類型學（Typology）進行偽裝與轉譯，讓微型水力發電廠能以最謙卑的姿態融入敏感的自然鄉野環境中。",
+    "Contextual_Relationship": "坐落於靜謐的河畔與茂密的林木之間，木質外觀與周遭自然色彩相互呼應，完美消融於地景之中。"
+  },
+  "P3": {
+    "Vocabulary_Extraction": ["概念手繪草圖", "形式推演圖", "水流剖面概念"],
+    "Spatial_and_Structural_Logic": "手繪圖說明了設計思維如何將傳統斜屋頂建築的形式，與地下水力發電的水流落差、渦輪運轉邏輯進行幾何與機能的結合。",
+    "Overall_Impression": "展現了從地方傳統建築符號提取靈感，並將其覆蓋於現代工程設備之上的設計轉化過程。"
+  }
+}

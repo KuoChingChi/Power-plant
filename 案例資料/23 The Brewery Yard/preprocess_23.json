@@ -1,0 +1,18 @@
+// Case23_preprocess.json
+{
+  "P1": {
+    "Vocabulary_Extraction": ["水壩擋水主體", "渦輪發電機室", "地下/壩體內通道", "引水鋼管", "溢流道"],
+    "Quantity_Estimation": {
+      "overall": ["發電機組 × 多組（推測）", "大型壩體結構 × 1"]
+    },
+    "Spatial_Relationship_Descriptions": "建築空間完全從屬於巨型的水利工程結構，機房與控制空間深深嵌於壩體底部或兩側岩盤中，依賴巨大的高低落差運作。",
+    "Overall_Spatial_Impression": "空間被龐大的工程力學與流體力學所主導，建築退居成為支撐巨大水壩設施的輔助性空穴。"
+  },
+  "P2": {
+    "Design_Vocabulary_Extraction": ["巨型混凝土壩體", "雙曲面/拱壩造型", "外露管道/閘口", "大型起重天車", "陣列式發電機組"],
+    "Atmospheric_Description": "外觀充滿粗獷主義的壓倒性力量感與壯偉感；內部機房則呈現高度機械化、重複且冰冷的工業秩序。",
+    "Spatial_Composition_or_Hierarchy": "以水壩巨大的混凝土曲面佔據絕對的主導地位，附屬機房或溢洪道等設施沿著壩體底端或兩側配置，與壩體形成極端懸殊的尺度對比。",
+    "Design_Intent_Reading": "毫無掩飾地展現人造結構對抗自然水力與重力的工程極致，追求純粹的結構效能與工業機能，形成雄偉的基礎設施美學。",
+    "Contextual_Relationship": "橫跨於深邃的河谷或峽谷之間，藉由巨大的人造物攔截河水，徹底重塑了當地的自然地理與水文景觀。"
+  }
+}

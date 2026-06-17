@@ -1,0 +1,18 @@
+// Case06_preprocess.json
+{
+  "P1": {
+    "Vocabulary_Extraction": ["主廠房", "垃圾儲存坑 (Waste Bunker)", "鍋爐室 (Boiler)", "煙氣處理區 (Flue Gas Treatment)", "煙囪", "冷卻塔", "廢水處理設施"],
+    "Quantity_Estimation": {
+      "overall": ["主環形建築 × 1", "附屬處理設施群 × 多組", "高聳煙囪 × 1組"]
+    },
+    "Spatial_Relationship_Descriptions": "所有核心垃圾處理流程（傾倒、儲存、燃燒、處理）皆被包裹在一個巨大的圓形量體內，並呈現線性的工藝流程排列。周邊環繞著冷卻、水處理等附屬圓形設施。",
+    "Overall_Spatial_Impression": "這是一個極度龐大且巨型化的工業基礎設施，以單一的幾何純粹形體（圓形）統合了複雜的工業製程。"
+  },
+  "P2": {
+    "Design_Vocabulary_Extraction": ["巨型圓形屋頂", "太陽能板屋頂", "立體鋼管桁架結構", "木質（或仿木）格柵外觀", "金屬煙囪"],
+    "Atmospheric_Description": "外觀宏偉且具未來感，巨大的尺度在山林間顯得壯觀；內部因交錯的鋼結構與光影，展現出強烈的結構美學與工業力量感。",
+    "Spatial_Composition_or_Hierarchy": "以圓形為主軸，巨大的平緩屋頂覆蓋整個廠區，內部透過繁複的斜交網格鋼結構支撐，形成沒有落柱的超大跨度空間。",
+    "Design_Intent_Reading": "試圖打破傳統垃圾焚化廠的厭惡設施形象，將其轉化為一座對環境友好（推測有太陽能、綠化）、具地標性的現代科技廠房。",
+    "Contextual_Relationship": "巨大的圓形量體座落於群山環繞的谷地中，與自然山際線形成強烈的人造與自然對比。"
+  }
+}

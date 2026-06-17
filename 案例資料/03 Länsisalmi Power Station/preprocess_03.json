@@ -1,0 +1,19 @@
+// Case03_preprocess.json
+{
+  "P1": {
+    "Vocabulary_Extraction": ["高壓電塔", "變壓器/電氣設備（推測）", "機房", "樓梯", "走廊", "控制室（推測）"],
+    "Quantity_Estimation": {
+      "ground_floor": ["大型機房 × 1", "附屬隔間 × 3-4"],
+      "upper_floors": ["走道/挑空區 × 1（推測）"]
+    },
+    "Spatial_Relationship_Descriptions": "主要建築量體呈矩形，內部為大跨距機房空間。戶外高壓電塔直接跨越並連接至建築物上方的設備。",
+    "Overall_Spatial_Impression": "空間邏輯簡潔明確，主要為容納大型電氣設備的機能性廠房，注重結構的跨度與設備的垂直聯繫。"
+  },
+  "P2": {
+    "Design_Vocabulary_Extraction": ["半透明外牆（U型玻璃/聚碳酸酯板）", "混凝土基座", "外露鋼結構", "絕緣礙子", "高壓電纜"],
+    "Atmospheric_Description": "白天呈現冰冷、純粹的幾何量體感；夜晚則因內部照明透出，轉變為輕盈、發光的發光體，帶有科技感。",
+    "Spatial_Composition_or_Hierarchy": "建築分為沉穩的實體混凝土基座與輕盈的半透明發光上半部，上方被巨大的金屬桁架與電纜網籠罩，形成強烈的尺度對比。",
+    "Design_Intent_Reading": "將原本生硬的工業設施轉化為地景中的光影雕塑，透過材質透光性展現內部的能量感。",
+    "Contextual_Relationship": "位於被雪覆蓋的空曠場地或道路旁，其發光的立面成為該區域夜間的視覺地標。"
+  }
+}

@@ -1,0 +1,18 @@
+// Case21_preprocess.json
+{
+  "P1": {
+    "Vocabulary_Extraction": ["圓柱形平面", "內部儲存槽/處理單元（推測）", "環形走廊", "樓梯/垂直動線", "車道出入口"],
+    "Quantity_Estimation": {
+      "overall": ["巨型圓柱量體 × 1", "核心設備空間 × 1"]
+    },
+    "Spatial_Relationship_Descriptions": "整體平面呈純粹的圓形，內部空間依循同心圓邏輯佈局，設備或儲槽位於核心，並被厚實的外牆所包覆。",
+    "Overall_Spatial_Impression": "展現極致的幾何純粹性與內向集中感，將基礎設施封裝於一個簡單、無方向性的圓柱體容器中。"
+  },
+  "P2": {
+    "Design_Vocabulary_Extraction": ["封閉圓柱體", "金屬網格/格柵立面（推測）", "混凝土基座", "無窗外牆"],
+    "Atmospheric_Description": "外觀呈現出沉默、靜謐且具紀念碑性質的氛圍，龐大而抽象的幾何體帶來強烈的視覺震撼與工業神秘感。",
+    "Spatial_Composition_or_Hierarchy": "以巨大的單一圓柱體量為主導，透過立面材料的漸變或肌理分割，軟化了原本生硬的巨大量體。",
+    "Design_Intent_Reading": "試圖將大型基礎設施（如儲氣槽或污水處理塔）轉化為抽象的都市雕塑，以極簡的形態降低工業設施對環境的干擾。",
+    "Contextual_Relationship": "矗立於水岸、港口或工業區中，其巨大的幾何形態在平坦的地形上成為一個強烈的垂直地標。"
+  }
+}

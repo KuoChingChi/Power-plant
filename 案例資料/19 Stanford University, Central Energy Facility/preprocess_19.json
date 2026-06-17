@@ -1,0 +1,24 @@
+// Case19_preprocess.json
+{
+  "P1": {
+    "Vocabulary_Extraction": ["水輪發電機組（推測）", "線性機房", "觀景走道", "控制室/辦公區", "跨越水體的結構"],
+    "Quantity_Estimation": {
+      "ground_floor": ["發電機組/幫浦 × 多組", "附屬機房 × 1"],
+      "second_floor": ["參觀廊道/辦公室 × 1（推測）"]
+    },
+    "Spatial_Relationship_Descriptions": "建築呈水平線性發展，機房設備沿著河流或地形軸線陣列排布；工作動線與潛在的公眾參觀動線在剖面上可能呈現立體分離。",
+    "Overall_Spatial_Impression": "結合基礎設施運作與人員活動的線性廠房，空間佈局清晰且順應水文與自然地勢發展。"
+  },
+  "P2": {
+    "Design_Vocabulary_Extraction": ["水平橋狀量體", "大面積玻璃帷幕", "清水混凝土基座", "木質格柵裝飾", "水岸景觀"],
+    "Atmospheric_Description": "整體氛圍明亮、通透且親切，木質元素的加入中和了混凝土與重工業設備的冷硬，帶有極強的公共空間親和力。",
+    "Spatial_Composition_or_Hierarchy": "水平延伸的長條形量體跨越或緊鄰水面，實體的混凝土基座與輕透的玻璃上半部形成強烈的虛實對比。",
+    "Design_Intent_Reading": "試圖打破水力發電站或幫浦站等水利設施的封閉感，透過大面積開窗提供透明度，讓公眾能看見內部運作，具備教育與展示意味。",
+    "Contextual_Relationship": "宛如一座橋樑或水上觀景廊道，建築物不僅處理水資源，更直接與周遭的水文生態景觀密切互動、融為一體。"
+  },
+  "P3": {
+    "Vocabulary_Extraction": ["環境分析圖", "植栽/生態配置", "機能區塊分佈圖 (Program diagram)"],
+    "Spatial_and_Structural_Logic": "透過圖示表達了建築量體如何回應河道地形、水流方向，以及內部廠房區、公共區與周邊生態綠帶的系統性整合。",
+    "Overall_Impression": "圖解強調了該基礎設施並非孤立的建築體，而是一個與自然生態、水文系統及公眾活動高度整合的環境節點。"
+  }
+}

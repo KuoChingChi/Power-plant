@@ -1,0 +1,18 @@
+// Case07_preprocess.json
+{
+  "P1": {
+    "Vocabulary_Extraction": ["中央設備區（鍋爐/燃燒爐，推測）", "環形走廊/參觀動線", "辦公/多功能空間", "樓梯", "洗手間", "裝卸車道"],
+    "Quantity_Estimation": {
+      "ground_floor": ["中央大型設備 × 1組", "辦公室/控制室 × 1-2間", "環形廊道 × 1"]
+    },
+    "Spatial_Relationship_Descriptions": "平面配置為同心圓/多邊形放射狀，中央放置核心設備，周圍環繞著辦公、服務空間以及環形的外圍廊道，動線圍繞中心運作。",
+    "Overall_Spatial_Impression": "空間策略強調核心設備的展示與集中性，並利用環形外觀最大化周邊景觀視野。"
+  },
+  "P2": {
+    "Design_Vocabulary_Extraction": ["多邊形/圓形量體", "外露斜向木構柱", "大面積玻璃帷幕", "金屬圓頂", "金屬網格地板"],
+    "Atmospheric_Description": "結合了木材的溫潤與玻璃/金屬的冷冽，整體明亮且通透，氛圍較為開放且具教育/展示意味。",
+    "Spatial_Composition_or_Hierarchy": "建築立面由連續交錯的V字型/X型木斜柱構成外圍結構框架，內部退縮的玻璃帷幕創造出半戶外的環形迴廊，層次分明。",
+    "Design_Intent_Reading": "將能源設施（推測為生質能或區域供熱站）透明化、公共化，透過木構造展現環保與永續的理念。",
+    "Contextual_Relationship": "矗立於開闊的農田或原野中，其獨特的幾何造型與木質外觀與周遭鄉村景色相呼應。"
+  }
+}
