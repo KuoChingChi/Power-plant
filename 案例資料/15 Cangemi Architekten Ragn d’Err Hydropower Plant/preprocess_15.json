@@ -1,18 +1,42 @@
-// Case15_preprocess.json
 {
-  "P1": {
-    "Vocabulary_Extraction": ["多邊形幾何平面", "高挑核心機房", "通風百葉/格柵走道", "附屬服務核 (Core)"],
-    "Quantity_Estimation": {
-      "overall": ["中央大型機房 × 1", "環邊通風服務區 × 1組"]
+  "Case_15_preprocess": {
+    "P1_Architectural_Drawings": {
+      "Vocabulary_Extraction": [
+        "泵房 (Pump Room)",
+        "過濾區 (Filtration Area)",
+        "儲水槽 (Water Storage Tank)",
+        "控制室 (Control Room)",
+        "變壓器室 (Transformer Room)",
+        "清水池 (Clear Water Tank)",
+        "木屋架 (Timber Roof Truss)",
+        "起重設備 (Crane)",
+        "泵機組 (Pump Units)",
+        "砂濾池 (Sand Filters)",
+        "反沖洗水槽 (Backwash Water Tank)",
+        "雙坡斜屋頂 (Gabled roof)（推測）"
+      ],
+      "Quantity_Estimation": {
+        "泵機組": "約4-6組（推測）",
+        "砂濾池/過濾區": "多座並排（推測）",
+        "地下水槽/清水池": "1大區塊（佔據大部分地下面積）",
+        "控制與輔助機房": "約2-3間"
+      },
+      "Spatial_Relationship_Descriptions": "建築剖面呈明顯的上下分層關係：地底深處配置龐大的清水池與砂濾池等蓄水與過濾設施，地面層則為主泵房與機電區。平面配置上，大型的泵機組與過濾槽整齊排列於挑高的主空間內，輔助性的控制室與變壓器室則緊湊地佈置於側邊，上方並設有起重設備供維護使用。",
+      "Overall_Spatial_Impression": "透過將龐大且繁雜的水處理與儲蓄體積隱藏於地下，地面上則以單純的雙坡屋頂大跨距木構空間覆蓋核心機具，實現了高效的重力水力邏輯與極為簡潔的建築型態。"
     },
-    "Spatial_Relationship_Descriptions": "平面呈不規則的多邊形折線，設施的核心設備集中於挑高的中央區域，外圍則被機電走道或通風百葉層層包裹。",
-    "Overall_Spatial_Impression": "空間完全服膺於大型設備的放置與通風散熱需求，利用雕塑般的多邊形外殼包裹純粹的工業機能。"
-  },
-  "P2": {
-    "Design_Vocabulary_Extraction": ["幾何折板立面", "暗色金屬外牆", "大面積通風格柵", "隱藏式出入口", "封閉式量體"],
-    "Atmospheric_Description": "外觀宛如一塊神秘、冷峻的黑色多邊形岩石，帶有強烈的未來科技感與雕塑感，內部則為純粹冰冷的鋼鐵設備。",
-    "Spatial_Composition_or_Hierarchy": "巨大的體量透過不規則的幾何切割與折板設計來打破單調感，不同角度的折面在光線下產生豐富的明暗變化。",
-    "Design_Intent_Reading": "將變電站或冷卻設施等龐大且封閉的城市基礎設施轉化為一件當代都市雕塑，減少對城市的壓迫感。",
-    "Contextual_Relationship": "座落於開闊場域或城市邊緣，其深色且具稜角的幾何外觀與周遭環境形成強烈對比，成為一個低調卻引人注目的焦點。"
+    "P2_Photographs_or_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "雙坡斜屋頂 (Gabled roof)",
+        "深色垂直木格柵/金屬皮層 (Vertical dark timber/metal cladding)",
+        "巨型木構造屋架 (Exposed timber roof trusses)",
+        "大面積採光窗 (Large windows/glazing)",
+        "藍色工業管線與機具 (Blue industrial pipes and pumps)",
+        "自然水岸景觀 (Waterfront landscape)"
+      ],
+      "Atmospheric_Description": "外部因深色垂直皮層與自然環境完美融合，顯得低調、靜謐且質樸，猶如湖畔的傳統木屋。內部則藉由溫潤的木構屋架與充足的自然採光，展現出明亮、溫暖且充滿結構美學的氛圍，與下方冷調、鮮豔的藍色重型水利設備形成有趣的視覺對比。",
+      "Spatial_Composition_or_Hierarchy": "外部視覺為一個極簡且純粹的雙坡屋頂量體。內部空間的透視感則由連續的木桁架序列強烈定義，創造出深遠的空間韻律；而整齊排列的藍色泵機組則成為整個挑高空間的視覺與機能核心。",
+      "Design_Intent_Reading": "企圖將重型水利基礎設施（抽水站/淨水廠）去工業化。藉由採用類似傳統穀倉或木屋的建築語彙與自然色系的皮層，使其不僅能完美隱匿於湖畔林間，更將內部機房轉化為具有工藝美感與紀念性的空間。",
+      "Contextual_Relationship": "座落於廣闊湖泊或水域的邊緣，周圍被茂密的自然林木環繞。建築量體謙遜地將身影倒映在水面上，與自然地景形成了極度和諧、幾乎融為一體的共生關係。"
+    }
   }
 }
