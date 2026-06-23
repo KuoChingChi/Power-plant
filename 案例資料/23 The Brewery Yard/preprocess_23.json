@@ -1,0 +1,38 @@
+{
+    "Case23_preprocess": {
+    "P1": {
+      "VocabularyExtraction": [
+        "舊磚牆立面 (Historic Brick Facade)",
+        "三聯產機房層 (Tri-generation Plant Deck)",
+        "挑高工業設備大廳 (High-Bay Industrial Equipment Hall)",
+        "行政辦公空間 (Administrative & Occupancy Floors)",
+        "金屬波浪屋面 (Metal curved roof)",
+        "煙囪構築 (Flue Stack Structure/Historic Chimney)",
+        "新置鋼構系統 (New Steel Frame System)"
+      ],
+      "QuantityEstimation": [
+        "頂層: 整合式三聯產機組 x 3",
+        "底層: 挑高大廳 x 1 (跨越多個原樓層高度)",
+        "側邊: 行政/生活空間 x 3層 (推測)",
+        "外部: 歷史磚造大煙囪 x 1"
+      ],
+      "SpatialRelationship": "採用「寄生」與「疊加」的空間策略。新的巨大鋼骨結構穿越並支撐於歷史磚造廠房的軀殼內，並在屋頂層向上突出，承載全新的能源機組與金屬曲面外殼。",
+      "OverallSpatialImpression": "極具張力的新舊共構空間，現代巨大的綠能基礎設施如同異質物體般殖入並生長於傳統工業遺產之上。"
+    },
+    "P2": {
+      "DesignVocabularyExtraction": [
+        "古典磚造立面與圓拱窗 (Classical brick facade & arch windows)",
+        "流線型金屬網沖孔曲面屋頂 (Curved perforated metal mesh roof)",
+        "巨大的排氣罩/通風井 (Large exhaust cowls)",
+        "外露的巨型鋼桁架結構 (Exposed giant steel truss)"
+      ],
+      "AtmosphericDescription": "帶有強烈的「賽博龐克 (Cyberpunk)」色彩與戲劇性的衝突感。底層紅磚展現了歲月的厚重與歷史沉澱，頂部閃耀的金屬曲面則帶來未來科技感與流動性。",
+      "SpatialComposition": "立面上呈現明確的垂直斷代分層：下半部為穩重對稱的古典磚牆，上半部為輕盈、不對稱且具動態感的金屬構造。兩者之間透過新置入的黑色巨大鋼構作為中介與支撐。",
+      "DesignIntentReading": "在保存釀酒廠工業遺產記憶的同時，植入先進的三聯產(熱、電、冷)能源中心。設計刻意不隱藏新設施，反而以極具未來感的外殼將其彰顯，象徵從傳統工業向永續綠能工業的轉型。",
+      "ContextualRelationship": "作為都市更新區(Central Park)的核心能源站與視覺地標，不僅與周圍現代高樓林立的環境對話，也錨定了該區域的歷史座標。"
+    },
+    "P3": {
+      "Analysis": "缺乏P3檔案，忽略該項分析。"
+    }
+  }
+}

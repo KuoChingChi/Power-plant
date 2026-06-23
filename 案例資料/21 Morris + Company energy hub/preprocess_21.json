@@ -1,0 +1,40 @@
+{
+"Case21_preprocess": {
+    "P1": {
+      "VocabularyExtraction": [
+        "能源生產區 (Energy Production)",
+        "鍋爐 (Boilers)",
+        "熱水儲水槽 (Hot water tanks)",
+        "煙囪管道 (Stack/CHP riser)",
+        "托兒所 (Nursery)",
+        "入口大廳 (Entrance foyer)",
+        "咖啡廳/多功能空間 (Cafe/Multi use space)",
+        "戶外露台 (Terrace)"
+      ],
+      "QuantityEstimation": [
+        "GF: 鍋爐 x 2, 巨大儲水槽 x 2, 變電空間 x 3, 托兒所服務空間 x 4 (推測)",
+        "1F: 咖啡/多功能空間 x 1",
+        "2F: 托兒所主要空間 x 1, 戶外露台 x 1",
+        "3F: 托兒所空間 x 1, 戶外露台 x 1"
+      ],
+      "SpatialRelationship": "能源設施(鍋爐、水槽)垂直貫穿並集中於建築一側的巨大挑高量體中；托兒所與咖啡廳等社區公共空間則依附於另一側。兩者在實體上被牆體與服務核分隔，但在同一建築輪廓內共存。",
+      "OverallSpatialImpression": "將鄰避性的重型能源基礎設施與社區公共空間(托兒所)整合於同一不規則幾何量體中，形成機能高度複合的都市設施。"
+    },
+    "P2": {
+      "DesignVocabularyExtraction": [
+        "穿孔金屬板外牆 (perforated metal cladding)",
+        "方形矩陣開窗 (square windows)",
+        "塔狀煙囪量體 (chimney volume)",
+        "紅色工業儲水槽 (red industrial tanks)",
+        "外露鋼骨結構 (exposed steel structure)"
+      ],
+      "AtmosphericDescription": "建築外觀呈現強烈的科技感與輕盈感，半透明的金屬沖孔板在光線照射下呈現細膩的光澤；內部則因巨大的紅色水槽與鋼構呈現出粗獷的工業氛圍。",
+      "SpatialComposition": "由幾個不同高度的方整量體錯落咬合而成，最高處為包裹煙囪的塔樓。統一的金屬表皮模糊了樓層界線，使整體如同一個抽象的雕塑。",
+      "DesignIntentReading": "意圖將傳統上不受歡迎的發電設施轉化為現代都市地標。透過半透明的金屬表皮，隱約展示內部運行的紅色設備，將「能源生產」視覺化並賦予其當代美學。",
+      "ContextualRelationship": "置入於傳統磚造住宅與歷史建築密集的都市紋理中，以其銀灰色的金屬冷調質感與周遭形成強烈的新舊對比與地標性。"
+    },
+    "P3": {
+      "Analysis": "缺乏P3檔案，忽略該項分析。"
+    }
+  }
+}

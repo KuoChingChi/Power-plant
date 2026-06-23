@@ -1,0 +1,34 @@
+{
+    "Case22_preprocess": {
+    "P1": {
+      "VocabularyExtraction": [
+        "核心曝氣/沉澱池區域 (Aeration & Sedimentation Tank Zone)",
+        "機電控制與設備維護房 (M&E Control & Maintenance Room)",
+        "夯土牆體構築 (Rammed Earth Construction Tectonic)",
+        "外部水道 (External Channel)",
+        "景觀草坪 (Landscape Lawn)"
+      ],
+      "QuantityEstimation": [
+        "地下層: 大型沉澱/曝氣池 x 4大組 (推測)",
+        "地面層: 機電控制與行政空間 x 1"
+      ],
+      "SpatialRelationship": "將龐大的水處理設施(曝氣與沉澱池)全面地下化，地面上僅露出線性的機電控制室與厚實的夯土牆面，與外部的水道和草坪形成平行的水平向度關係。",
+      "OverallSpatialImpression": "基礎設施地景化，透過將主要工業量體隱藏於地下，使地面層的建築成為自然環境延伸的一部分。"
+    },
+    "P2": {
+      "DesignVocabularyExtraction": [
+        "紅色夯土/有色混凝土牆 (Rammed earth/pigmented concrete walls)",
+        "水平紋理 (Layered texture)",
+        "木條柵面板 (Timber slatted panels)",
+        "線性幾何量體 (Linear volume)"
+      ],
+      "AtmosphericDescription": "散發出質樸、寧靜且低調的大地氛圍。帶有暖紅色的粗糙牆面與木紋質感，在空曠的自然景觀中顯得溫潤且具時光感。",
+      "SpatialComposition": "極度水平向發展的幾何量體，透過幾道平行且厚重的實體牆面界定空間，立面上僅有極少數的開口與退縮。",
+      "DesignIntentReading": "將現代化的淨水設施偽裝成宛如古代遺址或傳統農業構築的地景藝術。利用天然的材質與色彩，將建築視覺衝擊降至最低，強調與大地的共生。",
+      "ContextualRelationship": "建築安靜地伏貼於平坦的溼地與農田景觀中，與前方的水渠及新植栽的樹木形成水平向的線性呼應。"
+    },
+    "P3": {
+      "Analysis": "手繪草圖(Hand drawing01 & 02)揭示了建築師將牆體(Muri)、水流動線與低矮植栽(piantumazione bassa)視為平行的線性元素進行疊加(layering)的設計思維。草圖中的紅色線條強調了建築構造如何作為一種「過濾」或「引導」的介面，介入自然的溼地地景中。"
+    }
+  }
+}
