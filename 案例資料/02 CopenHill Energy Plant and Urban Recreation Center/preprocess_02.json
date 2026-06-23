@@ -1,0 +1,50 @@
+{
+    "Case02_preprocess": {
+    "P1_Drawings": {
+      "Vocabulary_Extraction": [
+        "滑雪道 (Ski slopes)",
+        "焚化爐區 (Furnace Area)",
+        "垃圾儲坑 (Waste Bunker)",
+        "傾卸大廳 (Tipping Hall)",
+        "煙囪 (Smokestack)",
+        "行政/辦公區 (Administration/Office)",
+        "遊客中心 (Visitor Center)",
+        "攀岩牆 (Climbing wall)",
+        "卡車坡道 (Truck ramp)",
+        "纜車系統 (Ski lifts)"
+      ],
+      "Quantity_Estimation": {
+        "Ground_Floor": "垃圾儲坑 x 1區，傾卸大廳 x 1區，焚化爐區 x 1套，行政與接待區 x 1區。(推測)",
+        "Roof_Floor": "不同坡度的滑雪道 x 3條，魔毯纜車 x 2座，轉盤纜車 x 2座，攀岩牆 x 1面。(推測)"
+      },
+      "Spatial_Relationship_Descriptions": "重工業製程（廢棄物轉化能源系統）構成了建築巨大的內部核心，而建築的外殼與屋頂則包裹著這個工業核心，轉化為公共休閒空間（滑雪坡、健行步道與攀岩牆）。垃圾車由底部坡道進入傾卸大廳，而遊客則在屋頂的斜面上活動。",
+      "Overall_Spatial_Impression": "這是一個極具顛覆性的空間混合體，將封閉、重型的工業廠房轉化為開放的城市公共遊樂場（人造山岳）。"
+    },
+    "P2_Photos_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "鋁製堆疊立面磚 (Aluminum brick facade)",
+        "綠化屋頂與人造滑雪毯 (Green roof and artificial ski slope)",
+        "巨大的工業煙囪 (Massive smokestack)",
+        "巨型內部鋼構桁架 (Massive internal steel truss structures)",
+        "工業貓道與管線 (Industrial catwalks and piping)"
+      ],
+      "Atmospheric_Description": "外觀呈現出一種紀念性、未來感且充滿活力的氛圍，像是一座金屬山峰。室內則充滿高度複雜的管線、閃亮的金屬與粗獷的鋼構，給人一種震撼且純粹的重工業氛圍。",
+      "Spatial_Composition_or_Hierarchy": "建築量體呈現巨大的楔形，其斜度完全由屋頂滑雪道的需求與內部機械的高低差所決定。連續的金屬磚立面包覆了整個錯綜複雜的工業內部空間。",
+      "Design_Intent_Reading": "設計試圖打破人們對垃圾發電廠的厭惡與刻板印象，將其轉變為具備經濟、環境與社會效益的城市地標與休閒勝地，實現「享樂永續主義」（Hedonistic Sustainability）。",
+      "Contextual_Relationship": "位於哥本哈根的工業港口區，在一個原本平坦的城市景觀中，憑空創造出一座具有地形起伏的「高山」，成為周遭海際線中最顯眼的地標。"
+    },
+    "P3_Details_Diagrams": {
+      "Analysis_based_on_texts_include_in_images": {
+        "Diagram_01_Three_Pists": "屋頂幾何形狀提供三種不同坡度的滑雪道，滿足從初學者到專業人士的需求，滑雪道與地形公園總長超過500公尺。",
+        "Diagram_02_Slope_Access": "透過緊鄰煙囪的玻璃電梯可進入滑雪道，讓運動愛好者與遊客能一窺工廠內部運作。另設有2座轉盤纜車與2座魔毯纜車。",
+        "Diagram_03_Smoke_Rings": "煙囪經過特殊設計改造，每當排放1噸化石二氧化碳時就會吐出一個煙圈，作為一種溫和的溝通功能，提醒大眾消費行為對環境的影響。",
+        "Diagram_04_Green_Walls": "立面上的磚塊同時具備植栽槽（Planters）的功能，創造出綠色立面，使建築從遠處看宛如一座有著白色山頂的綠色山丘。",
+        "Diagram_05_Facade": "建築被由鋁磚堆疊而成的連續立面輕柔包裹，磚塊間的開口讓自然光得以如瀑布般灑入深層的處理大廳與行政空間。",
+        "Diagram_06_Program": "新廢棄物發電廠的內部量體由工程與技術標準決定。為了滿足龐大尺寸與精確定位的需求，建築的主結構與機械設備進行了高度整合。",
+        "Diagram_07_Fun_Factory": "設計提案提出一種新型態的廢棄物發電廠，不僅在經濟與環境上獲利，更能產生社會效益。將立面設計視為回饋在地環境的契機，而非孤立的建築物件。",
+        "Diagram_08_Take_a_walk_in_the_park": "屋頂不僅作為滑雪場，更像是一座真實的山岳，擁有綠色森林區、健行步道、攀岩牆，甚至可能有登山車道。坡道頂部設有觀景平台與小咖啡廳。",
+        "Diagram_09_Alpine_Skiing_in_Copenhagen": "將廢棄物發電廠的屋頂轉化為哥本哈根市民的人造滑雪坡，實現全年無休的滑雪體驗。這是一個生態友善的滑雪坡，顛覆了傳統高耗能室內或高山滑雪場的慣例。"
+      }
+    }
+  }
+}

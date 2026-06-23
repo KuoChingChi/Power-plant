@@ -1,0 +1,33 @@
+{
+    "Case06_preprocess": {
+    "P1_Drawings": {
+      "Vocabulary_Extraction": [
+        "大跨距/挑高空間 (Long-span/Double-height Space)",
+        "地景式階梯/坡道 (Landscaped Stairs/Ramps)",
+        "連續性展演或集會空間 (Continuous Exhibition/Assembly Space)",
+        "外部景觀廣場 (Exterior Plaza)"
+      ],
+      "Quantity_Estimation": {
+        "Overall": "主要核心大空間 x 1座，外部連通廣場 x 1區。(推測)"
+      },
+      "Spatial_Relationship_Descriptions": "建築剖面顯示出內部空間與外部基地地形的強烈對話，可能透過緩坡或階梯將戶外地景延伸至室內，形成無縫接軌的流動空間。各層空間之間具有視覺上的穿透與高度上的錯落疊合。(推測)",
+      "Overall_Spatial_Impression": "此建築試圖打破室內外邊界，將空間化作地形的延伸，創造出極具公共性與動態感的遊走體驗。(推測)"
+    },
+    "P2_Photos_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "流線或幾何型屋頂 (Fluid/Geometric Roof)",
+        "景觀玻璃幕牆 (Scenic Glass Curtain Wall)",
+        "開放式室內大廳 (Open Interior Hall)",
+        "戶外景觀元素 (Outdoor Landscape Elements)"
+      ],
+      "Atmospheric_Description": "整體氛圍極具開放性與紀念感。充足的光線灑入龐大的室內空間，結合流暢的建築線條，給人一種宏偉卻不壓迫的公共殿堂感。(推測)",
+      "Spatial_Composition_or_Hierarchy": "空間層次由外部開闊的廣場，逐漸過渡到被巨大屋頂覆蓋的半戶外空間，再進入全室內的大廳，形成一條連續且深邃的空間軸線。(推測)",
+      "Design_Intent_Reading": "設計旨在創造一個標誌性的城市節點或文化容器，透過極具張力的形體與高度透明的外殼，邀請大眾進入並參與其中。(推測)"
+    },
+    "P3_Details_Diagrams": {
+      "Analysis_based_on_texts_include_in_images": {
+        "Diagram_01_to_11": "一系列的概念圖（推測）詳細拆解了建築的形塑過程：從初始基地分析、量體切割、拉伸與錯位，以回應周遭景觀視角或日照通風需求。圖解可能也包含了動線組織（如何引導人群）與機能分區的立體堆疊邏輯，最終形成目前的複雜幾何形態。(推測)"
+      }
+    }
+  }
+}

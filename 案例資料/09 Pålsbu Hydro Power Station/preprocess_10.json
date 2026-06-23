@@ -1,0 +1,34 @@
+{
+    "Case09_preprocess": {
+    "P1_Drawings": {
+      "Vocabulary_Extraction": [
+        "覆土/地下空間 (Earth-sheltered/Underground Space)",
+        "天井/下沉庭院 (Sunken Courtyard/Lightwell)",
+        "不規則平面/有機曲線 (Irregular Plan/Organic Curves)",
+        "景觀步道 (Landscape Paths)"
+      ],
+      "Quantity_Estimation": {
+        "Overall": "下沉採光庭院 x 1-2處，蜿蜒展廊或動線 x 1條。(推測)"
+      },
+      "Spatial_Relationship_Descriptions": "建築平面與剖面顯示量體大幅度隱蔽於地表之下，內部空間的採光與通風高度仰賴局部切開的下沉庭院或採光井。空間佈局呈現非線性、蜿蜒的遊走動線，與自然地貌交融。(推測)",
+      "Overall_Spatial_Impression": "這是一座屬於大地景觀（Land Art）式的建築，將龐大的空間體積謙卑地藏入地形之中，創造出一種向內探索、洞穴般的空間體驗。(推測)"
+    },
+    "P2_Photos_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "綠化屋頂/人造微地形 (Green Roof/Artificial Topography)",
+        "清水混凝土牆體 (Exposed Concrete Walls)",
+        "無邊界水池或自然景觀 (Infinity Pool/Natural Landscape)",
+        "隱蔽式入口 (Concealed Entrance)"
+      ],
+      "Atmospheric_Description": "極度神秘、靜謐且充滿原始力量感。建築外觀幾乎不可見，只留下地表幾何切割的痕跡；內部則因光線從上方或特定開口灑落，營造出神聖或戲劇性的明暗對比。(推測)",
+      "Spatial_Composition_or_Hierarchy": "空間缺乏傳統立面，以「頂部（天空）- 邊界（擋土牆）- 底部（路徑）」構成主要層次。人在其中的體驗是隨著地勢緩緩沉降或升起。(推測)",
+      "Design_Intent_Reading": "刻意抹除建築作為「物件」的存在，將其轉化為自然地景的一部分，強調人類活動與地球原始地貌之間的共生關係。(推測)"
+    },
+    "P3_Details_Diagrams": {
+      "Analysis_based_on_texts_include_in_images": {
+        "Concept_diagram": "概念圖可能展示了基地原貌與建築介入後的等高線變化，說明如何透過「挖掘」與「覆蓋」的手法重塑地景。(推測)",
+        "Detail_diagram": "細部圖可能針對覆土建築最關鍵的防水、排水與結構耐壓系統進行解說（推測），或者是植物根系阻擋層的構造做法，確保建築在地下的永續性。(推測)"
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "Case07_preprocess": {
+    "P1_Drawings": {
+      "Vocabulary_Extraction": [
+        "單一樓層主空間 (Single-story Main Space) (推測)",
+        "懸挑屋簷 (Overhanging Eaves)",
+        "開放式廊道 (Open Veranda/Corridor)",
+        "自然景觀邊界 (Natural Landscape Boundary)"
+      ],
+      "Quantity_Estimation": {
+        "Overall": "主要起居/展示空間 x 1區，環繞式廊道 x 1圈。(推測)"
+      },
+      "Spatial_Relationship_Descriptions": "平面配置極度簡單且純粹，空間中心為主機能區，四周被廊道或大面開窗環繞，使得室內空間全面向外延展，與周遭自然景觀緊密相連。(推測)",
+      "Overall_Spatial_Impression": "這是一座輕巧的亭閣式建築（Pavilion），以極簡的邊界劃分內外，強調建築作為觀賞自然風景的容器。(推測)"
+    },
+    "P2_Photos_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "輕量化結構 (Lightweight Structure)",
+        "自然材質/木或石材 (Natural Materials/Wood or Stone)",
+        "大面落地窗 (Floor-to-ceiling Windows)"
+      ],
+      "Atmospheric_Description": "散發著靜謐、空靈且與自然和諧共處的氛圍。建築量體似乎消融於環境之中，展現出禪意與寧靜。(推測)",
+      "Spatial_Composition_or_Hierarchy": "沒有複雜的空間層次，主要以水平延伸的屋面和通透的垂直牆體構成單一焦點的框景空間。(推測)",
+      "Design_Intent_Reading": "盡可能降低建築的存在感，最大化自然景觀的引入，創造一個供人沉思、休憩的隱蔽所。(推測)",
+      "Contextual_Relationship": "建築完全座落於自然地景（如森林、水畔或山野）之中，以一種輕盈的姿態介入環境。(推測)"
+    },
+    "P3_Details_Diagrams": {
+      "Analysis_based_on_texts_include_in_images": {
+        "Case07_sketch": "手繪草圖（推測）捕捉了建築與環境氛圍的初始靈感，可能描繪了屋頂的線條如何呼應遠山，或是光線如何穿透樹林打在建築量體上的意象，展現最純粹的設計初衷。(推測)"
+      }
+    }
+  }
+}

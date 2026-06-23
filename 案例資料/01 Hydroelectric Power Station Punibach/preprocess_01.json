@@ -1,0 +1,41 @@
+{
+    "Case01_preprocess": {
+    "P1_Drawings": {
+      "Vocabulary_Extraction": [
+        "機房挑高空間 (Machine Hall, High-Ceiling)",
+        "控制與辦公空間 (Control & Office Space)",
+        "擋土牆/人工基礎結構 (Retaining Wall / Artificial Structure)",
+        "維修天車軌道 (Maintenance Overhead Crane Rail)",
+        "大型發電機組 (Large Hydro Generator Units)",
+        "覆土地形與等高線 (Earth Berm & Contours)",
+        "主要水流路徑 (Major Water Flow Path)",
+        "上游進水口 (Upstream Intake)",
+        "壓力管道水流 (Pressure Pipe Flow)",
+        "水輪機與發電機組 (Water Turbine & Generator Set)",
+        "岩盤基礎 (Bedrock Foundation)",
+        "基礎防水/防滲界面 (Foundation Waterproofing / Impervious Layer)",
+        "半室外裝卸與車輛迴車區 (Semi-Outdoor Loading & Vehicular Maneuvering)",
+        "下游尾水渠 (Downstream Tailrace)"
+      ],
+      "Quantity_Estimation": {
+        "Ground_Floor": "大型發電機組 x 2座，控制與辦公空間 x 1區，半室外裝卸與車輛迴車區 x 1區，維修天車 x 1座。(推測)"
+      },
+      "Spatial_Relationship_Descriptions": "機房核心空間深埋於覆土地形與岩盤基礎之中，呈現與大地結合的狀態。水流從上游進水口經壓力管道進入機房推動水輪機後，由下游尾水渠排出。控制與辦公空間緊鄰發電機大廳配置，並透過擋土牆將人工結構與自然地形巧妙縫合，外部則連接半室外的裝卸與車輛動線。",
+      "Overall_Spatial_Impression": "此為高度機能與基礎設施導向的建築，透過覆土策略與地形深度整合，將龐大的水力發電空間隱藏於自然地貌中，展現工業力量與大地景觀的共生。"
+    },
+    "P2_Photos_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "波浪型混凝土屋頂 (Curving concrete roof)",
+        "木格柵立面 (Wooden louvered facade)",
+        "清水模室內牆面 (Exposed concrete interior)",
+        "半透明室內採光板 (Translucent interior panels)",
+        "重型工業機械 (Heavy industrial machinery)",
+        "綠屋頂 (Green roof)"
+      ],
+      "Atmospheric_Description": "建築外觀融合了有機的自然語彙（綠屋頂與優美的混凝土曲線）與溫暖的材質（木格柵），營造出隱於自然的謙和氛圍。室內則呈現強烈的工業、實用且明亮的氛圍，透過半透明板引入光線，彰顯了工程設施的紀念性。",
+      "Spatial_Composition_or_Hierarchy": "外部空間由順應山勢的巨大混凝土波浪屋頂主導，定義了入口的木質開口。內部則是為容納巨大發電機組而設計的單一挑高大空間，呈現純粹的工業尺度與功能層次。",
+      "Design_Intent_Reading": "設計意圖在於將巨大的基礎水電設施隱藏於阿爾卑斯山的壯麗景觀中，減少視覺衝擊，同時在內部透過純粹的材料表現（混凝土與光線）來讚頌工程技術之美。",
+      "Contextual_Relationship": "建築座落於群山環繞的鄉村河谷旁，緊鄰小村莊。其如人造山丘般的幾何形態與自然坡地完美融合，彷彿是從地表掀起的一塊地毯。"
+    }
+  }
+}

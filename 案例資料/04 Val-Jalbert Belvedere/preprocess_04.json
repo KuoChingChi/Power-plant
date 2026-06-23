@@ -1,0 +1,39 @@
+[
+    "Case04_preprocess": {
+    "P1_Drawings": {
+      "Vocabulary_Extraction": [
+        "核心發電基礎大廳 (Main Generator Hall)",
+        "設備管道間 (Dual Maintenance Track)",
+        "設備管道間上方挑空 (Void above maintenance track)",
+        "木構觀景平台 (Timber Decking Platform)",
+        "頂樓觀景台 (Upper Viewing Deck)",
+        "鋼構外牆 (Steel Facade)",
+        "外部樓梯 (Outdoor Stair)",
+        "擋土牆與基礎 (Retaining and Foundation)",
+        "大挑高空間 (High Ceiling Void)",
+        "低水位區 (Low Water Level)"
+      ],
+      "Quantity_Estimation": {
+        "Levels_1_to_2": "核心發電基礎大廳 x 1座，設備管道間 x 1組。(推測)",
+        "Levels_3_to_4": "木構觀景平台 x 2區。(推測)",
+        "Exterior": "外部連通樓梯 x 1組。(推測)"
+      },
+      "Spatial_Relationship_Descriptions": "建築跨越於低水位區與河岸擋土牆之上，中央為深埋的大挑高發電核心大廳。建築外側被輕透的鋼構與木作百葉包覆，外部樓梯將訪客一路向上引導至頂層的觀景平台，形成內部重工業機房與外部公共觀景動線的層次包裹關係。",
+      "Overall_Spatial_Impression": "將水力發電基礎設施與公共遊憩觀景機能緊密疊合，透過外層輕盈透空的構架包裹內部厚重的混凝土發電核心，創造出人與工業設施和諧共存的邊界空間。"
+    },
+    "P2_Photos_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "木格柵/百葉立面 (Wooden slatted/louvered facade)",
+        "清水混凝土牆體與基礎 (Exposed concrete walls and foundation)",
+        "外露黑色鋼構框架 (Exposed black steel framing)",
+        "戶外木質步道 (Outdoor timber walkways)",
+        "大型綠色水輪發電機 (Large green turbine/generator)",
+        "玻璃景觀窗 (Glass viewing portals)"
+      ],
+      "Atmospheric_Description": "融合了質樸的自然感與冷冽的工業氣息。外部在雪地中顯得堅固且溫暖（木材），半戶外廊道帶有庇護感；透過玻璃窗看見龐大的綠色機械，則帶來一種現代工業的震撼力。",
+      "Spatial_Composition_or_Hierarchy": "建築宛如一個具備滲透性的盒子。厚重的混凝土構成了防護性的基座與內部聖殿，而輕盈的黑色鋼構與木條則在周圍交織出可供人行走的廊道與景觀框景。",
+      "Design_Intent_Reading": "旨在將小型的現代水力發電廠優雅地融入具有歷史感與自然美景的環境中。利用木格柵弱化工業量體，並透過開放的外部流線與透明視窗，讓大眾能近距離觀察並理解能源生產的過程。",
+      "Contextual_Relationship": "建築位於冰封的河岸邊，緊鄰著歷史悠久的傳統石造建築。現代的木/鋼結構與古老的石材形成對話，既不突兀，又為基地注入了當代的基礎設施活力。"
+    }
+  }
+]

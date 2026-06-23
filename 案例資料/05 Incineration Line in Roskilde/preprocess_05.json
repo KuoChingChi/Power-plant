@@ -1,0 +1,31 @@
+{
+ "Case05_preprocess": {
+    "P1_Drawings": {
+      "Vocabulary_Extraction": [
+        "主要活動/辦公空間 (Main Activity/Office Space) (推測)",
+        "垂直動線核/樓梯間 (Vertical Circulation Core/Stairwell)",
+        "戶外露台/退縮空間 (Outdoor Terrace/Setback Space)",
+        "結構柱列 (Structural Colonnade) (推測)",
+        "服務性空間/廁所 (Service Area/Restrooms) (推測)"
+      ],
+      "Quantity_Estimation": {
+        "First_Floor": "主入口大廳 x 1區，垂直動線核 x 1-2座。(推測)",
+        "Fourth_Floor": "開放式空間 x 1大區，戶外露台 x 1區。(推測)"
+      },
+      "Spatial_Relationship_Descriptions": "建築平面配置呈現以核心筒（垂直動線與服務空間）集中在一側或中央的佈局，釋放出大面積的開放彈性空間。隨著樓層上升（如四樓），量體可能產生退縮，形成室內外連結的露台，整體空間上下層次分明。(推測)",
+      "Overall_Spatial_Impression": "這是一棟具有清晰結構與機能分區的現代中層建築，透過平面的開放性與立面的有秩序開口，建立出理性且靈活的空間框架。(推測)"
+    },
+    "P2_Photos_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "模矩化立面 (Modular Facade)",
+        "大面積玻璃窗 (Large Glass Windows)",
+        "立面細部構造 (Facade Detailing/Louvers)",
+        "通透室內大廳 (Transparent Interior Hall)"
+      ],
+      "Atmospheric_Description": "建築外觀呈現出現代、洗鍊且具規律性的氛圍，透過立面材質的細節（如格柵或金屬/磚石構造）賦予建築溫潤或精緻的質感。室內則受惠於大面開窗，顯得明亮且具穿透性。(推測)",
+      "Spatial_Composition_or_Hierarchy": "立面構圖以清晰的垂直與水平網格為主導，展現出理性的比例美學。外部街道空間與一樓內部大廳透過透明玻璃形成強烈的視覺連結。(推測)",
+      "Design_Intent_Reading": "設計意圖在於都會脈絡中創造一座既融入周遭環境又具備現代自明性的建築，強調自然光線的引入與立面材質工藝的表現。(推測)",
+      "Contextual_Relationship": "建築位於都市街道旁，其立面的尺度與周圍的都市紋理形成良好的對話，並在一樓提供對行人友善的視覺介面。(推測)"
+    }
+  }
+}

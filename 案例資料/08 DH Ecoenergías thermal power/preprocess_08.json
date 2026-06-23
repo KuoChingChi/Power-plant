@@ -1,0 +1,33 @@
+{
+    "Case08_preprocess": {
+    "P1_Drawings": {
+      "Vocabulary_Extraction": [
+        "斜屋頂/造型屋頂 (Pitched/Sculptural Roof)",
+        "木構造/鋼構造框架 (Timber/Steel Structural Frame)",
+        "主要平面大廳 (Main Floor Hall)",
+        "挑空區 (Void)"
+      ],
+      "Quantity_Estimation": {
+        "Overall": "主要大空間 x 1座，屋頂結構單元 x 數組。(推測)"
+      },
+      "Spatial_Relationship_Descriptions": "建築剖面與立面受屋頂幾何形狀主導。內部空間因應斜屋頂的變化而產生高低起伏的戲劇性尺度，平面佈局則順應著上方結構系統的網格而展開。(推測)",
+      "Overall_Spatial_Impression": "建築空間由極富表現力的屋頂與外露結構系統所定義，空間感受充滿結構的力學美感與工藝性。(推測)"
+    },
+    "P2_Photos_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "外露木構/鋼構節點 (Exposed Timber/Steel Joints)",
+        "韻律感立面 (Rhythmic Facade)",
+        "細緻外牆構造 (Refined Facade Assembly)"
+      ],
+      "Atmospheric_Description": "充滿溫潤的工匠氣息與構造真實性。室內因木材或溫暖的色調而顯得平易近人，同時結構的規律性給人一種安定感。(推測)",
+      "Spatial_Composition_or_Hierarchy": "由清晰的結構陣列（如柱樑或桁架）構成空間的韻律感，視線會自然被引導至挑高的屋頂結構細節上。(推測)",
+      "Design_Intent_Reading": "設計意圖高度聚焦於「構造即建築（Tectonic）」的理念，將承重結構與節點細部轉化為建築最主要的視覺與空間表現元素。(推測)"
+    },
+    "P3_Details_Diagrams": {
+      "Analysis_based_on_texts_include_in_images": {
+        "Concept_diagram": "概念圖說明了建築基本形體的生成邏輯，例如屋頂如何因應氣候（雨水/光線）而產生特定傾斜角度。(推測)",
+        "Structure_and_detail_diagram": "構造細部圖詳細解析了建築骨架的組裝方式（推測），可能標示了接頭五金、防水層、隔熱層與外飾材的層疊關係，展現精密的構築工法。(推測)"
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "Case03_preprocess": {
+    "P1_Drawings": {
+      "Vocabulary_Extraction": [
+        "鋼結構桁架塔 (Steel Truss Tower)",
+        "機房內部核心空間 (Main Engine Room Core Space)",
+        "變電設備/絕緣子 (Electrical equipment/Insulators)",
+        "半透明外牆 (Translucent facade)",
+        "控制/開關室 (Switchgear room)",
+        "電纜/附屬設備室 (Cable/Auxiliary rooms)"
+      ],
+      "Quantity_Estimation": {
+        "Ground_1st_Floor": "核心機電大廳 x 1區，附屬技術房間 x 數間。(推測)",
+        "Exterior": "高壓鋼結構桁架電塔 x 1座。(推測)"
+      },
+      "Spatial_Relationship_Descriptions": "一個純粹、封閉的矩形機房量體與高聳的開放式鋼結構桁架塔相鄰並立。內部空間分為大跨距的設備核心大廳，以及兩側邊緣的輔助通道與技術房間，整體配置呈現極度的理性與對稱。",
+      "Overall_Spatial_Impression": "這是一座極簡且高度機能化的基礎設施建築，透過純粹的光盒子幾何量體與外露的骨架鋼塔，形成強烈的虛實、視覺與機能對比。"
+    },
+    "P2_Photos_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "半透明玻璃/聚碳酸酯立面 (Translucent glass/polycarbonate facade)",
+        "清水混凝土基座 (Exposed concrete base)",
+        "高壓電氣設備/套管 (High-voltage electrical equipment)",
+        "鋼鐵高塔結構 (Steel lattice transmission tower)"
+      ],
+      "Atmospheric_Description": "散發出冷冽、純淨且充滿科技感的氛圍。在雪地與夜色中，半透明的建築體宛如一個發光的燈籠，展現出工業設施罕見的優雅與靜謐。",
+      "Spatial_Composition_or_Hierarchy": "構圖上，半透明發光盒子的強烈水平線條與沉穩量感，與後方高聳、具備穿透感且呈斜角向上的鋼構電塔形成了鮮明的垂直與水平對比。",
+      "Design_Intent_Reading": "設計意圖在於將一個純粹功能性、通常被視為視覺妨礙的變電設施，提升為一件散發光芒的建築藝術品，彰顯其在能源網絡中默默運作的神聖感。",
+      "Contextual_Relationship": "座落於被白雪覆蓋的鄉村或郊區景觀中，宛如一件精密的人造科技工藝品被放置在純粹的自然背景裡，產生強烈的張力。"
+    }
+  }
+}

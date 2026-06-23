@@ -1,0 +1,35 @@
+{
+  "Case10_preprocess": {
+    "P1_Drawings": {
+      "Vocabulary_Extraction": [
+        "開放式平面 (Open Plan) (推測)",
+        "結構柱網 (Structural Grid) (推測)",
+        "大跨距屋架/屋頂結構 (Large-span Roof Structure) (推測)",
+        "核心服務區 (Service Core) (推測)",
+        "室內外中介空間/過渡廊道 (Transitional Space/Corridor) (推測)"
+      ],
+      "Quantity_Estimation": {
+        "First_Floor": "主要開放大空間 x 1區，結構模矩單元 x 數組。(推測)"
+      },
+      "Spatial_Relationship_Descriptions": "平面佈局呈現出高度的開放性與流動性，主要空間由連續且規律的結構柱網或大跨距屋架系統所界定。剖面圖顯示屋頂的幾何形態主導了內部空間的高度變化與層次，內部機能區塊可能以局部集中的方式配置，以釋放周邊空間並極大化與外部環境的連結。(推測)",
+      "Overall_Spatial_Impression": "這是一棟理性且具備高度彈性的現代建築，透過清晰的結構框架與模矩化配置，創造出連貫、無阻礙且與外部環境緊密對話的空間體驗。(推測)"
+    },
+    "P2_Photos_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "外露主結構/桁架 (Exposed Main Structure/Trusses) (推測)",
+        "大面積玻璃帷幕/落地窗 (Large Glass Curtain Walls) (推測)",
+        "自然與質樸材質表現 (Expression of Natural Materials) (推測)",
+        "立面細部構造/遮陽格柵 (Facade Detailing/Louvers) (推測)"
+      ],
+      "Atmospheric_Description": "建築整體散發出通透、明亮且充滿構造力學美感的氛圍。光線透過大面積開窗灑入室內，打在外露的結構構件與自然材質上，賦予空間強烈的韻律感、溫暖度以及工藝質感。(推測)",
+      "Spatial_Composition_or_Hierarchy": "空間的視覺層次由規律排列的結構框架引導，形成深邃的透視與秩序感。高度透明的邊界削弱了建築的量體壓迫感，將外部景觀自然地延展至室內，形成由內而外的連續性。(推測)",
+      "Design_Intent_Reading": "設計意圖強烈表現「構築即建築（Tectonic Expression）」的概念，將承重骨架轉化為空間中最核心的視覺語言，同時追求室內外空間的無縫接軌與自然環境的融合。(推測)"
+    },
+    "P3_Details_Diagrams": {
+      "Analysis_based_on_texts_include_in_images": {
+        "Case 10_program diagram": "機能概念圖（Program diagram）分析了建築內部的空間分區邏輯、不同使用族群的動線交織關係，以及各個空間模矩如何組合、疊合以滿足複合的活動需求。(推測)",
+        "Case 10_strcture diagram": "結構概念圖（Structure diagram）詳細剖析了建築的主體骨架與支撐系統。說明了力的傳遞路徑、大跨距構架的幾何構成原理，以及關鍵節點的組裝邏輯，展現了建築背後的工程理性與構造美學。(推測)"
+      }
+    }
+  }
+}
