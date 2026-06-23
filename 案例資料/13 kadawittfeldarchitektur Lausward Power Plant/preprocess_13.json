@@ -1,23 +1,50 @@
-// Case13_preprocess.json
 {
-  "P1": {
-    "Vocabulary_Extraction": ["處理池/水槽", "設備走廊", "附屬機房/控制室（推測）", "坡道", "結構柱列"],
-    "Quantity_Estimation": {
-      "ground_floor": ["大型處理池 × 多組", "中央通道 × 1", "服務機房 × 1-2（推測）"]
+  "Case_13_preprocess": {
+    "P1_Architectural_Drawings": {
+      "Vocabulary_Extraction": [
+        "氣渦輪機/燃氣輪機 (Gas Turbine)",
+        "蒸汽輪機 (Steam Turbine)",
+        "發電機 (Generator)",
+        "熱回收蒸汽產生器 (HRSG)",
+        "變壓器 (Transformers)",
+        "抽汽系統 (Steam Extraction)",
+        "供熱冷凝器 (Heating Condensers)",
+        "多功能建築 (Multi Purpose Building)",
+        "電力控制室 (Power Controls)",
+        "區域供熱管線 (District Heating Pipelines)",
+        "中央垂直核心筒/維修及排煙 (Central Vertical Core)",
+        "玻璃帷幕牆 (Glass curtain wall)",
+        "建築亮點/城市之窗 (Architectural Highlight)",
+        "觀景平台 (Viewing platform)",
+        "鋼構骨架 (Steel Structure)"
+      ],
+      "Quantity_Estimation": {
+        "氣渦輪機": "1組",
+        "蒸汽輪機": "1組",
+        "發電機": "1組",
+        "熱回收蒸汽產生器(HRSG)": "1座",
+        "排煙/垂直核心筒": "1座",
+        "變壓器": "多組（推測）"
+      },
+      "Spatial_Relationship_Descriptions": "廠房採取高度理性的線性配置。平面由左至右分別為：多功能附屬建築、主發電機房（氣渦輪、發電機與蒸汽輪機共軸排列）、以及巨大的熱回收蒸汽產生器與排煙塔。剖面顯示中央有巨大的排煙與維修核心筒，右側為堆疊的輔助與辦公空間，最右側（立面端點）則為通透的玻璃觀景空間（城市之窗）。",
+      "Overall_Spatial_Impression": "將大型燃氣複循環發電廠極度複雜的機電系統，以高效率的線性序列收攏於簡潔的幾何量體中，並透過端點的「城市之窗」打破工業建築的封閉性。"
     },
-    "Spatial_Relationship_Descriptions": "水槽與處理池呈現線性且對稱的陣列佈局，中央由一條主廊道貫穿，將兩側的處理單元串聯，並在末端連接附屬的服務機房。",
-    "Overall_Spatial_Impression": "平面佈局呈現高度模組化與線性的工業廠房特徵，空間嚴格依循水處理或生產工藝的流線進行對稱配置。"
-  },
-  "P2": {
-    "Design_Vocabulary_Extraction": ["鏤空磚牆立面", "木構造桁架屋頂", "帶狀採光高窗", "混凝土水池基座", "深邃透視長廊"],
-    "Atmospheric_Description": "光線透過鏤空磚牆灑入，結合溫潤的木構屋架，打破了傳統工業廠房的冷硬感，創造出靜謐、甚至帶有修道院般神聖氛圍的空間。",
-    "Spatial_Composition_or_Hierarchy": "具有強烈的單點透視與對稱軸線，頂部的木桁架與兩側的磚牆形成連續的韻律感，將視覺焦點引導至空間深處。",
-    "Design_Intent_Reading": "試圖將基礎水資源處理設施昇華，透過傳統材料（磚、木）的精細工藝，賦予工業建築人文溫度與紀念性。",
-    "Contextual_Relationship": "外觀以低調且具質感的磚砌量體融入周遭環境，其封閉與半透的立面與周圍的自然或既有建築形成和諧的對話。"
-  },
-  "P3": {
-    "Vocabulary_Extraction": ["構造爆炸圖/軸測圖", "模組化單元", "木屋架單元", "磚牆外殼系統"],
-    "Spatial_and_Structural_Logic": "圖解清晰展示了建築由下而上的構造層次：從混凝土槽體基座、輕盈的木質屋架系統，到最外層作為光線過濾器的磚砌帷幕。",
-    "Overall_Impression": "以解構的方式強調了建築體模組化的建構邏輯，凸顯了結構與外觀材料之間的清晰分工與整合。"
+    "P2_Photographs_or_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "玻璃帷幕大窗 (Large glass curtain wall)",
+        "平滑金屬帷幕外牆 (Metal cladding)",
+        "工業煙囪 (Industrial chimney)",
+        "巨大銀色圓柱筒倉/鍋爐",
+        "內部觀景迴廊",
+        "外露鋼構框架"
+      ],
+      "Atmospheric_Description": "外觀呈現冷靜、理性的現代幾何美學，淺色金屬與玻璃材質反射天光，洗去了傳統重工業的粗重感。內部「城市之窗」空間受惠於巨大玻璃帷幕，採光極佳，將冷冽龐大的金屬機械轉化為明亮、壯觀的科技展演場所。",
+      "Spatial_Composition_or_Hierarchy": "量體透過不同高度的矩形方塊錯落組合以削弱體積感。最高聳的塔樓區域結合大面積透明玻璃帷幕，將內部閃亮的巨型工業設備如同「櫥窗展示」般框景呈現，形成最強烈的視覺與空間焦點。",
+      "Design_Intent_Reading": "設計企圖將重型發電設施轉化為城市景觀與公眾視覺的一部分。藉由「城市之窗」的通透感，展示內部精密壯觀的機電設備，實現工業建築的美學化與透明化，使其和諧地融入城市天際線。",
+      "Contextual_Relationship": "座落於寬廣的河畔平原（推測為萊茵河），周圍有綠地與其他歷史工業廠房。新廠房以現代、俐落且純粹的地標姿態矗立於水岸，與周遭環境產生新舊時代的對話。"
+    },
+    "P3_Details_constructure_diagram": {
+      "Image_Analysis": "圖解1（天際線演進圖）顯示了該廠區（Unit Fortuna）在不同時期的量體天際線變化，展現建築師如何將原本零碎雜亂的工業輪廓，收攏整併為具現代幾何純粹性的新地標。圖解2（Plant layout）為3D設備佈局圖，詳細說明了內部發電組件的空間邏輯：燃氣輪機、發電機與蒸汽輪機共軸排列，末端連接高達600°C的熱回收蒸汽產生器（HRSG），並標示了供熱管線與「城市之窗」的相對位置，證實了此為一結合區域供熱（District Heating）的高效能電廠。"
+    }
   }
 }

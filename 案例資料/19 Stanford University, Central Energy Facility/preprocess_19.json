@@ -1,24 +1,36 @@
-// Case19_preprocess.json
 {
-  "P1": {
-    "Vocabulary_Extraction": ["水輪發電機組（推測）", "線性機房", "觀景走道", "控制室/辦公區", "跨越水體的結構"],
-    "Quantity_Estimation": {
-      "ground_floor": ["發電機組/幫浦 × 多組", "附屬機房 × 1"],
-      "second_floor": ["參觀廊道/辦公室 × 1（推測）"]
+  "Case_19_preprocess": {
+    "P1_Architectural_Drawings": {
+      "Vocabulary_Extraction": [
+        "巨型圓柱筒倉/鍋爐 (cylindrical tanks/silos)",
+        "廠房大廳 (plant hall)",
+        "辦公區/控制室 (office/control rooms) （推測）",
+        "參觀廊道/大空間 (visitor gallery/large space)",
+        "木構造桁架 (timber trusses) （推測）"
+      ],
+      "Quantity_Estimation": {
+        "巨型圓柱槽體": "2座",
+        "大跨距廠房空間": "1大區塊",
+        "附屬辦公與參觀空間": "橫跨2層樓（推測）"
+      },
+      "Spatial_Relationship_Descriptions": "廠房平面被巧妙劃分為重工業區與人員活動區。一側容納了巨大的圓柱形工業設施與製程設備；另一側則配置了較為細緻的辦公與公共參觀空間。兩者透過清晰的動線整合在一個大屋頂下，且剖面顯示內部具有高聳的大跨距連續空間。",
+      "Overall_Spatial_Impression": "透過單一且連續的大跨距屋頂，將尺度龐大的工業圓柱體與一般尺度的行政、參觀空間無縫包裹，形成對比強烈卻又和諧統一的複合式廠區。"
     },
-    "Spatial_Relationship_Descriptions": "建築呈水平線性發展，機房設備沿著河流或地形軸線陣列排布；工作動線與潛在的公眾參觀動線在剖面上可能呈現立體分離。",
-    "Overall_Spatial_Impression": "結合基礎設施運作與人員活動的線性廠房，空間佈局清晰且順應水文與自然地勢發展。"
-  },
-  "P2": {
-    "Design_Vocabulary_Extraction": ["水平橋狀量體", "大面積玻璃帷幕", "清水混凝土基座", "木質格柵裝飾", "水岸景觀"],
-    "Atmospheric_Description": "整體氛圍明亮、通透且親切，木質元素的加入中和了混凝土與重工業設備的冷硬，帶有極強的公共空間親和力。",
-    "Spatial_Composition_or_Hierarchy": "水平延伸的長條形量體跨越或緊鄰水面，實體的混凝土基座與輕透的玻璃上半部形成強烈的虛實對比。",
-    "Design_Intent_Reading": "試圖打破水力發電站或幫浦站等水利設施的封閉感，透過大面積開窗提供透明度，讓公眾能看見內部運作，具備教育與展示意味。",
-    "Contextual_Relationship": "宛如一座橋樑或水上觀景廊道，建築物不僅處理水資源，更直接與周遭的水文生態景觀密切互動、融為一體。"
-  },
-  "P3": {
-    "Vocabulary_Extraction": ["環境分析圖", "植栽/生態配置", "機能區塊分佈圖 (Program diagram)"],
-    "Spatial_and_Structural_Logic": "透過圖示表達了建築量體如何回應河道地形、水流方向，以及內部廠房區、公共區與周邊生態綠帶的系統性整合。",
-    "Overall_Impression": "圖解強調了該基礎設施並非孤立的建築體，而是一個與自然生態、水文系統及公眾活動高度整合的環境節點。"
+    "P2_Photographs_or_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "大型木構造桁架 (massive timber roof trusses)",
+        "木構柱列 (timber columns)",
+        "半透明/聚碳酸酯外牆皮層 (translucent skin/cladding)",
+        "不鏽鋼/金屬工業槽體",
+        "玻璃帷幕窗 (glass curtain wall)"
+      ],
+      "Atmospheric_Description": "內部空間溫暖、明亮且充滿自然氣息，打破了傳統工廠的冷硬感；大量使用的木材構建出如教堂般的莊嚴感。外部的半透明皮層在白天引入柔和的漫射光，夜間則讓整棟建築如燈籠般發光。",
+      "Spatial_Composition_or_Hierarchy": "空間的透視感被連續排列的巨大木構造桁架強烈定義。外部視覺由一個簡潔、發光的長方體包覆，內部則展示出巨型金屬槽體與溫潤木構架之間的強烈材質與尺度對比。",
+      "Design_Intent_Reading": "強烈企圖顛覆傳統工業廠房的負面形象。採用永續的木構造與半透明皮層，將能源廠轉變為親切、具教育意義且環境友善的綠色公共建築，彰顯其生態理念。",
+      "Contextual_Relationship": "座落於森林邊緣或大片自然綠地之中（推測），與周圍的樹木景觀相呼應，夜間則成為點亮該區域的柔和地標。"
+    },
+    "P3_Details_constructure_diagram": {
+      "Image_Analysis": "三張圖解分別闡述了建築的不同層次：1. 環境圖（Context diagram）標示了廠區與周圍森林、城市資源的供需關聯。2. 製程圖（Plant diagram）解析了此為一座生質能（木屑）熱電廠，以圖示展現了木材燃料運送、燃燒、產生能源的循環流程。3. 機能圖（Program diagram）將建築幾何分解，以不同顏色清晰標示出儲存槽、鍋爐區、辦公室與公共參觀空間的立體組合邏輯。"
+    }
   }
 }

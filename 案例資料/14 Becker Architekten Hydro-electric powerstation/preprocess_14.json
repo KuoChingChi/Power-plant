@@ -1,23 +1,40 @@
-// Case14_preprocess.json
 {
-  "P1": {
-    "Vocabulary_Extraction": ["筒狀拱頂 (Vault)", "長條形處理池（推測）", "內部通道", "擋土牆", "採光井"],
-    "Quantity_Estimation": {
-      "ground_floor": ["拱頂處理空間 × 數個（並排）", "附屬操作通道 × 1-2"]
+  "Case_14_preprocess": {
+    "P1_Architectural_Drawings": {
+      "Vocabulary_Extraction": [
+        "流線型混凝土殼體屋頂",
+        "機房 (maschinenraum)",
+        "水輪機 (turbinen)",
+        "發電機 (generatoren)",
+        "變壓器室 (trafo_raum)",
+        "魚道 (fischtreppe)",
+        "攔水堰/擋水板 (dammtafeln)",
+        "人行橋/步道"
+      ],
+      "Quantity_Estimation": {
+        "水輪發電機組": "2組",
+        "魚道": "1條",
+        "變壓器室": "1間",
+        "頂部天窗": "數個（推測）"
+      },
+      "Spatial_Relationship_Descriptions": "建築量體橫跨於河道水面之上，廠房向下沒入水底以安置巨大的水輪機組。兩組主要發電設備對稱排列於機房中央，上方由一個連續且不規則的流線型殼體結構所覆蓋，一旁則緊密結合了生態魚道與跨河步道。",
+      "Overall_Spatial_Impression": "空間完全順應水流力學的幾何形態與機電設備的需求而生，形成一個猶如從河床中自然生長而出的仿生雕塑結構。"
     },
-    "Spatial_Relationship_Descriptions": "數個平行的拱筒狀空間緊密並排，內部容納大型處理池，空間上方透過採光井與地表連結，整體量體半埋或完全嵌入地形中。",
-    "Overall_Spatial_Impression": "空間策略以連續的拱頂結構覆蓋廣大面積，形成一個順應地勢、向內收斂且低矮的基礎設施空間。"
-  },
-  "P2": {
-    "Design_Vocabulary_Extraction": ["混凝土拱頂", "覆土綠化屋頂", "頂部圓形採光罩", "清水混凝土內牆", "地景建築"],
-    "Atmospheric_Description": "內部空間猶如原始洞穴般幽暗穩重，僅有頂部的天光如聚光燈般灑下，呈現極致的靜謐感與工業遺跡般的氛圍。",
-    "Spatial_Composition_or_Hierarchy": "以連續重複的拱形天花為主導，頂部的採光孔成為幽暗空間中唯一的視覺焦點與光線來源。",
-    "Design_Intent_Reading": "將潛在的鄰避設施（如污水處理或厭氧發酵廠）完美隱藏於覆土綠化之下，達到生態融合並創造戲劇性的內部採光體驗。",
-    "Contextual_Relationship": "建築外觀幾乎完全隱形於周遭的地景與田野中，綠化屋頂使其與自然丘陵融為一體，消解了巨型人造物的邊界。"
-  },
-  "P3": {
-    "Vocabulary_Extraction": ["拱頂結構受力圖解", "覆土層斷面", "採光井節點", "草圖"],
-    "Spatial_and_Structural_Logic": "透過圖解與草圖說明拱狀殼體結構如何有效分散上方的覆土載重，以及採光井如何穿透泥土層為地下空間提供自然光。",
-    "Overall_Impression": "展示了高度整合的「地景建築 (Landscraper)」概念，結構力學與環境隱蔽性在此達到了完美的平衡。"
+    "P2_Photographs_or_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "有機雙曲面混凝土殼體",
+        "平滑純白表面",
+        "鋼構衍架橋樑",
+        "巨型紅色發電機具",
+        "河流水體"
+      ],
+      "Atmospheric_Description": "外觀散發出一種寧靜、流動且充滿未來感的雕塑氣息，潔白平滑的量體與背景粗獷古老的磚造廠房及冷冽的水面形成優美的時代對比。內部機房則因純白牆面與鮮紅色的精密機械，展現出高度潔淨與能量匯聚的工業張力。",
+      "Spatial_Composition_or_Hierarchy": "外部視覺完全由流暢、無縫的曲線主導，如同一條翻轉的絲帶或被水流沖刷的卵石。內部空間的視覺層次則極其簡粹，兩座巨大的紅色發電機組成為純白空間中絕對的視覺焦點與空間核心。",
+      "Design_Intent_Reading": "旨在將冰冷的基礎水電設施轉化為一件連繫兩岸、融入河流地貌的當代公共地景藝術。透過極致的柔和曲線，不僅降低了廠房對環境的壓迫感，也與歷史工業遺址產生跨時代的和諧對話。",
+      "Contextual_Relationship": "緊鄰河道並與岸邊的歷史工業磚房群比鄰而居。建築體作為水壩與廠房的結合體，實質上攔截了河水，同時透過人行橋與柔和的形態，重新連結了河岸兩側的城市紋理。"
+    },
+    "P3_Details_constructure_diagram": {
+      "Image_Analysis": "圖解闡釋了有機形態的構思與落實過程。1. 手繪草圖（Sketch）展現了設計初期捕捉水流波動、猶如絲帶般輕盈的形體概念。2. 結構網格圖（Structure diagram）與剖面細部圖則解析了工程上的實踐：透過精密的3D網格計算、鋼筋混凝土薄殼結構（Shell structure）以及與基座的鉸接點設計，來支撐並實現這個複雜的雙曲面不規則屋頂，並標示了天窗的配置以引入採光。"
+    }
   }
 }

@@ -1,18 +1,35 @@
-// Case20_preprocess.json
 {
-  "P1": {
-    "Vocabulary_Extraction": ["變壓器隔間（推測）", "獨立機房單元", "通風/散熱井", "戶外服務樓梯", "車道"],
-    "Quantity_Estimation": {
-      "ground_floor": ["獨立設備隔間 × 多組", "機房控制室 × 1-2"]
+  "Case_20_preprocess": {
+    "P1_Architectural_Drawings": {
+      "Vocabulary_Extraction": [
+        "鍋爐區 (Boiler Area)",
+        "蒸汽輪機 (Steam Turbine)",
+        "氣渦輪機 (Gas Turbine)",
+        "變壓器 (Transformers)",
+        "冷卻塔區 (Cooling Tower Area)",
+        "排氣煙囪 (Exhaust Stack)",
+        "橋式起重機 (Crane)",
+        "透空金屬格柵皮層 (Transparent metal grating)"
+      ],
+      "Quantity_Estimation": {
+        "主發電機組 (氣/蒸汽輪機)": "1套聯合循環機組",
+        "冷卻塔": "數座（排列於頂部或側邊）",
+        "排氣煙囪": "至少1座"
+      },
+      "Spatial_Relationship_Descriptions": "這是一座高度整合的發電廠。從平面與剖面預標註圖可見，所有核心重型設備（鍋爐、氣渦輪、蒸汽輪機、變壓器）在底層與中層緊密排列，排氣煙囪與冷卻塔則垂直向上延伸至頂部。頂部空間設有起重機供維修使用。最特別的是，所有這些尺度巨大的錯落設備，全被一層方整的金屬格柵皮層（外牆）完整包覆在一個巨型方盒內。",
+      "Overall_Spatial_Impression": "一個將極度複雜的發電設施完全「盒裝化」的超級結構，透過模矩化的外殼將混亂的工業管線與機具隱藏，展現極致的空間收納與整合能力。"
     },
-    "Spatial_Relationship_Descriptions": "各設備單元呈現矩陣式或並排排列，為了防護或散熱需求，每個單元似乎具有獨立的實體牆體區隔與通風口。",
-    "Overall_Spatial_Impression": "平面展現出嚴格的模組化與高度封閉性，是一種典型為了隔離高壓危險或噪音的防護性基礎設施佈局。"
-  },
-  "P2": {
-    "Design_Vocabulary_Extraction": ["無窗/封閉式立面", "金屬網格/沖孔外牆（推測）", "純粹幾何量體", "隱藏式大門"],
-    "Atmospheric_Description": "外觀呈現堅固、封閉、極簡且冷靜的氛圍，沒有多餘的裝飾，透露出不可靠近的工業基礎設施特徵。",
-    "Spatial_Composition_or_Hierarchy": "整體為一個極度乾淨、封閉的矩形或幾何體積，透過特定材質的肌理包覆，將內部零碎的管線與設備完全隱藏。",
-    "Design_Intent_Reading": "將變電所或其他具危險性/干擾性的都市基礎設施安全地包裹起來，同時以外觀的極簡抽象性降低對市民的視覺衝擊。",
-    "Contextual_Relationship": "安置於都市紋理之中，試圖以低調、安靜的雕塑般外觀成為城市的靜謐背景，減少鄰避效應。"
+    "P2_Photographs_or_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "金屬網格皮層 (Metallic mesh skin/screen)",
+        "均質立面 (Homogeneous facade)",
+        "極簡幾何方塊 (Minimalist geometric cuboid)",
+        "隱藏式煙囪/設備 (Hidden stacks/equipment)"
+      ],
+      "Atmospheric_Description": "外觀呈現出極度簡潔、理性且帶有未來科技感的氛圍。均質的金屬外皮在陽光下閃爍著細緻的光澤，完全掩蓋了內部應有的重工業煙囪與管線氣息，甚至更像是一座現代美術館或高科技企業總部。",
+      "Spatial_Composition_or_Hierarchy": "展現絕對的極簡主義與幾何純粹性。立面上幾乎沒有明顯的尺度對比、開窗或裝飾，僅透過巨大的單一量體與材質的微透光性，暗示內部的龐大工業尺度。",
+      "Design_Intent_Reading": "設計的核心策略是「偽裝與淨化」。透過一件精緻且均質的金屬外衣，將對環境有視覺衝擊的發電廠包裝成一個抽象的都市雕塑，極大化地消除了鄰避設施的視覺干擾與壓迫感。",
+      "Contextual_Relationship": "位於開闊的重劃區、港區或水岸旁（推測），以其巨大的均質金屬量體成為該區域具備現代感與科技感的絕對地標。"
+    }
   }
 }
