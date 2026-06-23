@@ -1,48 +1,37 @@
-// Case18_preprocess.json
 {
-  "P1": {
-    "Vocabulary_Extraction": [
-      "覆土/綠化屋頂 (Green roof)",
-      "地下機房/處理池（推測）",
-      "景觀步道/公園動線",
-      "擋土牆/地形高低差",
-      "採光/通風井",
-      "隱藏式出入口"
-    ],
-    "Quantity_Estimation": {
-      "ground_floor": [
-        "開放式景觀公園/屋頂廣場 × 1",
-        "景觀步道/出入口 × 多組"
+  "Case_18_preprocess": {
+    "P1_Architectural_Drawings": {
+      "Vocabulary_Extraction": [
+        "圓形平面 (Circular plan)",
+        "綠屋頂/覆土建築 (Green roof/Earth-sheltered building)",
+        "中央庭院/天井 (Central courtyard/skylight)",
+        "放射狀結構牆 (Radial structural walls)",
+        "地下設備機房 (Underground equipment rooms)",
+        "大型儲存槽 (Large storage tanks)"
       ],
-      "lower_floor": [
-        "大型地下基礎設施空間 × 1（推測）"
-      ]
+      "Quantity_Estimation": {
+        "環形主建築": "1座",
+        "中央景觀天井": "1座",
+        "大型機電/處理設備": "分佈於地下一層的多組模塊（推測）"
+      },
+      "Spatial_Relationship_Descriptions": "建築採取下沉式的環形配置。主要機電與處理設備（如儲槽、管線）隱藏於地下一層，並沿著放射狀的牆體排列。地面層則完全與周圍景觀融合，中央留有一個巨大的圓形天井，為下方的環形走廊與機房提供採光與通風。",
+      "Overall_Spatial_Impression": "極致的地景化基礎設施，將龐大的工業廠房完全埋入地下，並透過一個完美的幾何圓形與綠屋頂，實現了最高程度的生態隱形與地貌融合。"
     },
-    "Spatial_Relationship_Descriptions": "建築採用立體化與地景化的配置策略。主要龐大的工業或處理設施全數隱藏於地下層 (lower floor)；而地面層 (ground floor) 則完全被轉化為公園綠地與交織的行人步道，僅透過零星的開口或下沉式坡道與地下空間連結。",
-    "Overall_Spatial_Impression": "這是一座標準的「地景建築 (Landscraper)」，透過將龐大的基礎設施量體下地化，徹底消除了建築外觀，將地表空間還給了公眾與自然。"
-  },
-  "P2": {
-    "Design_Vocabulary_Extraction": [
-      "大面積綠化/草甸",
-      "幾何清水混凝土牆",
-      "自然地景/微地形",
-      "隱蔽式通道/入口",
-      "下沉式廣場/庭院"
-    ],
-    "Atmospheric_Description": "在外部，這是一座靜謐、充滿生機的自然公園，沒有傳統工業廠房的喧囂與壓迫感；內部（若有透視）則可能呈現出沉穩的混凝土質感與戲劇性的天光照明，帶有地下神殿或洞穴般的氛圍（推測）。",
-    "Spatial_Composition_or_Hierarchy": "建築實體退居背景，視覺主體完全由植物、地形與天空構成。僅在動線轉折處或入口處，透過簡潔銳利的混凝土擋土牆展現出人造幾何與自然曲線的對比。",
-    "Design_Intent_Reading": "極力消弭大型基礎設施（如水廠、變電所或儲水庫）帶來的鄰避效應，透過極致的覆土綠化將其偽裝，創造一個生態豐富且可供市民休憩的公共綠地，實現「基建即景觀」的雙重效益。",
-    "Contextual_Relationship": "建築完全消融於周遭的地理環境中，不僅修復了被工程破壞的自然地表，更串聯了城市的綠色生態廊道。"
-  },
-  "P3": {
-    "Vocabulary_Extraction": [
-      "景觀設計策略 (Landscape design strategy)",
-      "植栽配置圖 (Plant diagram)",
-      "生態分區",
-      "地形等高線（推測）",
-      "覆土厚度/植生層（推測）"
-    ],
-    "Spatial_and_Structural_Logic": "景觀策略圖與植栽圖解詳細闡述了屋頂地表上的生態設計邏輯：如何根據日照、微氣候、土壤厚度以及下方的結構承重，選擇不同品種的植栽並規劃生態分區。",
-    "Overall_Impression": "圖解強調該項目不僅是建築或工程，更是一項嚴謹的生態復育與景觀工程，展現了水文、植栽、生態系統與下方隱形建築結構的高度整合。"
+    "P2_Photographs_or_Renders": {
+      "Design_Vocabulary_Extraction": [
+        "弧形清水混凝土牆 (Curved exposed concrete walls)",
+        "溫潤木質格柵/天花板 (Timber louvers/ceilings)",
+        "圓形自然採光天井 (Circular skylight/opening)",
+        "巨型金屬儲存槽/處理槽 (Massive metal tanks)",
+        "綠色植被屋頂 (Green vegetative roof)"
+      ],
+      "Atmospheric_Description": "外部視角幾乎看不見傳統建築量體，展現出靜謐且與大地共生的和諧感。走入內部，弧形的清水模牆面搭配溫暖的木質天花板，在頂部灑下的自然光洗禮下，呈現出宛如當代美術館或宗教空間般的神聖感，完全軟化了重工業設備的冰冷與粗獷。",
+      "Spatial_Composition_or_Hierarchy": "空間由一個強烈的向心環形動線主導。無論是平滑的混凝土牆、木格柵的排列，還是自然光的引入，所有視覺線索皆沿著弧線流動，並將焦點匯聚於中央天井與周圍巨大的金屬設備槽上。",
+      "Design_Intent_Reading": "徹底翻轉基礎設施（推測為水處理廠或厭氧消化廠）的鄰避效應。藉由將廠房「藏於自然」，同時在內部引入木材與精緻的光影設計，將原本骯髒、生硬的工業空間提升為具有高度精神性與美學價值的場所。",
+      "Contextual_Relationship": "位於開闊的綠地、農田或自然公園景觀中，建築如同一座平緩的人造丘陵，與周邊的地形地貌完美無縫地接軌。"
+    },
+    "P3_Details_constructure_diagram": {
+      "Image_Analysis": "圖解部分包含兩個分析層次：\n1. 景觀設計策略圖（landscape design strategy）：展示了建築如何作為一個同心圓的幾何中心，其周邊地景以漣漪狀向外擴散，結合水體、步道與不同層次的植栽，達到水土保持與生態復育的整體規劃功能。\n2. 廠房流程圖（plant diagram）：解析了內部的工業運作機制（推測為水資源回收或生物處理流程），以顏色與線條詳細標示了各個處理槽體與管線之間的循環連結關係，解釋了環形平面配置如何完美契合這種連續性的工業製程需求。"
+    }
   }
 }
