@@ -3,7 +3,7 @@
 # 案例主題
 發電廠
 # 資料夾結構
-P1圖面/P2照片/P3概念>案例
+案例>P1圖面 (Drawings)/P2照片-渲染圖 (Photos-Renders)/P3概念-構造圖 (Diagrams-Details)
 # Knowledge structure
 ## Layer01基本資料
 ### Building
