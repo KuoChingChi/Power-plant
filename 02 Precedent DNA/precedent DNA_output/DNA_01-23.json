@@ -1,0 +1,3987 @@
+{
+    "Case id": 1,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": [
+          "作為地景中的線型斷裂 [cite: 8]",
+          "宛如地表掀起的地毯，與自然坡地完美融合 (推測)"
+        ],
+        "orientation": {
+          "main entrance": [
+            "朝向鄰近主要道路與半室外裝卸區 (推測) [cite: 13]"
+          ],
+          "massing orientation": [
+            "順應山勢與水流流向的線型配置 (推測)"
+          ]
+        },
+        "environmental_response": {
+          "lighting_strategy": [
+            "室內透過半透明板引入光線",
+            "夜間由內部發光，光線穿透格柵立面 [cite: 13]"
+          ],
+          "ventilation_strategy": [
+            "透過木格柵立面進行自然通風 (推測)"
+          ]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": [
+          "清水混凝土",
+          "木格柵與大地色系天然材料 [cite: 3, 12]"
+        ],
+        "interior_finishes": [
+          "清水模室內牆面",
+          "半透明室內採光板"
+        ],
+        "performance_and_lifecycle": [
+          "耐久且適應高山氣候的抗候材料 (推測)",
+          "抗水壓及基礎防水防滲材料 (推測)"
+        ]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": [
+            "半室外裝卸區-木質開口入口-控制與辦公空間-挑高機房大廳 (推測)"
+          ]
+        },
+        "circulation": [
+          "外部道路>半室外車輛迴車區>入口>辦公區>機房天車維修步道 (推測)"
+        ],
+        "spatial_boundaries_and_connectivity": [
+          "以打入地下的混凝土板分隔平滑丘陵與粗獷建築結構 [cite: 12]",
+          "透過擋土牆將人工基礎結構與自然地形巧妙縫合"
+        ]
+      },
+      "facade": {
+        "materiality_and_texture": [
+          "木格柵立面 (lamellar façade) [cite: 13]",
+          "大地色系天然材料 [cite: 12]"
+        ],
+        "fenestration_and_transparency": [
+          "夜間光線可穿透的格柵立面 [cite: 13]",
+          "半透明室內採光板"
+        ],
+        "tectonic_detailing": [
+          "呈現建築與地貌斷裂交接的線性開口 [cite: 8]",
+          "波浪型混凝土屋頂邊緣收頭 (推測)"
+        ]
+      },
+      "scale": {
+        "physical_dimensions": [
+          "無資料"
+        ],
+        "human_scale_relationship": [
+          "外部將巨大體量隱蔽於地形中以降低對人的視覺衝擊 [cite: 7]",
+          "內部呈現純粹的工業紀念性尺度與挑高空間"
+        ],
+        "urban_proportion": [
+          "消融於群山環繞的河谷與小村莊尺度中 (推測)",
+          "夜間作為鄉村道路旁的獨特視覺地標 [cite: 13]"
+        ]
+      },
+      "program": {
+        "functional_zoning": [
+          "機房核心空間",
+          "控制與辦公空間",
+          "半室外裝卸與車輛迴車區"
+        ],
+        "spatial_hierarchy": {
+          "Primary": [
+            "機房發電機大廳 (容納水輪機與發電機組) [cite: 11]"
+          ],
+          "Secondary": [
+            "控制與辦公空間",
+            "上游進水口與下游尾水渠 [cite: 11]"
+          ],
+          "others": [
+            "既有沉砂池 (sand trap) [cite: 11]",
+            "壓力管道與Y型管 [cite: 11]"
+          ]
+        },
+        "occupancy_type": [
+          "基礎水電工程設施與工業廠房 [cite: 9]"
+        ]
+      },
+      "structure_and_construction": {
+        "structure_system": [
+          "岩盤基礎 (推測)",
+          "打入地下的混凝土板與擋土牆 [cite: 12]"
+        ],
+        "enclosure_system": [
+          "波浪型鋼筋混凝土屋頂 (推測)",
+          "木格柵外殼與半透明板"
+        ],
+        "construction_method": [
+          "順應坡地開挖並覆土的地景構築工法 (推測)",
+          "保留既有水利設施並增建外殼的整合工法 [cite: 11]"
+        ]
+      }
+    },
+    "Energy_production": {
+      "generation_type": [
+        "水力發電 (Hydroelectric power station) [cite: 2, 5]"
+      ],
+      "power_capacity": [
+        "無資料"
+      ],
+      "energy_source": [
+        "自然水力 (Natural powers) [cite: 2, 9]"
+      ],
+      "output_type": [
+        "可用能源/電力 (Useful energy) [cite: 2, 9]"
+      ],
+      "byproduct_management": [
+        "發電尾水經由下游尾水渠排回河道 (推測)"
+      ]
+    },
+    "Event": {
+      "status": [
+        "已完工 (推測)"
+      ],
+      "completion": 2011,
+      "renovation": [
+        "無資料"
+      ]
+    },
+    "Site": {
+      "context": {
+        "natural_context": [
+          "位於義大利南提洛爾的阿爾卑斯山區 (Planeiler Alm) [cite: 1]",
+          "脆弱的高山自然環境，具備平滑丘陵與草地景觀 [cite: 5, 8]",
+          "具備高低落差與水流路徑的山谷地形 (推測)"
+        ],
+        "historical_context": [
+          "留有既有水利設施如壓力管道與沉砂池 [cite: 11]",
+          "緊鄰小村莊與鄉間道路 (推測) [cite: 13]"
+        ],
+        "cultural_context": [
+          "作為阿爾卑斯山區鄉村聚落基礎設施的一部分 (推測)",
+          "夜間點亮成為附近道路視覺上的地標與指引 [cite: 4, 13]"
+        ]
+      },
+      "landscape": [
+        "建築如同人造山丘融入自然坡地，形成地貌的線性斷裂 [cite: 8]",
+        "優美的波浪狀綠屋頂與溫暖木格柵與自然環境呼應",
+        "夜間發光體改變了景觀的黑暗氛圍，從主要道路可見其獨特標誌性 [cite: 4, 13]"
+      ]
+    },
+    "Participant": {
+      "architect": [
+        "monovolume architecture + design [cite: 1, 5]"
+      ],
+      "user": [
+        "電廠維護與營運人員 (推測)"
+      ],
+      "client": [
+        "Puni Energie GmbH (Ltd.) / SEL AG [cite: 1, 5, 6]"
+      ],
+      "co_working_designer": [
+        "無資料"
+      ],
+      "consultant": [
+        "特殊專業工程師 (specialist engineers) [cite: 6]"
+      ]
+    },
+    "Sustainability": {
+      "carbon_footprint": [
+        "水力發電屬低碳排之再生能源 (推測)"
+      ],
+      "circular_economy": [
+        "自然水資源的循環利用 (推測)"
+      ],
+      "ecological_impact": [
+        "透過覆土建築與綠屋頂大幅降低對阿爾卑斯山脆弱生態的視覺與環境衝擊 [cite: 5]",
+        "維持既有沉砂池與壓力管道位置，減少額外開挖破壞 [cite: 11]"
+      ]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "水力發電廠需仰賴特定的高低落差與水文條件，因此常座落於如阿爾卑斯山脈等生態脆弱的山谷地區 [cite: 5]。為了將龐大的工業量體置入平滑的丘陵景觀中，設計策略試圖將設施隱藏，使其如同地景中的線性斷裂，既能與地形完美同化，又不失其工程特徵 [cite: 7, 8]。",
+      "Layer03": {
+        "massing_strategy": [
+          "深埋於覆土地形與岩盤基礎之中",
+          "與坡地融合的波浪型屋頂"
+        ],
+        "material": [
+          "採用大地色系天然材料 [cite: 12]",
+          "屋頂綠化植被 (Green roof)"
+        ],
+        "環境縫合特徵": [
+          "混凝土板打入地下以分隔自然景觀與粗獷結構 [cite: 12]",
+          "擋土牆將人工基礎結構與地形深度結合"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "為容納巨型的壓力管道、水輪機及發電機組 [cite: 11]，建築內部必須創造單一的純粹挑高大空間。在立面上，透過半透明材質及斷裂開口將自然光引入深邃機房；在夜間，內部機械運作的光芒則透過格柵外透，讚頌水力轉化為能源的工業力量 [cite: 9, 13]。",
+      "Layer03": {
+        "facade": [
+          "木格柵結合半透明室內採光板",
+          "線性斷裂般的立面開口 (linear fracture) [cite: 8]"
+        ],
+        "剖面特徵": [
+          "機房挑高空間以容納2座大型發電機組與維修天車",
+          "順應水流從上游進水口至下游尾水渠的高低落差配置 (推測)"
+        ],
+        "室內氛圍": [
+          "清水模與明亮光線彰顯工程設施的紀念性"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "在脆弱的高山環境中開發再生能源，需將生態干擾降至最低。設計上嚴格保留了既有的水電基礎設施（如沉砂池、壓力管道），以減少新工程的開發面積與地貌破壞 [cite: 11]；同時運用綠屋頂與自然大地色材料，讓建築生命週期與自然景觀產生和諧的共生關係 [cite: 5, 12]。",
+      "Layer03": {
+        "副產物利用": [
+          "發電後的尾水經由下游尾水渠無害排回自然河道 (推測)"
+        ],
+        "material": [
+          "耐久的清水混凝土",
+          "減少視覺衝擊的大地色系天然建材 [cite: 12]"
+        ],
+        "生態低衝擊設計": [
+          "沿用預先定義好的管線與沉砂池位置不作變動 [cite: 11]",
+          "綠屋頂恢復地表植被"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "由專業能源企業 (SEL AG) 與工程師制定了嚴格的靜力學與水利工程基礎 [cite: 6]，建築師 (monovolume) 則扮演關鍵整合角色，在滿足業主將龐大體積融入柔和丘陵的要求下 [cite: 7, 10]，將純粹的工程設施轉化為兼具美學的建築，並透過夜間照明讓當地人感知到能源的存在 [cite: 13]。",
+      "Layer03": {
+        "複合program": [
+          "工業發電機房+控制與辦公空間",
+          "水利工程基礎設施+鄉村夜間地標"
+        ],
+        "circulation": [
+          "外部主要道路>半室外裝卸與車輛迴車區>廠房內部維修天車軌道 (推測)"
+        ],
+        "協作整合介面": [
+          "建築結構體與既有Y型管、發電機組的精準放樣與介面收邊 (推測)"
+        ]
+      }
+    }
+  }, 
+  "Case id": 2,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": [
+          "巨大的楔形量體 [cite: 18]",
+          "斜度由屋頂滑雪道需求與內部機械高低差共同決定 [cite: 18]"
+        ],
+        "orientation": {
+          "main entrance": [
+            "底層設有卡車坡道，遊客則透過玻璃電梯與纜車進入屋頂坡道 (推測)"
+          ],
+          "massing orientation": [
+            "順應內部廠房機械高低順序排列的長向配置 [cite: 18]"
+          ]
+        },
+        "environmental_response": {
+          "lighting_strategy": [
+            "立面鋁磚間的開口讓自然光得以灑入深層處理大廳 [cite: 30]",
+            "西南立面設有較大開口照亮行政樓層工作站 [cite: 30]"
+          ],
+          "ventilation_strategy": [
+            "利用10,000平方公尺的綠屋頂處理85公尺高空微氣候並吸收熱量 [cite: 23]",
+            "廠區通風井與進氣口整合為山岳地形的一部分 [cite: 25]"
+          ]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": [
+          "鋁製堆疊立面磚 (Aluminum bricks) [cite: 29]",
+          "巨型內部鋼構桁架 (推測)"
+        ],
+        "interior_finishes": [
+          "粗獷的鋼構與金屬管線系統 (推測)",
+          "工業貓道 (推測)"
+        ],
+        "performance_and_lifecycle": [
+          "具備吸收熱量、減少空氣微粒及處理暴雨徑流功能的綠屋頂系統 [cite: 23]"
+        ]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": [
+            "底層垃圾坡道-傾卸大廳-儲坑-焚化區 (推測)",
+            "底部纜車/電梯-屋頂滑雪道-觀景台-遊客中心 (推測)"
+          ]
+        },
+        "circulation": [
+          "垃圾車底層進出動線 > 傾卸與內部機械運作 > 遊客經由玻璃電梯/纜車向上 > 沿屋頂坡道滑雪或健行向下 [cite: 20, 22]"
+        ],
+        "spatial_boundaries_and_connectivity": [
+          "連續的金屬磚立面包覆龐大的工業核心",
+          "玻璃電梯讓遊客能一窺工廠內部24小時的運作 [cite: 20]"
+        ]
+      },
+      "facade": {
+        "materiality_and_texture": [
+          "1.2m高、3.3m寬的鋁磚交疊堆砌 [cite: 29]"
+        ],
+        "fenestration_and_transparency": [
+          "鋁磚堆疊間隙形成玻璃開口引入自然光 [cite: 30]",
+          "長向垂直立面設有85公尺高的攀岩牆，具備透視工廠內部的視野 [cite: 31]"
+        ],
+        "tectonic_detailing": [
+          "鋁磚如同巨型積木般堆疊 [cite: 29]",
+          "立面磚塊兼具植栽槽功能創造綠色立面 (推測)"
+        ]
+      },
+      "scale": {
+        "physical_dimensions": [
+          "41,000 m² [cite: 14]"
+        ],
+        "human_scale_relationship": [
+          "透過屋頂人造休閒景觀，將生硬龐大的重工業量體轉化為具親和力的市民空間 [cite: 26]"
+        ],
+        "urban_proportion": [
+          "在平坦的丹麥地形中，憑空創造出一座85公尺高的人造高山與城市地標 [cite: 21, 23]"
+        ]
+      },
+      "program": {
+        "functional_zoning": [
+          "核心廢棄物處理廠房區 [cite: 16]",
+          "屋頂及外牆休閒娛樂區 (滑雪道、健行步道、攀岩牆) [cite: 14, 18, 31]",
+          "行政、教育與商業區 [cite: 27, 32]"
+        ],
+        "spatial_hierarchy": {
+          "Primary": [
+            "廢棄物燃燒與能源轉化核心廠房 (Furnaces, turbines) [cite: 24]"
+          ],
+          "Secondary": [
+            "9,000平方公尺的滑雪地形 [cite: 18]",
+            "十層樓的行政空間與600平方公尺的教育中心 [cite: 27]"
+          ],
+          "others": [
+            "底部600平方公尺的après-ski酒吧 [cite: 32]",
+            "490公尺長的綠樹成蔭健行步道 [cite: 22]"
+          ]
+        },
+        "occupancy_type": [
+          "廢棄物轉化能源廠結合城市休閒娛樂中心 [cite: 14, 17]"
+        ]
+      },
+      "structure_and_construction": {
+        "structure_system": [
+          "大跨度重型工業鋼構系統 (推測)"
+        ],
+        "enclosure_system": [
+          "連續鋁磚外殼與綠化屋頂系統 [cite: 23, 29]"
+        ],
+        "construction_method": [
+          "外殼與屋頂斜度依循內部核心機械設備的高低落差精確放樣構築 [cite: 18]"
+        ]
+      }
+    },
+    "Energy_production": {
+      "generation_type": [
+        "廢棄物轉化能源 (Waste-to-energy) [cite: 14]"
+      ],
+      "power_capacity": [
+        "每年處理440,000噸廢棄物，供應150,000戶家庭電力與區域供暖 [cite: 24]"
+      ],
+      "energy_source": [
+        "城市固體廢棄物/垃圾 (推測)"
+      ],
+      "output_type": [
+        "電力 (Electricity) [cite: 24]",
+        "區域供暖 (District heating) [cite: 24]"
+      ],
+      "byproduct_management": [
+        "煙囪每排放1噸二氧化碳便吐出一個煙圈，提醒大眾碳排放影響 (推測)"
+      ]
+    },
+    "Event": {
+      "status": [
+        "已完工 [cite: 14]"
+      ],
+      "completion": 2019,
+      "renovation": [
+        "取代相鄰一座50年歷史的舊廢棄物發電廠 [cite: 16]"
+      ]
+    },
+    "Site": {
+      "context": {
+        "natural_context": [
+          "位於丹麥平坦的景觀中 [cite: 21]",
+          "緊鄰哥本哈根水岸 (推測)"
+        ],
+        "historical_context": [
+          "座落於Amager工業港口區，該區的粗獷工業設施已成為極限運動場地 [cite: 17]"
+        ],
+        "cultural_context": [
+          "呼應哥本哈根在2025年成為全球首個碳中和城市的願景 [cite: 14]",
+          "實踐「享樂永續主義」(Hedonistic sustainability)，將基礎設施轉化為市民地標 [cite: 14]"
+        ]
+      },
+      "landscape": [
+        "宛如平原中拔地而起的山脈，由丹麥景觀建築師SLA設計的茂密山地地形 [cite: 22]",
+        "建築外觀呈現金屬幾何堆疊，成為周遭海際線中最顯眼的地標 (推測)"
+      ]
+    },
+    "Participant": {
+      "architect": [
+        "Bjarke Ingels Group (BIG) [cite: 14]"
+      ],
+      "user": [
+        "ARC團隊員工 [cite: 27]",
+        "滑雪客、極限運動者與一般市民、遊客 [cite: 19, 21]"
+      ],
+      "client": [
+        "Amager Ressourcecenter (ARC) [cite: 16]"
+      ],
+      "co_working_designer": [
+        "Danish Landscape Architects SLA (景觀設計) [cite: 22]"
+      ],
+      "consultant": [
+        "機械與發電設備工程顧問 (推測)"
+      ]
+    },
+    "Sustainability": {
+      "carbon_footprint": [
+        "透過煙圈視覺化碳排放量，提升公眾對碳足跡的意識 (推測)",
+        "助力城市實現2025碳中和目標 [cite: 14]"
+      ],
+      "circular_economy": [
+        "將城市垃圾轉化為潔淨能源供市民使用，形成廢棄物循環 [cite: 24]"
+      ],
+      "ecological_impact": [
+        "綠屋頂重分野生生物多樣性景觀，改善微氣候並減少暴雨徑流 [cite: 23]"
+      ]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "傳統廢棄物發電廠因視覺與環境衝擊常被視為鄰避設施。本案利用哥本哈根工業港口區的平坦特性，順應內部巨大發電機具的高低差，將建築轉化為平地中拔地而起的「人造山岳」。這不僅消解了巨大量體對環境的壓迫感，更填補了該城市缺乏高低地形休閒場域的空缺，成功與當地極限運動文化結合。",
+      "Layer03": {
+        "massing_strategy": [
+          "順應機械高度排列的巨大楔形量體 [cite: 18]",
+          "在平坦城市中創造人造高山地形 [cite: 21]"
+        ],
+        "material": [
+          "大規模綠化植被覆蓋屋頂 [cite: 23]"
+        ],
+        "環境地景重塑": [
+          "將通風井與進氣口等生硬工業設施轉化為山脈地形起伏的一部分 [cite: 25]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "廢棄物發電製程需要龐大的空間尺度來容納傾卸區、儲坑與燃燒爐。設計並未掩飾這些需求，而是讓機械配置直接形塑建築的斜屋頂輪廓。外立面透過連續的鋁磚交疊與錯落的開口，將封閉的工業黑盒打開，透過自然採光與透明的垂直動線，讓公眾能直觀見證垃圾轉化能源的過程。",
+      "Layer03": {
+        "facade": [
+          "鋁製堆疊立面磚結合自然光開口 [cite: 29, 30]",
+          "運用長向垂直立面打造85公尺高攀岩牆 [cite: 31]"
+        ],
+        "剖面特徵": [
+          "內部機具精確依高度排列，決定屋頂9,000平方公尺滑雪道的斜度 [cite: 18]"
+        ],
+        "視覺與空間穿透": [
+          "設置玻璃電梯，使遊客能一窺工廠內部24小時運作情況 [cite: 20]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "建築體現了「享樂永續主義」，打破環保等於犧牲的刻板印象。在處理每年數十萬噸垃圾並產出能源的同時，屋頂建置的生態綠林改善了高空微氣候；而將二氧化碳排放轉化為視覺化的煙圈，則將生硬的碳排放數據轉變為溫和的社會溝通與環境教育裝置。",
+      "Layer03": {
+        "副產物利用": [
+          "燃燒廢棄物轉化為電力與供暖 [cite: 24]",
+          "煙囪排放轉化為具教育意義的煙圈提醒 (推測)"
+        ],
+        "material": [
+          "10,000平方公尺的生態綠屋頂系統 [cite: 23]"
+        ],
+        "社會與環境教育": [
+          "設置教育中心舉辦永續發展會議，將工廠化為環境教育樞紐 [cite: 14, 27]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "透過建築師、景觀設計師與業主的緊密合作，本案將封閉的基礎設施開放。原先只有垃圾車與操作員進出的廠房，疊加了滑雪客、登山者與市民的日常活動。多重角色的參與讓廢棄物處理廠不只在經濟與環境上獲利，更創造了極大的社會效益與公共價值。",
+      "Layer03": {
+        "複合program": [
+          "廢棄物轉化能源廠房 + 城市高山休閒育樂中心 (滑雪道/攀岩/酒吧) [cite: 14, 18, 32]"
+        ],
+        "circulation": [
+          "底層重工業垃圾處理動線 > 邊緣與頂部的市民休閒觀光動線 [cite: 20, 22]"
+        ],
+        "認知翻轉與設施共享": [
+          "將封閉的基礎設施外殼打開，使其成為具備社會經濟效益的家庭與朋友聚會勝地 [cite: 33]"
+        ]
+      }
+    }
+  },
+  "Case id": 3,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": [
+          "純粹、封閉的矩形機房量體",
+          "高聳的古典拱形鋼結構景觀門戶 [cite: 40]"
+        ],
+        "orientation": {
+          "main entrance": [
+            "朝向內部維護通道或附屬設施側 (推測)"
+          ],
+          "massing orientation": [
+            "與高壓鋼結構桁架電塔相鄰並立",
+            "與相鄰的公路車流方向產生並置呼應 [cite: 38]"
+          ]
+        },
+        "environmental_response": {
+          "lighting_strategy": [
+            "立面玻璃板與主體脫開600mm，夜間於夾層打光使建築如燈籠般發光 [cite: 42, 43]",
+            "從電能流動中汲取靈感，將其轉化為光的視覺表現 [cite: 37]"
+          ],
+          "ventilation_strategy": [
+            "封閉機房量體，推測依賴機械空調維持變電設備恆溫 (推測)"
+          ]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": [
+          "天然著色的圖像混凝土 (graphic concrete) [cite: 41]",
+          "玻璃 (glass planks) [cite: 41, 42]",
+          "耐候鋼管 (Corten steel tubes) [cite: 47]"
+        ],
+        "interior_finishes": [
+          "清水混凝土機房核心大廳 (推測)",
+          "鋼構框架 (推測)"
+        ],
+        "performance_and_lifecycle": [
+          "耐候鋼具備免維護 (maintenance-free) 特性，適合高聳結構 [cite: 48]"
+        ]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": [
+            "外部景觀電塔-內部附屬技術設施-開關室與電纜核心大廳 (推測)"
+          ]
+        },
+        "circulation": [
+          "外部維修車道>南側三層樓附屬技術設施>大型開關室與電纜空間 [cite: 45, 46]"
+        ],
+        "spatial_boundaries_and_connectivity": [
+          "內部空間分為大跨距設備核心大廳及南側三層樓的其他技術設施 [cite: 45, 46]",
+          "封閉的發光盒子與開放穿透的鋼構鐵塔形成強烈虛實對比"
+        ]
+      },
+      "facade": {
+        "materiality_and_texture": [
+          "與主體積脫離的玻璃板覆蓋元素 [cite: 42]",
+          "溫暖鏽色的耐候鋼管 [cite: 47, 49]"
+        ],
+        "fenestration_and_transparency": [
+          "半透明玻璃立面，反映配電產業廣泛使用的玻璃絕緣子 [cite: 44]",
+          "透過夜間照明呈現內部半透明的層次感 [cite: 43]"
+        ],
+        "tectonic_detailing": [
+          "半透明玻璃發光盒子的水平線條",
+          "直徑800mm的耐候鋼管構成的古典拱形門戶 [cite: 47]"
+        ]
+      },
+      "scale": {
+        "physical_dimensions": [
+          "2000 m² [cite: 34]"
+        ],
+        "human_scale_relationship": [
+          "純粹且無開窗的量體，呈現超越人體尺度的工業基礎設施宏偉感 (推測)"
+        ],
+        "urban_proportion": [
+          "成為公路旁高能見度的亮點，並將普通鐵塔轉化為約50公尺高的區域地標 [cite: 34, 40]"
+        ]
+      },
+      "program": {
+        "functional_zoning": [
+          "開關室與電纜空間 [cite: 45]",
+          "輔助技術設施區 [cite: 46]",
+          "戶外高壓電塔景觀門戶 [cite: 47]"
+        ],
+        "spatial_hierarchy": {
+          "Primary": [
+            "佔據最大空間的開關室及其下方的電纜空間 [cite: 45]"
+          ],
+          "Secondary": [
+            "分佈於南側三層樓的其他技術設施 [cite: 46]"
+          ],
+          "others": [
+            "約50公尺高的古典拱形景觀門戶 [cite: 40]"
+          ]
+        },
+        "occupancy_type": [
+          "變電所 / 輸配電基礎設施 [cite: 35, 40]"
+        ]
+      },
+      "structure_and_construction": {
+        "structure_system": [
+          "三層樓混凝土框架GIS建築 [cite: 45]",
+          "高壓鋼結構桁架與耐候鋼管結構 [cite: 47]"
+        ],
+        "enclosure_system": [
+          "外掛式雙層玻璃立面系統與圖像混凝土牆 [cite: 41, 42]"
+        ],
+        "construction_method": [
+          "將玻璃板與主建築量體脫開600mm的組裝工法 [cite: 42]"
+        ]
+      }
+    },
+    "Energy_production": {
+      "generation_type": [
+        "變電與輸配電 (Electric power station) [cite: 35]"
+      ],
+      "power_capacity": [
+        "400 kV 變電站擴建 [cite: 35]",
+        "傳輸電力給萬塔和赫爾辛基的800,000名居民 [cite: 36]"
+      ],
+      "energy_source": [
+        "來自Fingrid的主電網 (Main grid) [cite: 36]"
+      ],
+      "output_type": [
+        "市區配電電力 (推測)"
+      ],
+      "byproduct_management": [
+        "電氣設備散發之廢熱與電磁波管理 (推測)"
+      ]
+    },
+    "Event": {
+      "status": [
+        "已完工 [cite: 35]"
+      ],
+      "completion": 2018,
+      "renovation": [
+        "Fingrid 400 kV Länsisalmi 變電站的擴建與更新項目 [cite: 35]"
+      ]
+    },
+    "Site": {
+      "context": {
+        "natural_context": [
+          "位於芬蘭，處於具備雪地景觀的環境中 (推測)"
+        ],
+        "historical_context": [
+          "位於Ring Road III與Porvoonväylä高速公路交會處的顯眼位置 [cite: 34]",
+          "原有變電站的擴充用地 [cite: 35]"
+        ],
+        "cultural_context": [
+          "將普遍不受歡迎、灰暗的變壓器建築轉化為發光的城市藝術地標 [cite: 40]"
+        ]
+      },
+      "landscape": [
+        "建築與呼嘯而過的公路車流形成動靜並置的景觀呼應 [cite: 38]",
+        "溫暖的生鏽耐候鋼色調與周圍環境及立面和諧共鳴 [cite: 49]",
+        "約50公尺高的拱形電塔成為該區域的天際線焦點 [cite: 40]"
+      ]
+    },
+    "Participant": {
+      "architect": [
+        "Olla Architecture [cite: 34]"
+      ],
+      "user": [
+        "電網營運與設備維修人員 (推測)"
+      ],
+      "client": [
+        "國家電網營運商 Fingrid [cite: 35]"
+      ],
+      "co_working_designer": [
+        "無資料"
+      ],
+      "consultant": [
+        "機電與輸配電工程顧問 (推測)"
+      ]
+    },
+    "Sustainability": {
+      "carbon_footprint": [
+        "選用免維護的耐候鋼，減少長期維護產生的碳排與資源消耗 [cite: 48]"
+      ],
+      "circular_economy": [
+        "在既有電網節點上進行擴建與系統更新，最大化現有基礎設施價值 [cite: 35]"
+      ],
+      "ecological_impact": [
+        "透過美學設計將鄰避的基礎設施轉化為地標，減少對周遭環境與視覺的污染心理衝擊 (推測)"
+      ]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "變電設施通常為鄰避設施，但此案位於兩條高速公路交會的高能見度角地 [cite: 34]。設計上藉由將無形的電能轉化為「光」的視覺表現 [cite: 37]，並將冰冷的鋼構鐵塔轉變為約50公尺高的雕塑性拱門 [cite: 40]，成功將基礎設施轉化為環境中的發光地標，與周遭川流不息的車流相互呼應 [cite: 38]。",
+      "Layer03": {
+        "massing_strategy": [
+          "平面配置遵循機能需求，但外觀形體不受限以創造開放的建築表現 [cite: 39]"
+        ],
+        "material": [
+          "採用具溫暖鏽色的耐候鋼 (Corten steel tubes) [cite: 47, 49]"
+        ],
+        "地標性門戶創造": [
+          "將普通景觀電塔轉化為約50公尺高的古典拱形區域圖騰 [cite: 40]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "變電所內部主要由大型變壓器、開關室與電纜空間構成，為極端理性的工業設備空間 [cite: 45]。為了包裝這些封閉空間，建築外殼運用了圖像混凝土與U型玻璃 [cite: 41, 42]。玻璃立面與主體脫開600mm，夜間打光後使封閉機房化身為發光燈籠，且玻璃材質巧妙隱喻了電力分配中大量使用的絕緣子元件 [cite: 42, 43, 44]。",
+      "Layer03": {
+        "facade": [
+          "與主體量體脫開600mm的半透明玻璃板立面系統 [cite: 42]"
+        ],
+        "剖面特徵": [
+          "開關室位於上層，下方配置電纜空間的三層樓混凝土框架結構 [cite: 45]"
+        ],
+        "材料隱喻與照明": [
+          "玻璃外牆隱喻電氣絕緣子，並透過夜間照明展現「電力作為可見現象」的設計概念 [cite: 43, 44]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "電力設施需考慮極端氣候適應與長期的運作耐用度。在巨型景觀門戶上選用耐候鋼 (Corten steel) 材質，不僅因為其天然鏽色能與建築立面和諧共鳴 [cite: 49]，更著眼於其免維護特性 [cite: 48]。這大幅降低了高空金屬結構的保養難度與生命週期成本，同時透過視覺藝術化降低鄰避效應。",
+      "Layer03": {
+        "副產物利用": [
+          "無直接利用副產物，但透過設計將廢棄或灰暗的都市負面空間轉化為正向景觀 [cite: 40]"
+        ],
+        "material": [
+          "選用免維護 (maintenance-free) 的耐候鋼以延長材料生命週期並降低營運成本 [cite: 48]"
+        ],
+        "視覺環境永續": [
+          "將灰暗無特徵的變電站轉化為發光燈籠，改善公共空間的環境品質 [cite: 40]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "由國家電網營運商 (Fingrid) 委託進行擴建，目標是穩定供應大赫爾辛基區80萬居民用電 [cite: 35, 36]。建築師在此過程中不僅滿足了嚴格的機電功能需求 [cite: 39]，更突破了社會對變電站的刻板印象 [cite: 40]。這展現了建築師的介入能賦予純粹工程設施極高的美學價值與社會意義。",
+      "Layer03": {
+        "複合program": [
+          "嚴謹的機能變電設施 + 城市夜間發光藝術地標 [cite: 40]"
+        ],
+        "circulation": [
+          "將南側附屬設施與主要開關室機能進行理性的動線分離與垂直疊加 [cite: 45, 46]"
+        ],
+        "公共形象重塑": [
+          "將能源流動具象化為光，翻轉基礎設施作為視覺妨礙的負面形象 [cite: 37, 38]"
+        ]
+      }
+    }
+  },
+  "Case id": 4,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": [
+          "融入陡峭河岸的混凝土基座 [cite: 58]",
+          "以輕透木格柵構架包裹內部厚重廠房的雙層量體 [cite: 50, 54]"
+        ],
+        "orientation": {
+          "main entrance": [
+            "連通外部步道與樓梯引導訪客向上 (推測)"
+          ],
+          "massing orientation": [
+            "順應Ouiatchouan河岸與陡坡地形配置 (推測)"
+          ]
+        },
+        "environmental_response": {
+          "lighting_strategy": [
+            "木格柵立面過濾夏季陽光 [cite: 54]",
+            "內部設備可透過外部玻璃景觀窗採光並向外展示 [cite: 60]"
+          ],
+          "ventilation_strategy": [
+            "穿孔木板條外殼提供半戶外步道自然的通風與庇護 [cite: 54, 57]"
+          ]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": [
+          "清水混凝土基座 [cite: 58]",
+          "木格柵與木作百葉 [cite: 54, 57]",
+          "黑色鋼構框架 (推測)"
+        ],
+        "interior_finishes": [
+          "清水混凝土牆體與重工業機具 (推測)"
+        ],
+        "performance_and_lifecycle": [
+          "木格柵立面設計允許未來植被攀附生長，隨時間融入自然 [cite: 61, 63]",
+          "木材外殼具備遮蔽夏季豔陽與冬季白雪的氣候調節功能 [cite: 54]"
+        ]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": [
+            "河岸戶外步道-外部樓梯與半戶外廊道-觀景平台/黑色懸浮陽台 [cite: 54, 59, 62]"
+          ]
+        },
+        "circulation": [
+          "外部樓梯引導訪客圍繞廠房外牆盤旋向上，抵達頂層觀景台 [cite: 54, 59]"
+        ],
+        "spatial_boundaries_and_connectivity": [
+          "厚重混凝土內部機房與外圍輕盈木構步道形成清晰的包裹關係 [cite: 54]",
+          "透過景觀窗打破內部發電設備與外部參觀步道的視覺邊界 [cite: 60]"
+        ]
+      },
+      "facade": {
+        "materiality_and_texture": [
+          "穿孔木板條/木格柵立面 [cite: 50, 57]",
+          "外露黑色鋼構陽台 [cite: 59]"
+        ],
+        "fenestration_and_transparency": [
+          "外牆設置玻璃景觀窗以透視內部發電設備 [cite: 60]"
+        ],
+        "tectonic_detailing": [
+          "如棲木般的黑色陽台自木飾面中懸挑凸出 [cite: 59, 62]"
+        ]
+      },
+      "scale": {
+        "physical_dimensions": [
+          "無資料"
+        ],
+        "human_scale_relationship": [
+          "以木格柵步道與懸挑陽台軟化重工業量體，創造適合遊客漫步的親人尺度 [cite: 53, 54, 59]"
+        ],
+        "urban_proportion": [
+          "刻意隱蔽並消融於歷史遺跡與自然河岸環境的尺度中 [cite: 53, 63]"
+        ]
+      },
+      "program": {
+        "functional_zoning": [
+          "核心發電基礎大廳",
+          "戶外環繞觀景步道與平台",
+          "歷史遺址觀光區 [cite: 53, 54]"
+        ],
+        "spatial_hierarchy": {
+          "Primary": [
+            "大挑高空間的核心發電大廳"
+          ],
+          "Secondary": [
+            "圍繞廠房外牆的公共木構步道 [cite: 54]"
+          ],
+          "others": [
+            "突出於木立面的黑色懸浮陽台觀景點 [cite: 59]"
+          ]
+        },
+        "occupancy_type": [
+          "水力發電廠 [cite: 50]",
+          "歷史遺址公共觀景設施 [cite: 53, 56]"
+        ]
+      },
+      "structure_and_construction": {
+        "structure_system": [
+          "依附陡坡的混凝土基座與主牆體 [cite: 58]"
+        ],
+        "enclosure_system": [
+          "穿孔木格柵與輕鋼構外殼系統 [cite: 50, 57]"
+        ],
+        "construction_method": [
+          "厚重混凝土基底外掛輕盈木條與懸浮陽台的雙層構築工法 [cite: 58, 59]"
+        ]
+      }
+    },
+    "Energy_production": {
+      "generation_type": [
+        "水力發電 (Hydroelectric power plant) [cite: 50, 52]"
+      ],
+      "power_capacity": [
+        "無資料"
+      ],
+      "energy_source": [
+        "Ouiatchouan河的瀑布水力 (Waterfalls on the Ouiatchouan river) [cite: 52]"
+      ],
+      "output_type": [
+        "電力 (推測)"
+      ],
+      "byproduct_management": [
+        "發電尾水無害排放回河道自然循環 (推測)"
+      ]
+    },
+    "Event": {
+      "status": [
+        "已完工"
+      ],
+      "completion": 0,
+      "renovation": [
+        "於1900年代初期造紙廠舊址新建水力發電與觀景設施 [cite: 51, 52]"
+      ]
+    },
+    "Site": {
+      "context": {
+        "natural_context": [
+          "位於加拿大魁北克Ouiatchouan河岸的陡峭坡地與瀑布旁 [cite: 50, 52, 58]",
+          "周遭環境有嚴酷的冬雪與夏陽氣候 [cite: 54]"
+        ],
+        "historical_context": [
+          "座落於因1900年代造紙廠而興起，後於1960年代前廢棄的Val-Jalbert村莊原址 [cite: 51, 55]",
+          "該村莊現已被列為歷史文化遺址 (Historical site) [cite: 55, 56]"
+        ],
+        "cultural_context": [
+          "作為廢棄鬼鎮 (ghost town)，帶有強烈的歷史氛圍並提供大眾遊覽 [cite: 50, 53]"
+        ]
+      },
+      "landscape": [
+        "建築猶如偽裝於歷史遺址中，從懸浮陽台可眺望瀑布、河流與保存良好的舊房舍 [cite: 53, 62]",
+        "木格子立面期望讓周圍植被攀附，最終在視覺上隱蔽這座大型觀景台 [cite: 63]"
+      ]
+    },
+    "Participant": {
+      "architect": [
+        "Atelier Pierre Thibault [cite: 50]",
+        "Pierre Thibault, Jérôme Lapierre, Mathieu Leclerc [cite: 50]"
+      ],
+      "user": [
+        "發電廠維修人員",
+        "前往鬼鎮與歷史遺址遊覽的遊客 [cite: 53]"
+      ],
+      "client": [
+        "無資料"
+      ],
+      "co_working_designer": [
+        "無資料"
+      ],
+      "consultant": [
+        "無資料"
+      ]
+    },
+    "Sustainability": {
+      "carbon_footprint": [
+        "水力發電為低碳排之潔淨能源 (推測)"
+      ],
+      "circular_economy": [
+        "重新利用廢棄造紙廠時期即被使用的瀑布水流進行發電，活化歷史資源 [cite: 51, 52]"
+      ],
+      "ecological_impact": [
+        "利用可隨時間風化的木格柵及植物攀附生長特性，將發電設施隱藏於自然與歷史脈絡中，減緩對遺址的視覺衝擊 [cite: 53, 61, 63]"
+      ]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "水力發電廠需依傍河流與瀑布等特定水文條件。本案座落於魁北克具備造紙廠遺址與自然美景的河岸陡坡，為避免現代基礎設施破壞「鬼鎮」遺跡的歷史氛圍，設計採取了「偽裝」與「消融」策略。建築利用木格柵外殼將工業量體隱藏，並期望未來植物能攀附生長，使這座發電兼觀景台徹底融入周邊的自然植被與歷史紋理中 [cite: 51, 52, 53, 61, 63]。",
+      "Layer03": {
+        "massing_strategy": [
+          "將發電廠依附陡峻河岸配置以降低量體壓迫感 [cite: 58]"
+        ],
+        "material": [
+          "使用具備自然質感的木格柵立面以隱藏龐大廠房 [cite: 53, 54]"
+        ],
+        "景觀融合特徵": [
+          "格子立面允許自然植被生長覆蓋，將基礎設施偽裝為山林裡的觀景台 [cite: 63]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "水力發電內部需容納厚重的發電機組，因此核心大廳採用堅固的清水混凝土基座。但在外部，設計利用輕盈的木條與鋼構交織出環繞步道，形成「內重外輕」的空間包裹關係。更透過牆面上的玻璃景觀窗，打破傳統工業建築封閉的黑盒特性，讓外部訪客能直接窺視內部龐大的綠色機械設備，清晰展示能源生產的過程 [cite: 54, 58, 60]。",
+      "Layer03": {
+        "facade": [
+          "穿孔木板條外殼 (Perforated wooden lath envelope) 提供遮陽與擋雪功能 [cite: 54, 57]"
+        ],
+        "剖面特徵": [
+          "深埋的大挑高發電核心與外圍依附牆面攀升的樓梯疊合 (推測)"
+        ],
+        "視覺穿透設計": [
+          "外層設置玻璃面板景觀窗，供人觀看內部發電設備 [cite: 60]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "本案的永續性不僅在於擷取瀑布水流進行潔淨能源生產，更體現於對歷史環境與自然生態的尊重。透過木質表皮的庇護，減緩了極端氣候(如冬雪夏陽)對建築的直接衝擊；而刻意弱化基礎設施的侵略性並擁抱自然演替(植物攀爬)，完美詮釋了人造工業設施與自然生命週期和諧共存的永續價值 [cite: 52, 54, 61, 63]。",
+      "Layer03": {
+        "副產物利用": [
+          "發電後的尾水回歸河流自然循環 (推測)"
+        ],
+        "material": [
+          "能隨時間風化並與自然融合的木質百葉，以及穩固的混凝土基座 [cite: 54, 58, 63]"
+        ],
+        "生態適應特徵": [
+          "引入周遭植被攀附建築，以隱蔽取代對抗自然環境的態度 [cite: 61, 63]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "設計將原本僅供工程人員進出的封閉水電設施，賦予了極高的公共性。透過沿著廠房外牆盤旋向上的步道與突出的懸浮陽台，大眾得以在探索鬼鎮歷史遺址的同時，擁抱瀑布美景並觀察發電設施。此舉成功縫合了能源生產、觀光休憩與歷史教育的三重參與面向 [cite: 53, 56, 59]。",
+      "Layer03": {
+        "複合program": [
+          "水力發電基礎設施 + 歷史遺址公共觀景步道 (Belvedere) [cite: 53, 54]"
+        ],
+        "circulation": [
+          "外部樓梯圍繞建築攀爬，引導遊客抵達多個觀景視角的高點 [cite: 59, 62]"
+        ],
+        "觀景節點設計": [
+          "沿途點綴如棲木般的黑色懸浮陽台，提供眺望瀑布與舊房舍的絕佳視角 [cite: 59, 62]"
+        ]
+      }
+    }
+  },
+  "Case id": 5,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": [
+          "下部形似周邊工廠的斜角屋頂 [cite: 82]",
+          "頂部為高達97公尺的標誌性尖塔量體 [cite: 82]"
+        ],
+        "orientation": {
+          "main entrance": [
+            "朝向廠區內部作業動線 (推測)"
+          ],
+          "massing orientation": [
+            "聳立於開闊平坦的地景中，作為區域的視覺焦點 [cite: 67, 79]"
+          ]
+        },
+        "environmental_response": {
+          "lighting_strategy": [
+            "雙層立面間安裝可編程照明，將光反射於內層，夜間透過多孔外殼溫和透出 [cite: 72, 76]",
+            "燈光模擬燃燒的火焰與餘燼，且不造成天空光害 [cite: 74, 75, 77]"
+          ],
+          "ventilation_strategy": [
+            "內部屏障維持廠房氣候控制，外部多孔鋁板形成自然通風的雙層表皮系統 (推測)"
+          ]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": [
+          "表面經過特殊處理的生鏽琥珀色鋁板 (raw umber-coloured aluminium plates) [cite: 70, 71]"
+        ],
+        "interior_finishes": [
+          "工業廠房金屬構件與隔熱防護塗層 (推測)"
+        ],
+        "performance_and_lifecycle": [
+          "內層為實際氣候屏障，外層鋁板經過處理以在日間呈現所需顏色與光澤 [cite: 70, 71]"
+        ]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": [
+            "外部廢棄物接收區-焚化爐核心廠房-排氣與能源轉換區 (推測)"
+          ]
+        },
+        "circulation": [
+          "廢棄物運輸車輛動線>內部機械與鍋爐垂直處理動線>廢氣排出口 (推測)"
+        ],
+        "spatial_boundaries_and_connectivity": [
+          "以實體內層氣候屏障包裹機房，並透過多孔鋁板外殼賦予建築視覺上的滲透性與詩意 [cite: 70, 77]"
+        ]
+      },
+      "facade": {
+        "materiality_and_texture": [
+          "生鏽琥珀色的鋁板外觀 [cite: 70]"
+        ],
+        "fenestration_and_transparency": [
+          "鋁板帶有雷射切割的不規則圓孔圖案，使光線得以穿透 [cite: 70]"
+        ],
+        "tectonic_detailing": [
+          "分離的雙層立面，外層處理自由，內層具備氣候防護且能反射隱藏光源 [cite: 70, 76]"
+        ]
+      },
+      "scale": {
+        "physical_dimensions": [
+          "高達97公尺 (97-meter spire) [cite: 82]"
+        ],
+        "human_scale_relationship": [
+          "將龐大的超人尺度工業建築，透過夜間動態的詩意燈光轉化為具備親和力的視覺信標 [cite: 73, 77]"
+        ],
+        "urban_proportion": [
+          "作為城市天際線的現代對應物，與擁有千年歷史的羅斯基勒大教堂雙塔並立 [cite: 82, 83]"
+        ]
+      },
+      "program": {
+        "functional_zoning": [
+          "廢棄物處理與焚化區 (推測)",
+          "發電與熱能轉換區 (推測)",
+          "排放尖塔區 [cite: 82]"
+        ],
+        "spatial_hierarchy": {
+          "Primary": [
+            "容納新一代焚化線的核心機房空間 [cite: 69]"
+          ],
+          "Secondary": [
+            "高達97公尺的排放尖塔 [cite: 82]"
+          ],
+          "others": [
+            "廠區行政與營運附屬空間 (推測)"
+          ]
+        },
+        "occupancy_type": [
+          "廢棄物轉化能源廠 / 焚化爐 (Waste-to-energy plant / Incineration line) [cite: 65]"
+        ]
+      },
+      "structure_and_construction": {
+        "structure_system": [
+          "容納大型焚化爐的大跨距重型鋼/混凝土結構 (推測)"
+        ],
+        "enclosure_system": [
+          "由氣候屏障內層與多孔鋁皮外層組成的雙層立面系統 [cite: 70]"
+        ],
+        "construction_method": [
+          "結合尖端製造技術(雷射切割面板)與簡單的構造細節及巧妙的重複性加工 [cite: 78]"
+        ]
+      }
+    },
+    "Energy_production": {
+      "generation_type": [
+        "廢棄物轉化能源 (Waste-to-energy) [cite: 65]"
+      ],
+      "power_capacity": [
+        "為整個羅斯基勒地區提供電力與熱能 [cite: 66]"
+      ],
+      "energy_source": [
+        "來自周圍9個市鎮及國外的廢棄物 [cite: 66]"
+      ],
+      "output_type": [
+        "電力 (Electricity) [cite: 66]",
+        "區域供暖 (Heat power) [cite: 66]"
+      ],
+      "byproduct_management": [
+        "焚化產生的廢氣經由97公尺高的尖塔排放 (推測)"
+      ]
+    },
+    "Event": {
+      "status": [
+        "已完工 (於2014年9月2日由皇儲揭幕啟用) [cite: 66]"
+      ],
+      "completion": 2014,
+      "renovation": [
+        "為當地廢棄物管理公司新一代的焚化線擴建 [cite: 69]"
+      ]
+    },
+    "Site": {
+      "context": {
+        "natural_context": [
+          "位於丹麥羅斯基勒廣闊且相對平坦的地景中 (Skagerrag landscape) [cite: 67, 83]"
+        ],
+        "historical_context": [
+          "羅斯基勒曾為丹麥首都，擁有一座近千年歷史的聯合國教科文組織世界遺產「大教堂 (Cathedral)」 [cite: 65, 81, 83]"
+        ],
+        "cultural_context": [
+          "透過國際競圖尋求合適的建築外觀，以賦予純粹工業綜合體附加價值與歷史意義 [cite: 67, 80]"
+        ]
+      },
+      "landscape": [
+        "在寬廣開放的地景中成為突出的現代標誌，其發光輪廓豐富了這座小城市的天際線 [cite: 79, 81]"
+      ]
+    },
+    "Participant": {
+      "architect": [
+        "Erick van Egeraat [cite: 65]"
+      ],
+      "user": [
+        "廠區營運人員與羅斯基勒地區享有供電/供暖的居民 [cite: 66]"
+      ],
+      "client": [
+        "當地廢棄物管理公司 Kara/Noveren [cite: 69]"
+      ],
+      "co_working_designer": [
+        "無資料"
+      ],
+      "consultant": [
+        "無資料"
+      ]
+    },
+    "Sustainability": {
+      "carbon_footprint": [
+        "作為超現代且永續的能源工廠，將廢棄物轉化為電力，降低對化石燃料的依賴 [cite: 79]"
+      ],
+      "circular_economy": [
+        "處理九個周邊市鎮及國外廢棄物以產生能源，完成廢棄物回收的循環經濟 [cite: 66]"
+      ],
+      "ecological_impact": [
+        "隱藏光源並使光線溫和反射，設計刻意避免照亮天空或支配環境，以減少光污染 [cite: 76, 77]"
+      ]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "廢棄物發電廠因燃燒排放的需求，往往伴隨著高聳的煙囪。在羅斯基勒這樣地勢平坦且擁有世界遺產大教堂的古城中，設計策略直面尺度上的衝突。建築師將排放尖塔大膽塑造成97公尺高的標誌性量體，下部則呼應周邊工廠的斜屋頂，成功將鄰避的基礎設施轉化為能與千年大教堂遙相呼應的城市雙地標 [cite: 82, 83]。",
+      "Layer03": {
+        "massing_strategy": [
+          "下部模仿周邊廠房斜角屋頂，上部轉化為97公尺高聳尖塔 [cite: 82]"
+        ],
+        "material": [
+          "採用琥珀色鋁板，呼應大教堂溫暖色彩的石頭與磚塊 [cite: 70, 83]"
+        ],
+        "城市天際線對話": [
+          "將排氣煙囪轉化為城市的現代守護者，與歷史大教堂形成歷史與現代的對話 [cite: 81, 82, 83]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "焚化爐需要龐大且封閉的實體廠房來進行高溫燃燒與能源轉換。設計將內部沉重且氣候封閉的機房，以外掛多孔鋁板的雙層表皮系統包裹 [cite: 70]。這不僅解放了建築立面的表現力，更透過夾層內置的可編程燈光，在夜間巧妙模擬出廢棄物燃燒成火焰與餘燼的動態意象，將冰冷的工業轉化過程賦予了詩意 [cite: 72, 74, 75, 77]。",
+      "Layer03": {
+        "facade": [
+          "雷射切割多孔鋁皮與雙層立面系統 [cite: 70]",
+          "夾層內置隱藏式、可個別編程的燈光系統 [cite: 72, 76, 77]"
+        ],
+        "剖面特徵": [
+          "內部實體氣候屏障與外側多孔鋁皮之間留有照明反射夾層 [cite: 70, 76]"
+        ],
+        "機能視覺化轉譯": [
+          "利用動態光影模擬火焰與餘燼，象徵工廠內部將廢棄物轉化為能量的燃燒過程 [cite: 73, 74, 75]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "在推動廢棄物轉化能源的過程中，建築也肩負了社會溝通的責任。作為超現代的永續能源廠，其照明設計並非以強光宣示存在，而是透過內層反射使光線溫和地穿透圓孔 [cite: 76, 77, 79]。這種做法避免了光害污染，同時以充滿詩意的夜間體驗，減輕了公眾對垃圾焚化廠的負面觀感，提升了對永續設施的心理認同 [cite: 77, 80]。",
+      "Layer03": {
+        "副產物利用": [
+          "焚化龐大廢棄物同時產出供應羅斯基勒地區的電力與區域供暖 [cite: 66, 79]"
+        ],
+        "material": [
+          "使用尖端製造技術雷射切割的鋁板外牆面板 [cite: 78]"
+        ],
+        "光環境控制": [
+          "隱藏直接光源，僅透過反射使光溫和透出，避免照亮天空或支配環境 [cite: 76, 77]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "透過舉辦國際競圖，傳統的廢棄物管理公司成功引入了建築師的獨特視野 [cite: 67, 68, 69]。這使得原先純粹機能導向、容易被邊緣化的工業綜合體，轉變為深受皇室重視並為城市帶來附加價值的藝術地標 [cite: 66, 80]。這證明了不同領域參與者的協作，能將封閉的工程設施昇華為具有深刻公共意義的城市資產 [cite: 80]。",
+      "Layer03": {
+        "複合program": [
+          "高機能廢棄物發電基礎設施 + 具備詩意體驗的城市夜間地標 [cite: 77, 80]"
+        ],
+        "circulation": [
+          "工業垃圾車輛進出與廠房設備的內部運作流線 (推測)"
+        ],
+        "基礎設施價值提升": [
+          "透過建築師的立面與光影設計介入，為純工業設施注入美學與在地象徵意義 [cite: 69, 80]"
+        ]
+      }
+    }
+  },
+  "Case id": 6,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": [
+          "設計為簡潔的圓錐體量 (Simple conical form) [cite: 87, 91]",
+          "將多種功能壓縮至最小面積，比最高容許覆蓋率低11% [cite: 90, 92]"
+        ],
+        "orientation": {
+          "main entrance": [
+            "設有景觀廣場，並透過兩座高聳煙囪之間的連橋作為進入大樓的通道 [cite: 100, 101]"
+          ],
+          "massing orientation": [
+            "圓錐形無特定方向性，頂部環繞1.1公里的步道供360度觀景 (推測) [cite: 91, 103]"
+          ]
+        },
+        "environmental_response": {
+          "lighting_strategy": [
+            "百葉之間的金屬擴張網允許自然採光 (daylighting) [cite: 95]",
+            "減少室內電力照明需求 [cite: 98]"
+          ],
+          "ventilation_strategy": [
+            "立面金屬擴張網與屋頂鋼百葉系統提供自然通風與排煙 [cite: 95, 96]",
+            "高度依賴自然通風以減少建築內部對空調的需求 [cite: 98]"
+          ]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": [
+          "鋼構百葉 (Steel lamellas/louvers) [cite: 93, 96]",
+          "金屬擴張網 (expanded metal mesh) [cite: 95]"
+        ],
+        "interior_finishes": [
+          "玻璃封閉步道 (glass-enclosed walkway) [cite: 102]",
+          "工業廠房金屬結構與處理槽 (推測)"
+        ],
+        "performance_and_lifecycle": [
+          "覆蓋橘色塗層的鋼片具備抗污染 (pollution resistance) 與自我清潔 (self-cleaning) 功能 [cite: 93]"
+        ]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": [
+            "景觀廣場-雙煙囪連橋-展覽館-150公尺長高架玻璃步道-電梯-屋頂環狀步道 [cite: 100, 101, 102, 103]"
+          ]
+        },
+        "circulation": [
+          "遊客從入口廣場>穿越煙囪連橋>進入展覽廳>走上高架玻璃步道觀看製程>搭乘電梯直達屋頂周邊的步道 [cite: 100, 101, 102, 103]"
+        ],
+        "spatial_boundaries_and_connectivity": [
+          "工業處理流程與公眾教育、展覽空間高效結合在一起 [cite: 87]",
+          "高架玻璃步道打破實體隔閡，讓遊客近距離觀察焚化過程 [cite: 102]"
+        ]
+      },
+      "facade": {
+        "materiality_and_texture": [
+          "8,215片覆蓋橘色塗層的三角形鋼製百葉螺旋向上排列 [cite: 93]"
+        ],
+        "fenestration_and_transparency": [
+          "百葉之間的金屬擴張網讓光線穿透並提供排煙功能 [cite: 95]"
+        ],
+        "tectonic_detailing": [
+          "每片百葉皆整合排水溝槽，同時提供遮陽功能 [cite: 94]"
+        ]
+      },
+      "scale": {
+        "physical_dimensions": [
+          "無整體建築面積資料，但屋頂設置18,000平方公尺太陽能陣列，步道長1.1公里 [cite: 98, 103]"
+        ],
+        "human_scale_relationship": [
+          "讓遊客親身體驗設施的龐大尺度，藉此留下減少日常廢棄物的重要印象 [cite: 105]"
+        ],
+        "urban_proportion": [
+          "將平凡的建築類型提升為具標誌性與影響力的形式 [cite: 89]"
+        ]
+      },
+      "program": {
+        "functional_zoning": [
+          "廢棄物焚化與能源轉化區 [cite: 85]",
+          "公眾教育、展覽與研究設施 [cite: 92]",
+          "屋頂觀景與自然步道 [cite: 103]"
+        ],
+        "spatial_hierarchy": {
+          "Primary": [
+            "廢棄物焚化處理與能源生產核心設施 [cite: 87]"
+          ],
+          "Secondary": [
+            "展覽與教育空間 [cite: 92]",
+            "150公尺長的高架玻璃封閉步道 [cite: 102]"
+          ],
+          "others": [
+            "入口景觀廣場 [cite: 100]",
+            "1.1公里長的屋頂周邊步行道 [cite: 103]"
+          ]
+        },
+        "occupancy_type": [
+          "廢棄物轉化能源廠 (waste-to-energy plant) 結合公共休閒教育中心 [cite: 85, 87]"
+        ]
+      },
+      "structure_and_construction": {
+        "structure_system": [
+          "大跨距空間結構以容納龐大的焚化設施 (推測)"
+        ],
+        "enclosure_system": [
+          "三角形鋼百葉與金屬擴張網構成的外殼系統 [cite: 93, 95]"
+        ],
+        "construction_method": [
+          "將多種功能壓縮至最小面積的緊湊構築方式 [cite: 92]"
+        ]
+      }
+    },
+    "Energy_production": {
+      "generation_type": [
+        "廢棄物轉化能源 (waste-to-energy / incineration) [cite: 85]"
+      ],
+      "power_capacity": [
+        "每日焚燒5,000噸廢棄物，每年產生12億度 (1.2 billion kWh) 電能 [cite: 85]"
+      ],
+      "energy_source": [
+        "都市廢棄物/垃圾 [cite: 85]"
+      ],
+      "output_type": [
+        "電力 (energy/kWh) [cite: 85]"
+      ],
+      "byproduct_management": [
+        "實施優於中國國家標準 (GB18485-2014) 與歐盟標準 (2010/75/EU) 的廢氣排放控制 [cite: 86]"
+      ]
+    },
+    "Event": {
+      "status": [
+        "已完工 (completed) [cite: 84]"
+      ],
+      "completion": 0,
+      "renovation": [
+        "新建基礎設施 (推測)"
+      ]
+    },
+    "Site": {
+      "context": {
+        "natural_context": [
+          "位於中國深圳市龍崗區，周圍環繞自然景觀 (surrounding nature) [cite: 85, 103]"
+        ],
+        "historical_context": [
+          "面對當代氣候危機挑戰而建造，具備長遠影響力 [cite: 88]"
+        ],
+        "cultural_context": [
+          "提供社區學習與展覽空間，藉由參觀旅程教育公眾減少日常生活廢棄物的重要性 [cite: 99, 105]"
+        ]
+      },
+      "landscape": [
+        "入口設有景觀廣場，周遭有自然環境，遊客可從1.1公里長的屋頂邊緣步道眺望四周 [cite: 100, 103]"
+      ]
+    },
+    "Participant": {
+      "architect": [
+        "Schmidt Hammer Lassen [cite: 84]"
+      ],
+      "user": [
+        "參觀公眾/遊客 [cite: 100, 101, 102]",
+        "廠區營運與維護人員 (推測)"
+      ],
+      "client": [
+        "深圳在地政府能源管理單位 (推測)"
+      ],
+      "co_working_designer": [
+        "Gottlieb Paludan Architects [cite: 84]",
+        "EAST Design (景觀) [cite: 84]",
+        "Shenzhen Landscape Co [cite: 84]"
+      ],
+      "consultant": [
+        "Schlaich Bergermann Partner (結構顧問) [cite: 84]",
+        "East China Electrical Power Design Institute (在地建築師/顧問) [cite: 84]"
+      ]
+    },
+    "Sustainability": {
+      "carbon_footprint": [
+        "成為中國首批獲得LEED金級永續認證的工業建築之一 [cite: 97]",
+        "依賴自然通風與採光以減少空調與電力照明的碳足跡 [cite: 98]"
+      ],
+      "circular_economy": [
+        "將每日巨量廢棄物有效轉化為能源，發揮設施作為解決現有環境問題的作用 [cite: 85, 88]"
+      ],
+      "ecological_impact": [
+        "超越現有標準的低排放控制 [cite: 86]",
+        "立面橘色塗層具備抗污染及自我清潔特性，減少環境維護衝擊 [cite: 93]"
+      ]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "這座名為「深圳能源環」的廢棄物發電廠，試圖在龐大的城市垃圾處理需求與自然景觀之間尋求平衡。設計團隊刻意將建築佔地面積壓縮（比最高容許覆蓋率低11%），以一個簡潔的圓錐體量收攏所有複雜機能 [cite: 91, 92]。這不僅減少了對基地環境的開發破壞，更透過1.1公里的屋頂環狀步道，讓公眾能居高臨下欣賞周遭自然景觀，將生硬的工業基礎設施轉化為一處與地景融合的城市觀景台 [cite: 103]。",
+      "Layer03": {
+        "massing_strategy": [
+          "採用簡潔的圓錐體量 (conical form) 以最小化佔地面積 [cite: 91, 92]"
+        ],
+        "material": [
+          "屋頂大規模鋪設太陽能板 (photovoltaic array) [cite: 91, 98]"
+        ],
+        "環境融合特徵": [
+          "頂部設置1.1公里長的環形觀景步道與自然對話 [cite: 103]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "廢棄物發電涉及複雜的空間與通風排煙需求。建築師以外殼作為解決方案，利用超過八千片螺旋向上的橘色鋼製百葉與金屬擴張網，創造出兼具自然通風、排煙、遮陽與排水的雙層表皮 [cite: 93, 94, 95]。內部則透過150公尺長的高架玻璃步道，打破了危險重工業與人之間的實體隔閡，讓廢棄物轉化為能源的震撼過程成為一種可視化的教育展演 [cite: 102]。",
+      "Layer03": {
+        "facade": [
+          "8,215片整合排水與遮陽的三角形鋼片百葉 [cite: 93, 94]",
+          "金屬擴張網提供自然通風、採光與排煙 [cite: 95]"
+        ],
+        "剖面特徵": [
+          "將公眾動線（連橋、高架步道）懸浮穿越於挑高的核心處理廠房之中 [cite: 101, 102]"
+        ],
+        "視覺穿透設計": [
+          "設置150公尺長的玻璃封閉高架步道，安全地展示焚化製程 [cite: 102]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "為扭轉大眾對垃圾焚化廠高污染的刻板印象，本案不僅在廢氣排放上超越了歐盟與中國國家標準，更獲得了LEED金級認證 [cite: 86, 97]。除了焚化垃圾發電外，更透過18,000平方米的屋頂太陽能板、引導自然通風採光來降低自身能耗，甚至立面塗層也具備自潔與抗污染功能，徹頭徹尾地貫徹了面對氣候危機的永續承諾 [cite: 88, 93, 98]。",
+      "Layer03": {
+        "副產物利用": [
+          "焚化廢棄物發電，並極小化有害氣體排放 [cite: 85, 86]"
+        ],
+        "material": [
+          "抗污染與自清潔的橘色立面塗層 [cite: 93]"
+        ],
+        "主動與被動節能": [
+          "18,000平方公尺屋頂太陽能陣列 [cite: 98]",
+          "利用立面與屋頂百葉進行自然通風採光，減少空調用電 [cite: 96, 98]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "本案被定位為一趟「發現之旅」，而不僅僅是一件基礎設施 [cite: 104]。透過建築師的介入，原本生人勿近的垃圾處理廠被疊加了社區教育、展覽與休閒的複合屬性 [cite: 99]。訪客從入口廣場即時顯示的發電數據看板開始，一路穿越廠房內部，最終抵達屋頂 [cite: 100, 101, 102, 103]。這種高參與度的體驗，讓公眾能感受設施的龐大尺度，深刻傳遞了減少日常廢棄物的重要性，產生了長遠的社會教育意義 [cite: 105]。",
+      "Layer03": {
+        "複合program": [
+          "高標準廢棄物焚化廠 + 社區氣候變遷教育與展覽中心 [cite: 87, 99]"
+        ],
+        "circulation": [
+          "入口景觀廣場>煙囪連橋>展覽廳>高架玻璃觀景步道>電梯至屋頂步道 [cite: 100, 101, 102, 103]"
+        ],
+        "公眾參與體驗": [
+          "入口設置實時數據統計看板，建立公眾對廢棄物處理與能源生產的直觀認知 [cite: 100]"
+        ]
+      }
+    }
+  },
+  "Case id": 7,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": [
+          "立方體形狀的玻璃與鋼鐵核心 [cite: 117]",
+          "外部環繞落葉松木板編織而成的圓柱形外殼 [cite: 118]",
+          "屋頂為鋅製的半球形圓頂 [cite: 119]"
+        ],
+        "orientation": {
+          "main entrance": [
+            "朝向周圍景觀與廠區內部通道 (推測)"
+          ],
+          "massing orientation": [
+            "無強烈方向性的圓柱體量與半球屋頂，安坐於水面之上 [cite: 118, 119, 120]"
+          ]
+        },
+        "environmental_response": {
+          "lighting_strategy": [
+            "透過立方體玻璃與鋼製核心以及木質編織外殼的縫隙引入自然光，營造通透感 [cite: 116, 117, 118]"
+          ],
+          "ventilation_strategy": [
+            "木質編織外殼提供自然且懸浮的外部過濾層 [cite: 118]"
+          ]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": [
+          "玻璃與鋼鐵 [cite: 117]",
+          "落葉松木板 [cite: 118]",
+          "鋅金屬 [cite: 119]"
+        ],
+        "interior_finishes": [
+          "外露的發電與燃燒機械設備核心 [cite: 117]"
+        ],
+        "performance_and_lifecycle": [
+          "以木材作為裝飾紋理，展現美學形式的生態學並與周圍鄉村建築對話 [cite: 116, 122]"
+        ]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": [
+            "外部水池基座-圓柱形木編織外層-立方體玻璃鋼鐵核心-內部發電設備 [cite: 117, 118, 120]"
+          ]
+        },
+        "circulation": [
+          "戶外環境>穿透懸浮木編織外殼>內部透明玻璃機房 (推測)"
+        ],
+        "spatial_boundaries_and_connectivity": [
+          "利用透明玻璃與編織木板營造輕盈、通透的內外邊界，將科技核心毫無隱藏地展示出來 [cite: 116, 117]"
+        ]
+      },
+      "facade": {
+        "materiality_and_texture": [
+          "如手工藝般編織的落葉松木板 [cite: 118]"
+        ],
+        "fenestration_and_transparency": [
+          "通透的玻璃立方體核心搭配具孔隙的木編織外殼，強調透明度與輕盈感 [cite: 116, 117, 118]"
+        ],
+        "tectonic_detailing": [
+          "地球四大元素（水、土、空氣與火）在立方體、圓柱體與球體等純粹幾何形體上的組合疊加 [cite: 120]"
+        ]
+      },
+      "scale": {
+        "physical_dimensions": [
+          "1000 m² [cite: 108]"
+        ],
+        "human_scale_relationship": [
+          "藉由落葉松木的編織紋理賦予生硬的發電廠一種工藝品般的親和尺度 [cite: 118]"
+        ],
+        "urban_proportion": [
+          "與周圍的鄉村房屋形成視覺與尺度的和諧對話 [cite: 122]"
+        ]
+      },
+      "program": {
+        "functional_zoning": [
+          "生質能發電核心區 [cite: 111]",
+          "外部水池景觀區 [cite: 120]"
+        ],
+        "spatial_hierarchy": {
+          "Primary": [
+            "容納燃燒木材與發電設備的透明科技核心 [cite: 117]"
+          ],
+          "Secondary": [
+            "作為過濾器與裝飾紋理的圓柱形木殼空間 [cite: 118]"
+          ],
+          "others": [
+            "建築底部的薄片水池基座 [cite: 120]"
+          ]
+        },
+        "occupancy_type": [
+          "生質能發電廠 [cite: 111]"
+        ]
+      },
+      "structure_and_construction": {
+        "structure_system": [
+          "立方體鋼結構框架與半球形圓頂結構 [cite: 117, 119]"
+        ],
+        "enclosure_system": [
+          "內部玻璃帷幕與外部懸浮木板編織的雙層外殼系統 [cite: 117, 118]"
+        ],
+        "construction_method": [
+          "純粹幾何形體的獨立構築與組裝 (推測)"
+        ]
+      }
+    },
+    "Energy_production": {
+      "generation_type": [
+        "生質能發電 [cite: 111]"
+      ],
+      "power_capacity": [
+        "可負擔鋸木廠熱能需求，額外能源供醫院使用，電力可供應周邊最高1450棟獨立住宅 [cite: 112, 114]"
+      ],
+      "energy_source": [
+        "附近鋸木廠的樹皮與木屑廢料 [cite: 111]"
+      ],
+      "output_type": [
+        "熱能 [cite: 112]",
+        "電力 [cite: 114]"
+      ],
+      "byproduct_management": [
+        "木材燃燒產生蒸汽、雨水、灰燼及二氧化碳，被視為自然物質循環的完成 [cite: 108]"
+      ]
+    },
+    "Event": {
+      "status": [
+        "已完工"
+      ],
+      "completion": 2009,
+      "renovation": [
+        "無資料"
+      ]
+    },
+    "Site": {
+      "context": {
+        "natural_context": [
+          "周邊擁有豐富的木材供應來源，最遠距離不超過25公里 [cite: 121]"
+        ],
+        "historical_context": [
+          "無資料"
+        ],
+        "cultural_context": [
+          "透過建築語言與周圍鄉間房屋建立溝通與連結 [cite: 122]"
+        ]
+      },
+      "landscape": [
+        "建築座落於一片薄水池之上，呈現水、土、空氣與火等純粹元素的交融畫面 [cite: 120]"
+      ]
+    },
+    "Participant": {
+      "architect": [
+        "Matteo Thun & Partners [cite: 108]"
+      ],
+      "user": [
+        "鋸木廠、鄰近醫院及周邊社區居民 [cite: 112, 114]"
+      ],
+      "client": [
+        "Schilling sawmill (推測) [cite: 111, 121]"
+      ],
+      "co_working_designer": [
+        "無資料"
+      ],
+      "consultant": [
+        "無資料"
+      ]
+    },
+    "Sustainability": {
+      "carbon_footprint": [
+        "以木材燃燒替代化石燃料創造較低環境衝擊，且燃料運送距離極短（0-25公里），達成在地減碳 [cite: 109, 121]"
+      ],
+      "circular_economy": [
+        "鋸木廠廢料成為電廠燃料，電廠發電產熱回饋鋸木廠，形成完整的能源與資源雙向循環 [cite: 111, 112, 113]"
+      ],
+      "ecological_impact": [
+        "將生質能燃燒視為自然界物質轉換（如光熱、水蒸氣、礦物鹽）的一部分，展現科技與自然的成功結合 [cite: 108, 115]"
+      ]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "生質能發電高度依賴在地燃料供應。本案將發電廠與鋸木廠相鄰設置，使燃料運輸距離縮短至0至25公里內，達到真正的在地乾淨能源供應 [cite: 121]。在景觀介入上，建築座落於水池之上，以極簡純粹的幾何形態降低了工業設施對環境的壓迫感，並透過木質紋理輕柔地回應周邊鄉村地景 [cite: 120, 122]。",
+      "Layer03": {
+        "massing_strategy": [
+          "以純粹幾何形態（立方體、圓柱體、球體）弱化工業量體的視覺衝擊 [cite: 120]"
+        ],
+        "material": [
+          "採用落葉松木外殼與水池基座，呼應在地自然環境 [cite: 118, 120]"
+        ],
+        "在地資源網絡": [
+          "選址緊鄰燃料供應源以達成零距離或短距離（25km內）的潔淨能源轉化 [cite: 121]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "不同於一般選擇隱藏髒亂設備的傳統電廠，本案主張燃燒木材是一種生態且潔淨的自然循環過程 [cite: 108, 109]。因此，建築設計採用了「透明性與輕盈感」的策略 [cite: 116]。透明的玻璃立方體將發電機組等科技核心毫無保留地向外展示，外層則披覆如手工藝般編織的木殼，成功將能源生產的工業特質昇華為通透優雅的建築美學展示 [cite: 117, 118]。",
+      "Layer03": {
+        "facade": [
+          "內部透明玻璃帷幕結合外部手工藝感編織的木製圓柱外殼 [cite: 117, 118]"
+        ],
+        "剖面特徵": [
+          "底部水盤、機房玻璃立方體核心與頂部鋅製半球形圓頂的垂直層疊配置 [cite: 119, 120]"
+        ],
+        "機能視覺化轉譯": [
+          "將發電機組視為「科技之心」，透過玻璃毫無秘密地對外展示內部運作 [cite: 117]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "本建築完美體現了產業間的循環經濟。鋸木廠產生的樹皮與木屑廢料直接轉化為發電廠的生質燃料，而發電廠所生產的熱能則完全回饋給鋸木廠使用 [cite: 111, 112]。這種共生關係不僅解決了廢棄物處理問題，更透過燃燒循環替代化石燃料，將生態學理智的循環徹底轉譯為透明、輕巧的建築美學形式 [cite: 109, 113, 116]。",
+      "Layer03": {
+        "副產物利用": [
+          "吸收鋸木廠樹皮木屑作為燃料，並將發電餘熱與電力回饋鋸木廠及周邊設施 [cite: 111, 112, 114]"
+        ],
+        "material": [
+          "採用具備自然質感與生命週期的材料（玻璃、鋼鐵、落葉松木與鋅） [cite: 117, 118, 119]"
+        ],
+        "生態循環轉譯": [
+          "以建築元素（水盤、金屬、木材）具象化土、空氣、水與火等物質燃燒循環的自然哲學 [cite: 108, 120]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "發電設施在本案中不再是封閉的鄰避設施，而是開放的社區能源提供者。除了滿足鋸木廠自身需求，其生產的龐大額外能源更供應給鄰近的醫院，電力潛力更足以供應周邊1450戶住宅 [cite: 114]。這種能源共享模式搭配與鄉村對話的木質裝飾語彙，讓發電廠成功融入當地社區的生活與視覺脈絡中，產生高度的社會貢獻價值 [cite: 122]。",
+      "Layer03": {
+        "複合program": [
+          "生質能發電廠 + 供應社區與醫院的區域能源站 [cite: 114]"
+        ],
+        "circulation": [
+          "藉由無死角的透明玻璃與周圍水池，創造對公眾開放的能源生產視覺體驗 [cite: 117, 120]"
+        ],
+        "社區融合與對話": [
+          "使用在地熟悉的落葉松木與鄉村建築語彙，建立設施與社區間的溝通與認同感 [cite: 122]"
+        ]
+      }
+    }
+  },
+  "Case id": 8,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": [
+          "由厚重混凝土基座與輕盈的鋼/塑料燈籠狀量體組成",
+          "無方向性的藥丸狀 (pill-shaped) 平面幾何"
+        ],
+        "orientation": {
+          "main entrance": [
+            "透過兩扇大型鍍鋅鋼門與外部建立地面連結"
+          ],
+          "massing orientation": [
+            "無明顯方向性的藥丸狀量體，作為城市的發光節點"
+          ]
+        },
+        "environmental_response": {
+          "lighting_strategy": [
+            "透過半透明聚碳酸酯立面引入自然光",
+            "夜間化身為發光的燈籠，呈現字面與教育意義上的透明度"
+          ],
+          "ventilation_strategy": [
+            "燃燒煙霧經過濾後由半透明高塔排出 (推測兼具排煙通風功能)"
+          ]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": [
+          "重型混凝土 (基座)",
+          "輕型鍍鋅與噴漆鋼材",
+          "聚碳酸酯板 (塑膠)"
+        ],
+        "interior_finishes": [
+          "外露的結構鋼絲、鋼構節點與混凝土基座表面",
+          "外露的熱水生產鍋爐與機械設備"
+        ],
+        "performance_and_lifecycle": [
+          "鋼材與塑料燈籠材料具備可回收性 (recyclable)"
+        ]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": [
+            "外部街道-大型鍍鋅鋼門-圍繞機械的周邊走道-能源生產展示區"
+          ]
+        },
+        "circulation": [
+          "訪客經由設置於混凝土基座上的環形周邊步道，流暢地環視完整的能源生產過程"
+        ],
+        "spatial_boundaries_and_connectivity": [
+          "厚重封閉的下半部（盛裝機械與地下儲倉）與輕盈通透的上半部（聚碳酸酯外殼）形成強烈的垂直視覺邊界"
+        ]
+      },
+      "facade": {
+        "materiality_and_texture": [
+          "三種比例起伏的聚碳酸酯板條，猶如柔軟的純白面紗 (soft whitish veil)"
+        ],
+        "fenestration_and_transparency": [
+          "大面積半透明塑料立面，展露內部運作並象徵能源轉型的透明度"
+        ],
+        "tectonic_detailing": [
+          "由精緻的鍍鋅與噴漆鋼絲網狀結構支撐聚碳酸酯外殼，將構造細部轉化為視覺表現元素"
+        ]
+      },
+      "scale": {
+        "physical_dimensions": [
+          "無資料"
+        ],
+        "human_scale_relationship": [
+          "將工業設施轉化為宛如「小教堂 (small cathedral of energy)」般的親切且具象徵性尺度"
+        ],
+        "urban_proportion": [
+          "作為隱藏地下龐大供暖網絡在地面上的唯一可見端點，成為小巧但極具存在感的城市標誌"
+        ]
+      },
+      "program": {
+        "functional_zoning": [
+          "熱水生產與過濾機械運作區",
+          "地下生質能儲倉 (Biomass silo)",
+          "訪客教育參觀環道"
+        ],
+        "spatial_hierarchy": {
+          "Primary": [
+            "容納熱水生產機械、過濾系統的主大廳核心空間"
+          ],
+          "Secondary": [
+            "圍繞機械設備的周邊參觀步道 (perimeter walkway)"
+          ],
+          "others": [
+            "排煙半透明塔樓",
+            "地下生物量儲倉"
+          ]
+        },
+        "occupancy_type": [
+          "區域供暖中心 (District Heating Central) / 能源與環境教育展示館"
+        ]
+      },
+      "structure_and_construction": {
+        "structure_system": [
+          "下部混凝土承重基座結構",
+          "上部輕鋼構框架與鋼絲張拉結構"
+        ],
+        "enclosure_system": [
+          "聚碳酸酯板 (polycarbonate sheets) 外殼系統"
+        ],
+        "construction_method": [
+          "將沉重的工業基座與輕盈的裝配式塑料/鋼構外殼結合的複合工法"
+        ]
+      }
+    },
+    "Energy_production": {
+      "generation_type": [
+        "區域供暖熱能生產 (District Heating)"
+      ],
+      "power_capacity": [
+        "無資料"
+      ],
+      "energy_source": [
+        "再生資源：主要為來自西班牙森林改良管理的森林生物量/生質能 (forest biomass)"
+      ],
+      "output_type": [
+        "熱水 (hot water)"
+      ],
+      "byproduct_management": [
+        "燃燒廢氣經過極大空間佔比的過濾程序後，以純淨白煙形式由半透明塔排出"
+      ]
+    },
+    "Event": {
+      "status": [
+        "已完工"
+      ],
+      "completion": 2023,
+      "renovation": [
+        "建置全新的清潔能源基礎設施以取代城市中昂貴且高污染的化石燃料加熱器"
+      ]
+    },
+    "Site": {
+      "context": {
+        "natural_context": [
+          "能源燃料取自西班牙森林 (Spanish forests) 並推動其生態管理的改善"
+        ],
+        "historical_context": [
+          "位於西班牙帕倫西亞 (Palencia)，是該國城市能源轉型去碳化的先驅項目"
+        ],
+        "cultural_context": [
+          "肩負強烈的教育使命 (pedagogical vocation)，向大眾展示環境轉型與公共衛生改善的範式轉移"
+        ]
+      },
+      "landscape": [
+        "在城市街道景觀中，作為龐大地下供暖網絡的可見「頭部」，如同一座發光的小教堂"
+      ]
+    },
+    "Participant": {
+      "architect": [
+        "FRPO Rodriguez & Oriol"
+      ],
+      "user": [
+        "接收熱水供暖的城市居民",
+        "參觀學習的民眾",
+        "設施維護人員"
+      ],
+      "client": [
+        "DH Ecoenergías (創辦人：Teo López)"
+      ],
+      "co_working_designer": [
+        "無資料"
+      ],
+      "consultant": [
+        "無資料"
+      ]
+    },
+    "Sustainability": {
+      "carbon_footprint": [
+        "以再生生質能全面取代化石燃料 (柴油/天然氣)，致力於國家城市地理環境的去碳化"
+      ],
+      "circular_economy": [
+        "結合西班牙森林管理，將林業廢料轉化為城市供暖能源，實現能源與經濟循環"
+      ],
+      "ecological_impact": [
+        "降低國際化石燃料依賴並改善城市空氣品質與公共衛生，且建築上層採用可回收的輕質材料"
+      ]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "區域供暖網絡（District Heating）主要深埋於城市街道之下，難以被公眾察覺。建築師選擇將這座負責生產熱水的樞紐，轉化為整個地下隱形網絡的「可見端點」。它座落於城市中，不僅接收來自西班牙森林的生質能燃料，更作為一座發光的標誌物，象徵著帕倫西亞從化石燃料邁向去碳化的歷史性轉變。",
+      "Layer03": {
+        "massing_strategy": [
+          "設計為龐大地下管線網絡在地面上的視覺端點",
+          "採用無方向性的藥丸狀幾何建立城市中的標誌性"
+        ],
+        "material": [
+          "使用象徵輕盈與純潔的白色聚碳酸酯外殼，對比地下網絡的沉重感"
+        ],
+        "城市視覺錨點": [
+          "將立面設計為柔軟的白色面紗，化解重型工業設施在城市街道中的生硬感"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "為滿足生質能供暖的工業需求，建築下部採用了厚重的混凝土「浴缸」基座來承載沉重的鍋爐機械，並連接地下儲倉；上半部則以輕盈、可回收的鋼構與聚碳酸酯構成「燈籠」。這種「下重上輕」的構造策略，不僅滿足了實體承重，更透過半透明外殼將內部過濾與運作過程展示出來，轉譯為一座充滿結構工藝美學的「能源小教堂」。",
+      "Layer03": {
+        "facade": [
+          "半透明聚碳酸酯立面，呈現字面與象徵意義上的透明度",
+          "外露精細的鍍鋅鋼絲結構"
+        ],
+        "剖面特徵": [
+          "厚重混凝土基座（承載機械與連接地下儲倉）與輕盈透光頂冠的雙層結構"
+        ],
+        "機能視覺化": [
+          "將排煙過濾程序轉化為空間主體，由半透明塔樓優雅排出潔淨白煙"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "計畫核心在於使用西班牙森林的生質能取代高污染化石燃料，建築自身也呼應了這份生態承諾：在材料選擇上，上部構造大量使用了可回收的鋼材與塑膠；在空間幾何上，藥丸狀的平面配置暗喻了能源與經濟的循環（circularity）。這使得建築從製程到實體構造，皆貫徹了資源再利用與去碳化的永續精神。",
+      "Layer03": {
+        "副產物利用": [
+          "燃燒排放經過嚴格工業過濾後，化為象徵無害的白煙排出"
+        ],
+        "material": [
+          "選用具備高度可回收性（recyclable）的輕質鋼材與塑料"
+        ],
+        "幾何隱喻": [
+          "以圓潤無死角的平面與立體幾何形體，象徵能源與經濟的循環不息"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "業主賦予了這座基礎設施強烈的「教育使命」。因此，建築師並非僅解決純粹的工業產能問題，而是將其打造為一個對外開放的教育展演空間。透過設置於基座上的環形步道，訪客得以流暢地觀察能源生產的全過程。這種透明開放的參觀體驗，極大化了設施的社會影響力，使其成為推廣城市環境轉型的指標圖騰。",
+      "Layer03": {
+        "複合program": [
+          "高機能區域熱水供暖中心 + 能源與環境轉型教育展示館"
+        ],
+        "circulation": [
+          "圍繞完整能源生產過程周邊配置的環形參觀步道（perimeter walkway）"
+        ],
+        "教育體驗設計": [
+          "以「字面上的透明度」展露內部設備，讓公眾親眼見證潔淨能源的轉化過程"
+        ]
+      }
+    }
+  },
+  "Case id": 9,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": [
+          "獨立的圓柱體建築 (free standing building) [cite: 145]",
+          "坐落於530公尺長的水壩前，突顯雕塑感 [cite: 145]"
+        ],
+        "orientation": {
+          "main entrance": [
+            "朝向維護通道或舊水壩底部 (推測)"
+          ],
+          "massing orientation": [
+            "圓柱形無特定方向性，透過建築與舊水壩上的陰影指示太陽的高度與運動 [cite: 154]"
+          ]
+        },
+        "environmental_response": {
+          "lighting_strategy": [
+            "透過預鑄混凝土板上的孔洞引入自然光 [cite: 152]",
+            "利用建築與舊水壩上的投影紀錄太陽軌跡 [cite: 154]"
+          ],
+          "ventilation_strategy": [
+            "預鑄混凝土孔洞兼作通風開口的屏幕 [cite: 152]"
+          ]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": [
+          "預鑄混凝土板 (precast concrete panels) [cite: 149]",
+          "場鑄混凝土框架 (in situ concrete framework) [cite: 150]",
+          "粗糙噴射混凝土 (rough spray-on concrete) [cite: 151]"
+        ],
+        "interior_finishes": [
+          "粗獷的清水混凝土與外露的鋼構屋架 (推測)"
+        ],
+        "performance_and_lifecycle": [
+          "混凝土表面容許地衣 (lichens) 隨雨水生長，使建築隨時間自然風化並融入荒蕪地形中 [cite: 155, 156]"
+        ]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": [
+            "外部荒野-無天溝的粗獷混凝土外殼-環繞渦輪機的圓形機房空間 (推測)"
+          ]
+        },
+        "circulation": [
+          "以中央52噸發電機組與起重機為核心的環形檢修動線 (推測)"
+        ],
+        "spatial_boundaries_and_connectivity": [
+          "厚重的15塊承重混凝土板包圍核心設備，確立與荒蕪外部地形的粗獷邊界 [cite: 149, 156]"
+        ]
+      },
+      "facade": {
+        "materiality_and_texture": [
+          "粗糙的混凝土表面與無天溝 (no gutters) 設計 [cite: 147, 151]",
+          "隨時間推移將長滿地衣的生態表面 [cite: 155]"
+        ],
+        "fenestration_and_transparency": [
+          "混凝土板上的預鑄圓孔作為窗戶與通風口的屏蔽 [cite: 152]"
+        ],
+        "tectonic_detailing": [
+          "將不鏽鋼型材銲接至混凝土板上，防止雨水進入孔洞 [cite: 152]",
+          "突出的起重機結構覆蓋粗糙噴射混凝土 [cite: 151]"
+        ]
+      },
+      "scale": {
+        "physical_dimensions": [
+          "直徑15公尺，高度12公尺 [cite: 148]"
+        ],
+        "human_scale_relationship": [
+          "粗獷的工藝與微小的圓柱尺度，與後方530公尺長的巨大水壩形成強烈對比 [cite: 145, 147]"
+        ],
+        "urban_proportion": [
+          "作為廣闊水壩與湖泊地形中的雕塑節點，以純粹的量體點綴荒蕪地景 [cite: 145, 156]"
+        ]
+      },
+      "program": {
+        "functional_zoning": [
+          "水力發電機房核心區 [cite: 148]",
+          "起重機與設備吊裝支撐區 [cite: 150]"
+        ],
+        "spatial_hierarchy": {
+          "Primary": [
+            "容納52噸渦輪機與發電機組的中央核心空間 [cite: 149, 150]"
+          ],
+          "Secondary": [
+            "支撐起重機的場鑄混凝土框架區 [cite: 150]"
+          ],
+          "others": [
+            "無資料"
+          ]
+        },
+        "occupancy_type": [
+          "水力發電廠機房 (Generator chamber) [cite: 148]"
+        ]
+      },
+      "structure_and_construction": {
+        "structure_system": [
+          "由15塊承重預鑄混凝土板組成的圓柱結構 [cite: 149]",
+          "場鑄混凝土支撐框架 [cite: 150]"
+        ],
+        "enclosure_system": [
+          "預鑄混凝土牆體與預製鋼桁架屋頂 [cite: 149, 153]"
+        ],
+        "construction_method": [
+          "將預鑄混凝土板圍繞水輪機堆疊 [cite: 149]",
+          "利用場鑄框架支撐起重機以將52噸設備吊裝就位 [cite: 150]"
+        ]
+      }
+    },
+    "Energy_production": {
+      "generation_type": [
+        "水力發電 (Hydroelectric power) [cite: 143]"
+      ],
+      "power_capacity": [
+        "利用舊水壩與下方湖泊15公尺的高低落差產生電力 [cite: 143]"
+      ],
+      "energy_source": [
+        "既有水壩未被充分利用的水力潛能 (unused potential) [cite: 143]"
+      ],
+      "output_type": [
+        "潔淨電力 (clean power) [cite: 143]"
+      ],
+      "byproduct_management": [
+        "水流經渦輪機後排放至下方15公尺處的湖泊中 (推測)"
+      ]
+    },
+    "Event": {
+      "status": [
+        "已完工 [cite: 142]"
+      ],
+      "completion": 2007,
+      "renovation": [
+        "優化既有舊水壩的輸出潛能，而非建立新水廠 [cite: 144]"
+      ]
+    },
+    "Site": {
+      "context": {
+        "natural_context": [
+          "位於挪威布斯克呂 (Buskerud) 荒蕪但引人入勝的地形中 [cite: 142, 156]"
+        ],
+        "historical_context": [
+          "位於 Pålsbufjorden 舊水壩下方，是通往 Nore 發電廠的系列水庫的最上游 [cite: 142]"
+        ],
+        "cultural_context": [
+          "藉由活化既有舊結構，體現對自然環境與棲地保護的重視 [cite: 144]"
+        ]
+      },
+      "landscape": [
+        "建築背靠530公尺長的人造水壩，前方為湖泊，形塑出一條連貫地景的雕塑線條 [cite: 143, 145]"
+      ]
+    },
+    "Participant": {
+      "architect": [
+        "Manthey Kula [cite: 142]"
+      ],
+      "user": [
+        "電廠營運與設備維護人員 (推測)"
+      ],
+      "client": [
+        "當地電力營運單位 (推測)"
+      ],
+      "co_working_designer": [
+        "無資料"
+      ],
+      "consultant": [
+        "無資料"
+      ]
+    },
+    "Sustainability": {
+      "carbon_footprint": [
+        "利用高低落差生產潔淨能源，且避免新建水壩以減少大量工程碳排 [cite: 143, 144]"
+      ],
+      "circular_economy": [
+        "善用既有舊水壩15公尺落差的閒置潛能，將現有基礎設施效益最大化 [cite: 143, 144]"
+      ],
+      "ecological_impact": [
+        "藉由優化現有水壩而非興建新設施，為保護自然與棲地做出重要貢獻 [cite: 144]",
+        "刻意無天溝的設計使雨水漫流，促進地衣生長，使建築逐漸融入當地生態 [cite: 151, 155, 156]"
+      ]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "水力發電通常需要攔截河流建造大型水庫，對生態破壞極大。本案透過精準選址於既有 Pålsbufjorden 舊水壩下方，擷取未被利用的15公尺水頭落差發電。設計上順應壯闊的530公尺人造水壩線條，將機房獨立為地景中的雕塑；同時讓粗獷的混凝土表面隨氣候（雨雪）生長地衣，使這座能源設施隨時間推移逐漸被自然同化，完美融入荒蕪的地形中 [cite: 143, 145, 155, 156]。",
+      "Layer03": {
+        "massing_strategy": [
+          "採用直徑15公尺、高12公尺的獨立圓柱體量，突顯舊水壩前方的雕塑感 [cite: 145, 148]"
+        ],
+        "material": [
+          "使用粗獷清水混凝土與噴射混凝土，容許自然風化與植物（地衣）攀附生長 [cite: 147, 151, 155]"
+        ],
+        "幾何與動態隱喻": [
+          "圓形的平面配置與面板形狀呼應了水流通過發電機時的旋轉物理動態 [cite: 153]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "水力發電機房的核心任務是容納並吊裝巨大的水輪發電機組。建築以此功能為絕對核心，利用15塊承重預鑄混凝土板環繞52噸的發電設備堆疊而成，並以場鑄框架支撐起重機。建築的圓柱形狀直接反映了內部渦輪機的機能，牆面開孔與不鏽鋼擋水板的細部設計更是純粹地回應了惡劣高山氣候下的通風與採光需求 [cite: 149, 150, 152, 153]。",
+      "Layer03": {
+        "facade": [
+          "預鑄混凝土板上預留孔洞作為窗戶與通風屏障，輔以不鏽鋼型材擋水防雨 [cite: 152]"
+        ],
+        "剖面特徵": [
+          "將起重機結構、52噸重型發電設備與承重混凝土外牆緊密結合的機能導向剖面 [cite: 149, 150]"
+        ],
+        "構造邏輯": [
+          "捨棄天溝，以純粹的承重預鑄板堆疊，展現力量、克制性與粗糙工藝的構造真實性 [cite: 147, 149, 151]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "本案的永續性不僅在於提供潔淨電能，更在於「不作為」的智慧——選擇釋放既有水壩的閒置潛能，而非大興土木建造新水庫，從根本上保護了自然棲地。在建築生命週期上，刻意捨棄傳統排水天溝，引導融雪與雨水洗刷牆面滋生自然地衣，讓建築從堅固的人造物件，慢慢演變為生態系統的一部分，展現了與自然共生的深層永續哲學 [cite: 143, 144, 151, 155, 156]。",
+      "Layer03": {
+        "副產物利用": [
+          "釋放舊水壩閒置的15公尺高低落差潛能轉化為無碳潔淨電力 [cite: 143]"
+        ],
+        "material": [
+          "選擇混凝土以維持堅固性與粗糙感，並作為自然微生態（地衣）繁衍的載體 [cite: 146, 147, 155]"
+        ],
+        "生態適應特徵": [
+          "捨棄天溝設計，刻意引導自然水流漫刷牆面以促進生物附著生長，使建築隨時間消融於環境 [cite: 151, 155, 156]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "基礎設施通常被視為純工程師的領域，但建築師 Manthey Kula 的介入，將一座單純的發電機房提升為一件大地雕塑。設計不僅滿足了電力營運上裝載52噸重型機具的嚴苛技術要求，更透過幾何形式、光影（紀錄太陽高度與軌跡）與材質風化的考量，讓這座發電廠成為能夠對話時間、自然與人類工程史的建築藝術品 [cite: 145, 150, 154, 156]。",
+      "Layer03": {
+        "複合program": [
+          "實用高機能的水力發電機房 + 荒野地景中的大地藝術雕塑 [cite: 145, 148]"
+        ],
+        "circulation": [
+          "極度聚焦、圍繞中央核心52噸水輪機組運作與起重機吊裝的純粹動線 [cite: 149, 150]"
+        ],
+        "時間與環境感知": [
+          "利用建築量體在舊水壩及自身投射的陰影，作為指示太陽高度與時間運動的空間裝置 [cite: 154]"
+        ]
+      }
+    }
+  },
+  "Case id": 10,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": [
+          "49公尺高的標誌性排煙塔 (49 metre high stack tower) [cite: 163]",
+          "具備高度彈性與開放性的大跨距主廠房 (推測)"
+        ],
+        "orientation": {
+          "main entrance": [
+            "朝向半島入口與主要道路以引導訪客 (推測)"
+          ],
+          "massing orientation": [
+            "位於半島入口的顯著位置，緊鄰Blackwall隧道引道 [cite: 161]"
+          ]
+        },
+        "environmental_response": {
+          "lighting_strategy": [
+            "大面積玻璃帷幕引入自然光 (推測)",
+            "夜間整合照明設計於塔樓內部產生變化的光影構圖 [cite: 164]"
+          ],
+          "ventilation_strategy": [
+            "利用穿孔金屬板與格柵提供廠房通風與散熱 (推測)"
+          ]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": [
+          "穿孔金屬三角面板 (perforated triangular panels) [cite: 163, 164]",
+          "大跨距鋼構主結構 (推測)"
+        ],
+        "interior_finishes": [
+          "外露的主結構桁架與金屬構件 (推測)",
+          "大面積玻璃帷幕 (推測)"
+        ],
+        "performance_and_lifecycle": [
+          "採用彈性建築配置以適應未來新科技更迭 [cite: 166]",
+          "立面面板利用莫列波紋效應 (Moiré Effect) [cite: 164]"
+        ]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": [
+            "外部景觀-遊客中心-大跨距機房與辦公空間-49公尺高排煙塔 (推測)"
+          ]
+        },
+        "circulation": [
+          "訪客預約導覽動線>遊客中心互動體驗>周邊參觀廊道 (推測)"
+        ],
+        "spatial_boundaries_and_connectivity": [
+          "高度透明的玻璃帷幕削弱量體壓迫感並延展外部景觀 (推測)"
+        ]
+      },
+      "facade": {
+        "materiality_and_texture": [
+          "數百塊三角面板交疊形成的雕塑感表面 [cite: 163]",
+          "穿孔金屬板 (perforated panels) [cite: 164]"
+        ],
+        "fenestration_and_transparency": [
+          "利用穿孔板創造莫列波紋效應的半透明視覺 [cite: 164]",
+          "廠房大面積落地窗 (推測)"
+        ],
+        "tectonic_detailing": [
+          "複雜幾何圖案打破平面，創造具備透視感與消失點的雕塑表面 [cite: 163]"
+        ]
+      },
+      "scale": {
+        "physical_dimensions": [
+          "2650 m² - 3000 m² (廠房面積) [cite: 157, 161]，塔高49公尺 [cite: 163]"
+        ],
+        "human_scale_relationship": [
+          "以藝術雕塑外觀化解巨型工業設施的壓迫感，並透過遊客中心拉近與公眾的距離 [cite: 163, 165]"
+        ],
+        "urban_proportion": [
+          "作為倫敦Greenwich半島入口的巨大城市地標與視覺錨點 [cite: 161]"
+        ]
+      },
+      "program": {
+        "functional_zoning": [
+          "汽電共生機房與輔助辦公區 [cite: 159, 165]",
+          "互動式遊客教育中心 [cite: 165]",
+          "排煙塔樓區 (The Optic Cloak) [cite: 163, 165]"
+        ],
+        "spatial_hierarchy": {
+          "Primary": [
+            "容納先進鍋爐與汽電共生設備的機房空間 [cite: 159]"
+          ],
+          "Secondary": [
+            "49公尺高的雕塑排煙塔 [cite: 163]",
+            "互動式遊客中心 (Visitor Centre) [cite: 165]"
+          ],
+          "others": [
+            "靈活的附屬辦公空間 [cite: 165]"
+          ]
+        },
+        "occupancy_type": [
+          "低碳能源中心 (汽電共生廠) / 能源教育展示館 [cite: 159, 165]"
+        ]
+      },
+      "structure_and_construction": {
+        "structure_system": [
+          "大跨距鋼構桁架與規律結構柱網 (推測)"
+        ],
+        "enclosure_system": [
+          "穿孔金屬三角面板與玻璃帷幕組成的外殼系統 (推測)"
+        ],
+        "construction_method": [
+          "模矩化組裝與精密工程結合的構造工法 (推測)"
+        ]
+      }
+    },
+    "Energy_production": {
+      "generation_type": [
+        "汽電共生 (Combined Heat & Power, CHP) [cite: 159]"
+      ],
+      "power_capacity": [
+        "供應15,700戶新住宅與逾300,000平方公尺辦公空間的熱能 [cite: 158, 159]"
+      ],
+      "energy_source": [
+        "分散式能源發電 (decentralized energy power generation) [cite: 159]"
+      ],
+      "output_type": [
+        "熱能 (Heat energy distributed via District Heating Network) [cite: 159, 162]"
+      ],
+      "byproduct_management": [
+        "排氣透過49公尺高的排煙塔排放 (推測)"
+      ]
+    },
+    "Event": {
+      "status": [
+        "已完工 [cite: 166]"
+      ],
+      "completion": 2016,
+      "renovation": [
+        "作為Greenwich半島大規模都市更新發展計畫的一環，新建的基礎設施 [cite: 158, 160]"
+      ]
+    },
+    "Site": {
+      "context": {
+        "natural_context": [
+          "位於倫敦的格林威治半島 (Greenwich Peninsula) [cite: 158]"
+        ],
+        "historical_context": [
+          "過去的千禧巨蛋(現為The O2)所在地，為倫敦主要都市開發區 [cite: 158]"
+        ],
+        "cultural_context": [
+          "回應英國跨黨派推動CHP應用的政策，實現倫敦分散式能源發電的願景 [cite: 159]"
+        ]
+      },
+      "landscape": [
+        "位於半島入口的顯著位置，以49公尺高的藝術塔樓成為地標 [cite: 161, 163]"
+      ]
+    },
+    "Participant": {
+      "architect": [
+        "C.F. Møller Architects [cite: 157, 158]"
+      ],
+      "user": [
+        "半島上新建住宅與辦公室的居民及使用者 [cite: 158, 159]",
+        "預約參觀的遊客與教育團體 [cite: 165]"
+      ],
+      "client": [
+        "Knight Dragon (site-wide developer) [cite: 167]"
+      ],
+      "co_working_designer": [
+        "Conrad Shawcross (英國藝術家，設計塔樓外殼 'The Optic Cloak') [cite: 163, 165]"
+      ],
+      "consultant": [
+        "Buro Happold, Ove Arup & Partners, Price & Myers (工程顧問) [cite: 158]"
+      ]
+    },
+    "Sustainability": {
+      "carbon_footprint": [
+        "每年減少超過20,000噸的碳排放 [cite: 160]"
+      ],
+      "circular_economy": [
+        "推動區域熱能網絡(DHN)，實現大規模能源分配與效率最佳化 [cite: 160, 162]"
+      ],
+      "ecological_impact": [
+        "作為歐洲最大的新建住宅熱網，展現對永續與可負擔能源的承諾 [cite: 160, 161]"
+      ]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "作為倫敦格林威治半島大型都市更新的核心基礎設施，低碳能源中心被刻意安置於半島入口的顯眼位置 [cite: 158, 161]。為了化解傳統發電廠排煙塔在都市景觀中的突兀感，設計團隊邀請藝術家將49公尺高的塔樓轉化為名為「光學斗篷 (The Optic Cloak)」的大型公共藝術雕塑，使其從鄰避設施蛻變為引以為傲的城市地標 [cite: 163, 165]。",
+      "Layer03": {
+        "massing_strategy": [
+          "將排煙塔獨立並放大為49公尺高的藝術雕塑量體 [cite: 163]"
+        ],
+        "material": [
+          "採用穿孔金屬三角面板構成複雜的光學表面 [cite: 163, 164]"
+        ],
+        "城市入口地標": [
+          "將基礎設施安置於半島入口的顯著位置，成為永續發展的視覺宣示 [cite: 161]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "建築內部必須容納龐大的汽電共生設備(CHP)與鍋爐，因此建築足跡與結構預留了高度彈性，以適應建築漫長生命週期中未來新技術的導入 [cite: 159, 166]。在外觀上，塔樓立面運用複雜的幾何摺疊與穿孔面板交織出莫列波紋效應 (Moiré Effect) [cite: 163, 164]，夜間更透過內部整合的燈光設計，將發電過程中的能量流動具象化為不斷變換的光影構圖 [cite: 164]。",
+      "Layer03": {
+        "facade": [
+          "具備莫列波紋效應的穿孔三角金屬面板 [cite: 163, 164]",
+          "整合夜間動態照明設計 [cite: 164]"
+        ],
+        "剖面特徵": [
+          "利用大跨距屋架包覆機房，並與高聳的排煙塔形成強烈對比 (推測)"
+        ],
+        "空間彈性": [
+          "建築足跡與結構模矩預留彈性，以適應未來新能源技術的導入 [cite: 166]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "本案響應了倫敦分散式能源的願景，為半島上逾一萬五千戶新住宅與商辦提供熱能，每年成功減碳兩萬噸 [cite: 158, 159, 160]。除了在硬體上導入區域供熱網路(DHN) [cite: 162]，建築設計也將永續理念透明化——藉由設立遊客中心與互動教育設施，主動「解密 (demystify)」能源生成的過程，將永續科技轉化為公眾可理解、可參與的社會教育 [cite: 165]。",
+      "Layer03": {
+        "副產物利用": [
+          "將汽電共生產生的熱能透過DHN網絡分配給全區建築 [cite: 159, 162]"
+        ],
+        "material": [
+          "利用金屬穿孔板創造輕盈感與雕塑感 [cite: 163, 164]"
+        ],
+        "社會永續與教育": [
+          "將生硬的能源製造過程轉譯為具教育意義的互動體驗 [cite: 165]"
+        ]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "本案是跨界協作的典範。開發商、工程顧問、建築師 (C.F. Møller) 與當代藝術家 (Conrad Shawcross) 的緊密合作，成功將純工程導向的工業設施昇華為具備高度美學價值的藝術品 [cite: 158, 163, 167]。這種複合參與模式不僅滿足了熱能分配的功能需求，更透過設立遊客中心，向公眾揭開了能源生產的神秘面紗，強化了社區對低碳基礎設施的認同感 [cite: 165]。",
+      "Layer03": {
+        "複合program": [
+          "汽電共生能源廠房 + 互動式能源教育遊客中心 + 巨型公共藝術塔樓 [cite: 159, 163, 165]"
+        ],
+        "circulation": [
+          "設置專屬的預約團體參觀動線，與日常廠房運作空間整合 (推測)"
+        ],
+        "跨界協作美學": [
+          "融合光學研究、精密工程與建築構造的立面雕塑設計 [cite: 163]"
+        ]
+      }
+    }
+  },
+  "Case id": 11,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": ["簡單長方體量", "整合進現有工業地貌"],
+        "orientation": {
+          "main entrance": ["朝東，面向整個電廠區域的主入口"],
+          "massing orientation": ["長條狀量體，縱向立面分別對應停車場與 Vuosaari B 電廠"]
+        },
+        "environmental_response": {
+          "lighting_strategy": ["東立面玻璃帷幕引入採光", "白色鋼管遮陽屏蔽防過熱與眩光"],
+          "ventilation_strategy": ["工業機房自然/機械通風考量"]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": ["預製混凝土框架", "紅磚", "鋼材", "玻璃"],
+        "interior_finishes": ["暴露的預製混凝土表面"],
+        "performance_and_lifecycle": ["碳中和能源基礎設施", "長效工業結構"]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": ["主製程設備間(雙層挑高)-控制室-電氣室-機房"]
+        },
+        "circulation": ["室內樓梯>室外鋼製樓梯(至屋頂)"],
+        "spatial_boundaries_and_connectivity": ["功能分區明確", "立面設計與室內空間高度對應"]
+      },
+      "facade": {
+        "materiality_and_texture": ["斑駁紅磚立面(疊砌法)", "雙皮層玻璃帷幕與白色細鋼管"],
+        "fenestration_and_transparency": ["雙皮層結構提供虛實對比", "機房內部可視化"],
+        "tectonic_detailing": ["翼型訂製磚塊", "堆疊式砌磚格柵", "對角線排列的鋼管"]
+      },
+      "scale": {
+        "physical_dimensions": ["無資料"],
+        "human_scale_relationship": ["立面細節與空間分區對話，建立人的尺度感"],
+        "urban_proportion": ["適應並對應現有工業地標(A廠與B廠)的尺度"]
+      },
+      "program": {
+        "functional_zoning": ["底層：主製程、電氣、控制；二層：機房"],
+        "spatial_hierarchy": {
+          "Primary": ["熱泵設備間"],
+          "Secondary": ["控制室、電氣室、機房"],
+          "others": ["外部動線"]
+        },
+        "occupancy_type": ["工業設施/基礎建設"]
+      },
+      "structure_and_construction": {
+        "structure_system": ["預製混凝土框架結構"],
+        "enclosure_system": ["紅磚外牆", "雙皮層玻璃幕牆"],
+        "construction_method": ["預製組件現場裝配"]
+      }
+    },
+    "Energy_production": {
+      "generation_type": ["熱泵供應系統(district heat)"],
+      "power_capacity": ["無資料"],
+      "energy_source": ["鄰近電廠廢熱", "波羅的海海水熱能"],
+      "output_type": ["區域供熱"],
+      "byproduct_management": ["回收廢熱再利用"]
+    },
+    "Event": {
+      "status": ["營運中"],
+      "completion": 2021,
+      "renovation": ["無"]
+    },
+    "Site": {
+      "context": {
+        "natural_context": ["位於波羅的海沿岸（推測）", "鄰近 Vuosaari 港口"],
+        "historical_context": ["既有工業電廠基地", "鄰近 1987 與 1998 年建成的電廠地標"],
+        "cultural_context": ["芬蘭邁向 2030 碳中和願景之重要實踐"]
+      },
+      "landscape": ["工業地景", "與周邊電廠量體呼應", "極簡俐落的基地邊界"]
+    },
+    "Participant": {
+      "architect": ["Virkkunen & Co Architects Ltd (Uros Kostic, Nina Rusanen)"],
+      "user": ["Helen Ltd"],
+      "client": ["Helen Ltd"],
+      "co_working_designer": ["無資料"],
+      "consultant": ["Insinööritoimisto Heikki Möttönen Ltd"]
+    },
+    "Sustainability": {
+      "carbon_footprint": ["致力於 2030 碳中和目標"],
+      "circular_economy": ["廢熱與海水熱能回收循環"],
+      "ecological_impact": ["整合於現有工業區以減少額外開發"]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "基地選擇於現有電廠旁，利用既有的熱能基礎設施，將廢熱與海水熱能轉化為區域供熱，達到土地高強度利用與能源循環效益。",
+      "Layer03": {
+        "massing_strategy": ["依據場地物流與製程配置定位量體"],
+        "material": ["選用與鄰近 Vuosaari B 電廠呼應的紅磚"],
+        "contextual_adaptation": ["與現有工業地標建立視覺聯繫"]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "建築形式直接反映能源生產流程，將內部機械運作展示予公眾，打破工業設施的封閉性。",
+      "Layer03": {
+        "facade": ["雙皮層結構展示內部機具與空間分區"],
+        "剖面特徵": ["雙層挑高製程空間與服務設施垂直疊放"],
+        "tectonic_expression": ["立面開口隨內部樓層與設備高度變化"]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "透過能源回收技術（廢熱/海水）作為核心，建築材料與構造細節強調環境友善與長期耐用。",
+      "Layer03": {
+        "副產物利用": ["回收過剩廢熱作為能源來源"],
+        "material": ["使用預製混凝土節省現場施工廢棄物"],
+        "thermal_control": ["雙皮層遮陽構造降低建築能源耗損"]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "透過設計轉譯，使原本生硬的發電設施成為具備建築美學與教育意涵的城市物件，改善業主與公眾的關係。",
+      "Layer03": {
+        "複合program": ["能源生產基地+展示教育"],
+        "circulation": ["公共視線導向展示空間>內部人員維護動線"],
+        "design_communication": ["工業建築語彙的當代演繹"]
+      }
+    }
+  },
+  "Case id": 12,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": ["微型城市概念", "波浪起伏的連續大屋頂", "將工業廠房埋藏於地表之下"],
+        "orientation": {
+          "main entrance": ["設置遊客大廳，連結外部公園景觀與內部參觀動線"],
+          "massing orientation": ["配置對應既有鋼鐵廠區紋理，形成地標性雙尖塔地景"]
+        },
+        "environmental_response": {
+          "lighting_strategy": ["玻璃參觀廊道引入自然光", "立面網點面板調節光影"],
+          "ventilation_strategy": ["結合大規模垃圾處理的高效通風與廢氣過濾系統（推測）"]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": ["金屬網點漸層面板", "鋼構與混凝土"],
+        "interior_finishes": ["明亮通透的展覽空間", "工業感的鋼構與玻璃"],
+        "performance_and_lifecycle": ["未來導向的韌性工業設施", "強調資源回收與循環經濟"]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": ["傾倒大廳-垃圾儲存槽-焚化爐-汽輪發電機-遊客展覽廊道"]
+        },
+        "circulation": ["外部公園步道>內部參觀廊道>展覽空間"],
+        "spatial_boundaries_and_connectivity": ["將工業區邊界縫合於公園景觀之中", "創造公眾可視化空間"]
+      },
+      "facade": {
+        "materiality_and_texture": ["像素化開孔金屬面板", "漸層紋理削弱量體感"],
+        "fenestration_and_transparency": ["大面積玻璃窗框景", "內部運作轉化為公眾視覺焦點"],
+        "tectonic_detailing": ["雙曲線流線屋頂", "幾何圖騰凸窗"]
+      },
+      "scale": {
+        "physical_dimensions": ["128000 平方公尺"],
+        "human_scale_relationship": ["透過公園景觀與展覽空間，將工業設施尺度轉化為市民生活尺度"],
+        "urban_proportion": ["龐大的能源中心量體與周邊重工業港區尺度呼應"]
+      },
+      "program": {
+        "functional_zoning": ["焚化爐與厭氧消化設施區", "10公頃屋頂公園", "展覽與娛樂空間"],
+        "spatial_hierarchy": {
+          "Primary": ["垃圾處理與發電核心"],
+          "Secondary": ["能源應用與教育展示"],
+          "others": ["市民遊憩設施"]
+        },
+        "occupancy_type": ["市政基礎設施 / 多功能公共設施"]
+      },
+      "structure_and_construction": {
+        "structure_system": ["長跨度鋼結構屋頂"],
+        "enclosure_system": ["金屬漸層外牆"],
+        "construction_method": ["工業組件與建築化表皮整合"]
+      }
+    },
+    "Energy_production": {
+      "generation_type": ["垃圾轉化能源 (WTE) 焚化與厭氧消化"],
+      "power_capacity": ["每日處理3,000噸垃圾(焚化) + 8,000噸濕垃圾(厭氧)"],
+      "energy_source": ["城市固體廢棄物 (MSW)"],
+      "output_type": ["電能、沼氣"],
+      "byproduct_management": ["廢熱回收、碳排放減量"]
+    },
+    "Event": {
+      "status": ["營運中"],
+      "completion": 2025,
+      "renovation": [" decommissioned Bao Steel campus (基地再利用)"]
+    },
+    "Site": {
+      "context": {
+        "natural_context": ["濱海/河口地帶", "工業區棕地再開發"],
+        "historical_context": ["原寶鋼（Bao Steel）舊址，具備厚重重工業歷史背景"],
+        "cultural_context": ["致力於環保教育與循環經濟的城市願景"]
+      },
+      "landscape": ["10公頃屋頂公園", "蜿蜒景觀步道", "對應周邊重工業港區的天際線"]
+    },
+    "Participant": {
+      "architect": ["Ballistic Architecture Machine (BAM)"],
+      "user": ["市政當局/市民"],
+      "client": ["市政單位"],
+      "co_working_designer": ["當地工程研究所"],
+      "consultant": ["無資料"]
+    },
+    "Sustainability": {
+      "carbon_footprint": ["大幅降低掩埋帶來的碳排放", "具備碳捕捉潛力（推測）"],
+      "circular_economy": ["垃圾轉化為能源與資源再利用"],
+      "ecological_impact": ["透過綠色屋頂修復基地生態"]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "將垃圾處理設施安置於廢棄鋼廠舊址，透過景觀設計將工業設施與基地縫合，體現了棕地再利用與能源循環的韌性策略。",
+      "Layer03": {
+        "massing_strategy": ["基地地表掀起與量體掩埋"],
+        "material": ["景觀公園與工業廠房融合"],
+        "environmental_integration": ["地標性雙塔與周邊工業地景呼應"]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "利用「偽裝」設計手法，將複雜的垃圾處理流程包裹於流線型的外殼中，同時將工業運作過程透明化，提升建築的公共性。",
+      "Layer03": {
+        "facade": ["像素化網點與漸層外牆削弱巨大的體量感"],
+        "剖面特徵": ["線性陣列的工業機能與上層市民空間疊合"],
+        "public_engagement": ["內部玻璃參觀廊道增加公共教育價值"]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "以垃圾轉化能源（WTE）技術整合焚化與厭氧消化，實現資源最大化利用，並透過碳排放數據展示與綠色基礎設施的建立，引領圓形未來。",
+      "Layer03": {
+        "副產物利用": ["有機物轉化為沼氣，無機物焚化發電"],
+        "material": ["建築材料符合永續與未來韌性需求"],
+        "carbon_reduction": ["將掩埋場轉換為高效率能源生產基地"]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "將傳統鄰避設施轉化為「微型城市」，透過屋頂公園、展覽與娛樂機能，成功扭轉公眾對垃圾焚化設施的負面印象，實現公民高度參與。",
+      "Layer03": {
+        "複合program": ["能源生產基地+市民屋頂公園+環境教育展覽"],
+        "circulation": ["市民參觀動線與工業物流動線的分離與連結"],
+        "social_impact": ["成功提升公眾對垃圾管理設施的接受度與認同感"]
+      }
+    }
+  },
+  "Case id": 13,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": ["線性配置理性格局", "以鋼構框架皮膚統一包覆複雜機電設備", "矩形方塊錯落削弱體積感"],
+        "orientation": {
+          "main entrance": ["City Window 端點觀景平台，面向杜塞道夫市中心與萊茵河"],
+          "massing orientation": ["長條狀線性序列，City Window 偏轉約15度以面對城市"]
+        },
+        "environmental_response": {
+          "lighting_strategy": ["夜間框架接縫 LED 照明", "City Window 大面積玻璃帷幕引入自然光"],
+          "ventilation_strategy": ["結合工業排煙與通風管線的建築表皮系統"]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": ["銀色塗層鋼板夾層面板", "黑色穿孔金屬板", "鋼骨結構", "鋁複合板"],
+        "interior_finishes": ["外露拋光滑模混凝土", "深灰色拋光地坪", "不鏽鋼與鍍鋅鋼材"],
+        "performance_and_lifecycle": ["氣候屏障", "隔音系統", "適應機電技術需求的靈活外殼"]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": ["多功能建築-發電機房-熱回收蒸汽產生器-垂直核心筒-City Window"]
+        },
+        "circulation": ["專用電梯至45米高觀景平台"],
+        "spatial_boundaries_and_connectivity": ["工業生產區與觀景/辦公區域明確區隔，透過通透介面連結"]
+      },
+      "facade": {
+        "materiality_and_texture": ["銀色框架與黑色深陷接縫的強烈對比", "穿孔金屬板節奏感"],
+        "fenestration_and_transparency": ["City Window 全玻璃帷幕展示內部機械與城市景觀"],
+        "tectonic_detailing": ["框架深度依內部設備調整", "模組化鋼框設計"]
+      },
+      "scale": {
+        "physical_dimensions": ["煙囪高度約63米", "觀景平台高度45米"],
+        "human_scale_relationship": ["City Window 的觀景體驗建立人的尺度感"],
+        "urban_proportion": ["成為區域性天際線地標"]
+      },
+      "program": {
+        "functional_zoning": ["底層及線性機電區：發電/供熱", "端點：City Window 公共觀景/展示"],
+        "spatial_hierarchy": {
+          "Primary": ["氣渦輪機、蒸汽輪機、發電機"],
+          "Secondary": ["熱回收蒸汽產生器(HRSG)、排煙核心筒"],
+          "others": ["觀景平台、多功能辦公建築"]
+        },
+        "occupancy_type": ["能源基礎設施 / 公共觀景"]
+      },
+      "structure_and_construction": {
+        "structure_system": ["鋼構骨架體系", "City Window 為獨立鋼框架構造"],
+        "enclosure_system": ["折疊金屬板與鋁複合板組合"],
+        "construction_method": ["預製鋼件組裝", "懸掛式Facade系統"]
+      }
+    },
+    "Energy_production": {
+      "generation_type": ["天然氣複循環發電 (Combined Cycle Gas Turbine)"],
+      "power_capacity": ["無資料"],
+      "energy_source": ["天然氣"],
+      "output_type": ["電力、區域供熱"],
+      "byproduct_management": ["高效排煙系統、熱回收再利用"]
+    },
+    "Event": {
+      "status": ["營運中"],
+      "completion": 2016,
+      "renovation": ["無"]
+    },
+    "Site": {
+      "context": {
+        "natural_context": ["萊茵河畔平原"],
+        "historical_context": ["Lausward 工業區，現有電廠基地再開發"],
+        "cultural_context": ["與杜塞道夫城市天際線的視覺對話"]
+      },
+      "landscape": ["工業河岸地貌", "與周圍歷史工業廠房形成對比"]
+    },
+    "Participant": {
+      "architect": ["kadawittfeldarchitektur"],
+      "user": ["能源供應商與公眾"],
+      "client": ["無資料"],
+      "co_working_designer": ["無資料"],
+      "consultant": ["無資料"]
+    },
+    "Sustainability": {
+      "carbon_footprint": ["高效率複循環技術降低單位發電碳排放"],
+      "circular_economy": ["區域供熱管線資源回收"],
+      "ecological_impact": ["工業區整合開發，減少環境足跡"]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "基地座落於萊茵河畔，設計透過 City Window 的軸線轉折，將原本封閉的發電設施轉向面對城市，成為河岸天際線的新標誌 [cite: 51]。",
+      "Layer03": {
+        "massing_strategy": ["依據場地線性紋理排列"],
+        "facade": ["利用 City Window 建立與城市的視覺連結"],
+        "contextual_alignment": ["量體偏轉15度以面對 Düsseldorf 市中心"]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "建築表皮不僅是氣候遮蔽，更作為工業設備的靈活外衣，隨內部機具空間需求調整，將複雜的機電系統轉化為幾何美學 [cite: 41, 48, 50]。",
+      "Layer03": {
+        "facade": ["鋼構框架皮膚整合排煙與通風功能"],
+        "剖面特徵": ["機房線性共軸排列與垂直排煙筒結合"],
+        "aesthetic_transformation": ["以條碼概念（barcode image）呈現能源生成效率"]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "本電廠強調複循環能源利用，並透過高效的區域供熱管線實現循環經濟 [cite: 35, 69]，建築設計則通過高效能表皮與夜間低耗能LED顯示達到永續形象 [cite: 43, 56]。",
+      "Layer03": {
+        "副產物利用": ["熱回收蒸汽與供熱凝結技術"],
+        "material": ["使用金屬夾層板提升隔音與氣候性能"],
+        "energy_signaling": ["夜間接縫照明顯示能源生產動態"]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "透過導覽與高空觀景平台，將工業生產過程變成可參與的科技體驗，成功提升公眾對能源產業的理解與形象認同 [cite: 43, 46, 47]。",
+      "Layer03": {
+        "複合program": ["發電設施+教育展示+觀景空間"],
+        "circulation": ["參觀動線垂直移動至觀景平台"],
+        "social_interaction": ["以城市之窗打破工業建築的封閉性"]
+      }
+    }
+  },
+  "Case id": 14,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": ["仿生流線型殼體", "埋入式地景建築", "模仿河床卵石或翻轉的船肋骨"],
+        "orientation": {
+          "main entrance": ["結合橫跨兩岸的人行步道，提供公眾親水體驗"],
+          "massing orientation": ["順應河道水流方向，具備線性動態特徵"]
+        },
+        "environmental_response": {
+          "lighting_strategy": ["裂縫式間接採光", "透過殼體邊緣縫隙引入自然光"],
+          "ventilation_strategy": ["針對機房需求之空氣與結構噪音防制"]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": ["鋼筋混凝土薄殼", "粗糙板模混凝土表面", "噴砂飾面與碎石骨材"],
+        "interior_finishes": ["原始混凝土表面", "工業地坪"],
+        "performance_and_lifecycle": ["結構長效性", "高效率能源轉換"]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": ["進水口(靜止)-渦輪區(動態)-出水口(靜止)"]
+        },
+        "circulation": ["沿河岸步道>橫跨橋樑>觀景與展示空間"],
+        "spatial_boundaries_and_connectivity": ["殼體包覆主要發電核心", "與歷史磚造舊廠房並存"]
+      },
+      "facade": {
+        "materiality_and_texture": ["噴灑碎石的混凝土殼體", "隨天氣與光影變化的表面質感"],
+        "fenestration_and_transparency": ["無傳統窗戶，以結構縫隙作為採光口"],
+        "tectonic_detailing": ["肋骨式結構支撐", "可移除式輕質混凝土組件以利維護"]
+      },
+      "scale": {
+        "physical_dimensions": ["建築面積約1040 m²", "體積約3865 m³"],
+        "human_scale_relationship": ["內部的圓頂與親密空間交替變化", "公共步道提升城市尺度感"],
+        "urban_proportion": ["融入伊勒河自然地景，與歷史工業遺址和諧共存"]
+      },
+      "program": {
+        "functional_zoning": ["水輪機與發電機室", "變壓器室", "魚道與生態設施"],
+        "spatial_hierarchy": {
+          "Primary": ["水輪發電機組"],
+          "Secondary": ["攔水堰、濾網清理裝置"],
+          "others": ["跨河步道、魚道"]
+        },
+        "occupancy_type": ["市政基礎設施 / 親水公共空間"]
+      },
+      "structure_and_construction": {
+        "structure_system": ["鋼筋混凝土薄殼結構 (Shell structure)"],
+        "enclosure_system": ["肋骨支撐體系 (類似船體結構)"],
+        "construction_method": ["粗糙木板模澆注", "プレート支承(Plate bearings)以調節變形"]
+      }
+    },
+    "Energy_production": {
+      "generation_type": ["水力發電 (Hydro-electric)"],
+      "power_capacity": ["年產約1050萬度電，供應約3000戶家庭"],
+      "energy_source": ["伊勒河水力"],
+      "output_type": ["綠色電能"],
+      "byproduct_management": ["設置生態魚道以減輕環境衝擊"]
+    },
+    "Event": {
+      "status": ["營運中"],
+      "completion": 2011,
+      "renovation": ["替代五十年代舊電廠"]
+    },
+    "Site": {
+      "context": {
+        "natural_context": ["伊勒河(Iller)左岸", "河灘地勢", "豐富的河道水文環境"],
+        "historical_context": ["鄰近舊紡織廠/織布廠歷史建築群", "保留原有鋼結構橋樑"],
+        "cultural_context": ["推動城市與河流再連結之指標項目"]
+      },
+      "landscape": ["流體雕塑地景", "公共步道與自行車道系統"]
+    },
+    "Participant": {
+      "architect": ["Becker Architekten"],
+      "user": ["市民與能源消費者"],
+      "client": ["市政單位/能源商"],
+      "co_working_designer": ["RMD Consult (結構)"],
+      "consultant": ["Mueller BBM GmbH (物理環境)"]
+    },
+    "Sustainability": {
+      "carbon_footprint": ["環境友善綠電"],
+      "circular_economy": ["既有鋼構橋樑再利用，避免拆除"],
+      "ecological_impact": ["整合魚道設計", "優良的噪音防制措施"]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "設計起點為水流動態的象徵性表徵，建築形態與周邊河道岩石與水體動態產生共鳴，不僅發電，更成為河岸公共空間之核心 [cite: 72, 73]。",
+      "Layer03": {
+        "massing_strategy": ["順應水流之流體雕塑形態"],
+        "material": ["與自然河床地質呼應之混凝土質感"],
+        "public_connectivity": ["連續步道縫合城市與河流"]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "利用肋骨狀骨架結構創造出充滿張力的室內空間，透過簡化技術細部，將大型機械設備隱入雕塑般的建築量體中 [cite: 78, 80]。",
+      "Layer03": {
+        "facade": ["順應力學需求的無縫曲線殼體"],
+        "剖面特徵": ["埋入水底之機房與向上舒展之頂部空間"],
+        "tectonic_expression": ["船肋狀結構穩定器"]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "在執行過程中，將生態議題（如魚道整合）與基礎設施防噪措施視為重點，同時透過材料選擇與結構設計確保能源設施的長效耐用性 [cite: 84]。",
+      "Layer03": {
+        "副產物利用": ["環境友善之再生水電"],
+        "material": ["耐候且具備環境共融性的噴砂混凝土"],
+        "ecological_integration": ["建置魚道並保留舊橋結構"]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "建築不僅是功能性空間，更透過動態的公共動線規劃，將原本封閉的發電場轉化為市民體驗能源、親近河水的場所 [cite: 86, 87]。",
+      "Layer03": {
+        "複合program": ["發電廠+跨河人行橋+河岸生態廊道"],
+        "circulation": ["連續性的步道動線串聯工業遺產與現代能源設施"],
+        "social_impact": ["透過設計翻轉工業設施為城市地景藝術"]
+      }
+    }
+  },
+  "Case id": 15,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": ["長條狀矩形體量", "利用地形高低差設計兩個高度錯落的斜屋頂", "量體與屋頂傾斜度呼應周邊地形"],
+        "orientation": {
+          "main entrance": ["朝南，設置雙翼大門，避開村落方向以降低噪音影響"],
+          "massing orientation": ["長軸與 Ragn d’Err 河道平行"]
+        },
+        "environmental_response": {
+          "lighting_strategy": ["環繞式天窗帶（Oberlichtkranz）採光", "透過木板縫隙進行遮陽"],
+          "ventilation_strategy": ["機械運作產生的廢熱供冬季保溫，僅需維持室內 6°C"]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": ["鋼筋混凝土承重結構", "木製板條外牆（Holzbohlenkonstruktion）"],
+        "interior_finishes": ["外露混凝土牆面", "木造桁架"],
+        "performance_and_lifecycle": ["建築外層隔熱設計", "防洪規劃以確保設施安全"]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": ["アクセス(大門)-主要泵室/發電空間-維護空間"]
+        },
+        "circulation": ["經由河道旁的社區道路進入"],
+        "spatial_boundaries_and_connectivity": ["單一入口設計以優化隔音效果"]
+      },
+      "facade": {
+        "materiality_and_texture": ["垂直木製格柵皮層", "屋頂覆蓋水泥石板"],
+        "fenestration_and_transparency": ["隱蔽式採光天窗帶", "唯一開口為大型雙翼維護門"],
+        "tectonic_detailing": ["木結構與混凝土基礎的結合", "遮陽木構天窗設計"]
+      },
+      "scale": {
+        "physical_dimensions": ["寬 11.30 公尺，長 23.50 公尺"],
+        "human_scale_relationship": ["低調的建築尺度感與周邊森林、民宅呼應"],
+        "urban_proportion": ["謙遜融入河谷景觀"]
+      },
+      "program": {
+        "functional_zoning": ["地面層：主機房與機電區"],
+        "spatial_hierarchy": {
+          "Primary": ["水力發電/泵房核心設備"],
+          "Secondary": ["控制室、變壓器室"],
+          "others": ["維護空間"]
+        },
+        "occupancy_type": ["市政基礎設施 (水力/抽水站)"]
+      },
+      "structure_and_construction": {
+        "structure_system": ["混凝土承重結構 (部分可視)"],
+        "enclosure_system": ["木結構皮層與外部保溫層"],
+        "construction_method": ["傳統營造工法結合工業化機電整合"]
+      }
+    },
+    "Energy_production": {
+      "generation_type": ["水電廠 (Zentrale Mulegn)"],
+      "power_capacity": ["無資料"],
+      "energy_source": ["Ragn d’Err 河流動力"],
+      "output_type": ["電能"],
+      "byproduct_management": ["回收設備餘熱進行空間保溫"]
+    },
+    "Event": {
+      "status": ["營運中"],
+      "completion": 2016,
+      "renovation": ["無"]
+    },
+    "Site": {
+      "context": {
+        "natural_context": ["位於 Ragn d’Err 河流的平坦河段", "北側鄰近河道", "自然林地環繞"],
+        "historical_context": ["位於提尼宗（Tinizong）周邊，依循當地鄉村環境紋理"],
+        "cultural_context": ["低噪音防護設計以維護鄰近村落生活品質"]
+      },
+      "landscape": ["融入植被環境", "建築高度與形體順應自然坡度"]
+    },
+    "Participant": {
+      "architect": ["Cangemi Architekten"],
+      "user": ["市政能源部門"],
+      "client": ["無資料"],
+      "co_working_designer": ["無資料"],
+      "consultant": ["無資料"]
+    },
+    "Sustainability": {
+      "carbon_footprint": ["低維護需求，能源轉換效率高"],
+      "circular_economy": ["廢熱再利用降低取暖能耗"],
+      "ecological_impact": ["防洪安全設計與自然景觀融合"]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "基地選擇於平坦河段且具防洪韌性之處，建築形態與屋頂坡度完全順應當地地形與自然植被 [cite: 91, 93, 96]。",
+      "Layer03": {
+        "massing_strategy": ["順應地形與河道配置"],
+        "material": ["選用當地木材與石材語彙"],
+        "environmental_resilience": ["防洪應變建築規劃"]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "將建築量體簡化為矩形木屋，內部複雜機電透過結構分層安置，外部設計則極力去工業化，展現極致純粹的工業美學 [cite: 94, 98, 102]。",
+      "Layer03": {
+        "facade": ["垂直木格柵皮層進行遮陽與視線緩衝"],
+        "剖面特徵": ["隨地形高低差變化的雙重屋頂"],
+        "aesthetic_transformation": ["以傳統木建築語彙隱匿機電設施"]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "利用工業機組產生的餘熱進行冬季建築保溫，實現了能源運作與空間維護的循環效率，同時透過外牆保溫降低能源流失 [cite: 98, 102]。",
+      "Layer03": {
+        "副產物利用": ["機房餘熱回收再利用"],
+        "material": ["木製格柵作為節能遮陽皮層"],
+        "energy_efficiency": ["維持最低運行需求以減少耗能"]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "設計高度考量周邊村落的環境權益，透過門窗開口配置與噪音防護設計，將對居民的干擾降至最低 [cite: 101]。",
+      "Layer03": {
+        "program": ["低影響工業基礎建設"],
+        "circulation": ["設置專用道路與大型維護門以利作業"],
+        "social_cohesion": ["透過建築語彙降低鄰避效應"]
+      }
+    }
+  },
+  "Case id": 16,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": ["擴建既有建築", "磚牆與鋁製面紗的層次堆疊", "塊狀矩形配置"],
+        "orientation": {
+          "main entrance": ["東側立面設有樓梯塔樓作為過渡空間"],
+          "massing orientation": ["長條狀量體，磚牆向西側轉角處逐漸消減"]
+        },
+        "environmental_response": {
+          "lighting_strategy": ["鋁製面紗提供半透明採光", "磚牆與鋁幕間隙利於內部散熱與通風"],
+          "ventilation_strategy": ["穿孔砌磚與鋁製帷幕提供設備必要的通風機能"]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": ["磚 (Brick)", "鋁 (Aluminum)"],
+        "interior_finishes": ["外露的結構元素", "功能導向的未裝飾表面"],
+        "performance_and_lifecycle": ["因應機電設備尺寸調整規模", "展現材料建構方式"]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": ["樓梯塔樓(過渡)-磚牆包覆區-鋁幕機能空間"]
+        },
+        "circulation": ["中央走道聯繫各設備間"],
+        "spatial_boundaries_and_connectivity": ["磚牆定義封閉空間，鋁幕定義半透明的機械展示區"]
+      },
+      "facade": {
+        "materiality_and_texture": ["磚造與鋁製面紗的對比", "水平分層的材料質感"],
+        "fenestration_and_transparency": ["鋁幕具備視線穿透性，可看見內部的冷卻塔"],
+        "tectonic_detailing": ["磚牆厚度漸減處理", "鬆散懸掛的鋁製面紗"]
+      },
+      "scale": {
+        "physical_dimensions": ["6,300 平方英尺"],
+        "human_scale_relationship": ["與原有 80,000 平方英尺建築連結但保持獨立性", "水平層次呼應建築垂直結構"],
+        "urban_proportion": ["符合校園能源設施尺度需求"]
+      },
+      "program": {
+        "functional_zoning": ["容納鍋爐與冷卻塔之能源廠增建"],
+        "spatial_hierarchy": {
+          "Primary": ["能源生產設備(鍋爐、冷卻塔)"],
+          "Secondary": ["交通動線與過渡空間"],
+          "others": ["結構支撐與外牆系統"]
+        },
+        "occupancy_type": ["校園能源基礎設施"]
+      },
+      "structure_and_construction": {
+        "structure_system": ["獨立結構支撐", "磚牆與鋁製帷幕系統"],
+        "enclosure_system": ["磚牆與鋁幕混合配置"],
+        "construction_method": ["材料直接呈現與建構方式顯露"]
+      }
+    },
+    "Energy_production": {
+      "generation_type": ["中央能源中心(鍋爐、冷卻塔)"],
+      "power_capacity": ["無資料"],
+      "energy_source": ["校園能源需求供給"],
+      "output_type": ["校園能源服務"],
+      "byproduct_management": ["機能性散熱與通風"]
+    },
+    "Event": {
+      "status": ["營運中"],
+      "completion": 2009,
+      "renovation": ["原有 80,000 平方英尺建築之擴建"]
+    },
+    "Site": {
+      "context": {
+        "natural_context": ["校園內之能源基地"],
+        "historical_context": ["與既有舊建物並存並維持視覺聯繫"],
+        "cultural_context": ["展現教育機構對能源透明化的開放態度"]
+      },
+      "landscape": ["融入校園環境，維持既有建築群體感"]
+    },
+    "Participant": {
+      "architect": ["Spillman Farmer Architects"],
+      "user": ["Dickinson College"],
+      "client": ["Dickinson College"],
+      "co_working_designer": ["無資料"],
+      "consultant": ["無資料"]
+    },
+    "Sustainability": {
+      "carbon_footprint": ["無資料"],
+      "circular_economy": ["整合式能源供給與高效設備空間"],
+      "ecological_impact": ["材料與構造的誠實表達"]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "擴建案在尊重既有建築體量的同時，透過磚牆與鋁幕的層次轉變，成功將能源設施整合進校園環境。",
+      "Layer03": {
+        "massing_strategy": ["磚牆量體與既有建築連續"],
+        "material": ["磚牆向鋁製面紗的漸進轉換"],
+        "contextual_integration": ["在校園邊界展現能源機能"]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "設計不僅為了隱藏運作，而是根據校方要求「揭露功能性」，鋁製面紗讓冷卻塔等工業元件變為可視的空間元素。",
+      "Layer03": {
+        "facade": ["鋁製面紗實現固體與透明的視覺轉換"],
+        "剖面特徵": ["水平層次呼應垂直設備功能空間"],
+        "transparency": ["透過幕牆揭露內部能源運作"]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "強調材料的真實性與建構方式，透過通透的立面設計與層次，實現能源設施的環境適應性。",
+      "Layer03": {
+        "副產物利用": ["機能通風與設備散熱設計"],
+        "material": ["未裝飾的磚與鋁展現材料特性"],
+        "energy_signaling": ["建築立面直接反映內部能源運作需求"]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "校方積極參與設計指導，要求建築成為「能源展示」，從而將原本排斥的工業廠房轉變為校園能源意識的教學素材。",
+      "Layer03": {
+        "複合program": ["能源基礎設施+視覺教育展示"],
+        "circulation": ["東側樓梯塔樓作為過渡與展示節點"],
+        "social_impact": ["透明化的工業設計提升公眾參與度"]
+      }
+    }
+  },
+  "Case id": 17,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": ["雕塑性幾何量體", "軟化上層立面形塑「揭幕」感", "對稱錐形比例入口"],
+        "orientation": {
+          "main entrance": ["具備儀式感的對稱入口", "引導進入「機器聖殿」"],
+          "massing orientation": ["順應丘陵地形佈局，設置地標性排煙塔"]
+        },
+        "environmental_response": {
+          "lighting_strategy": ["鱗片狀玻璃面板過濾光線", "點陣鏡面塗層產生光影互動"],
+          "ventilation_strategy": ["雙皮層立面平衡熱能與通風需求"]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": ["點陣鏡面塗層fritted玻璃", "鋁製折板", "鋼結構"],
+        "interior_finishes": ["外露工業機具", "透明玻璃展演介面"],
+        "performance_and_lifecycle": ["循環經濟公園核心設施", "韌性工業建築"]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": ["入口儀式空間-內部展示/作業廊道-核心機具區"]
+        },
+        "circulation": ["設計導向訪客參觀動線與內部生產物流"],
+        "spatial_boundaries_and_connectivity": ["透明帷幕打破工業生產與日常生活的界線"]
+      },
+      "facade": {
+        "materiality_and_texture": ["鱗片狀玻璃疊加", "三角折疊鋁板肌理"],
+        "fenestration_and_transparency": ["固定式玻璃帷幕揭露內部機器展示"],
+        "tectonic_detailing": ["漸層鱗片結構", "煙囪之局部穿孔四角錐鋁板"]
+      },
+      "scale": {
+        "physical_dimensions": ["建築面積 54,000 平方公尺"],
+        "human_scale_relationship": ["透過精緻的工業細節賦予機械溫暖感", "巨型煙囪具紀念碑意義"],
+        "urban_proportion": ["成為華中地區最大循環經濟工業園區中心"]
+      },
+      "program": {
+        "functional_zoning": ["焚化處理區", "能源轉化與發電區", "公眾教育展示空間"],
+        "spatial_hierarchy": {
+          "Primary": ["垃圾焚化機械核心"],
+          "Secondary": ["能源管理控制與轉換"],
+          "others": ["參觀動線與公共展示"]
+        },
+        "occupancy_type": ["市政基礎設施 / 公共教育設施"]
+      },
+      "structure_and_construction": {
+        "structure_system": ["鋼結構主體框架"],
+        "enclosure_system": ["固定式玻璃帷幕與雙皮層鋁板"],
+        "construction_method": ["工業組件與建築幕牆之精密整合"]
+      }
+    },
+    "Energy_production": {
+      "generation_type": ["垃圾轉化能源 (Waste-to-Energy)"],
+      "power_capacity": ["無資料"],
+      "energy_source": ["城市固體廢棄物"],
+      "output_type": ["綠電、循環能源"],
+      "byproduct_management": ["廢棄物減量與循環再利用"]
+    },
+    "Event": {
+      "status": ["營運中"],
+      "completion": 2025,
+      "renovation": ["原為生態退化的廢棄採石場"]
+    },
+    "Site": {
+      "context": {
+        "natural_context": ["武漢西南部丘陵地貌", "原廢棄採石場經生態復育"],
+        "historical_context": ["採石場舊址轉型為循環經濟產業園"],
+        "cultural_context": ["強調環保意識與工業美學的社會意義"]
+      },
+      "landscape": ["生態復育地景", "與周邊自然環境產生再生互動"]
+    },
+    "Participant": {
+      "architect": ["United Units Architects (UUA)"],
+      "user": ["市民、能源管理單位"],
+      "client": ["武漢謙子山能源有限公司"],
+      "co_working_designer": ["Ccepc"],
+      "consultant": ["無資料"]
+    },
+    "Sustainability": {
+      "carbon_footprint": ["減碳與再生能源效益"],
+      "circular_economy": ["實現區域循環經濟願景"],
+      "ecological_impact": ["採石場生態修復與循環園區規劃"]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "將原本退化的廢棄採石場轉變為華中最大循環經濟園區，建築量體成為生態修復過程的中心點，產生正向的地景影響力 [cite: 136, 137]。",
+      "Layer03": {
+        "massing_strategy": ["順應丘陵地貌配置"],
+        "material": ["利用立面反光映射周圍環境地景"],
+        "ecological_restoration": ["工業設施與採石場生態修復同步"]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "建築外觀模擬「揭幕」瞬間，透過鱗片狀玻璃揭露內部機械，將冰冷的工業運作轉化為具備美感的藝術展示 [cite: 126, 127]。",
+      "Layer03": {
+        "facade": ["鱗片玻璃與三角折疊鋁板營造動態韻律"],
+        "剖面特徵": ["由內而外導向的空間佈局"],
+        "aesthetic_transformation": ["機器美學：機械視為藝術品"]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "從服務生產轉向美化生活，該設施不僅處理廢棄物，更透過建築價值提升與循環能源產生，體現對環境的責任 [cite: 139]。",
+      "Layer03": {
+        "副產物利用": ["循環經濟園區中的能源回收"],
+        "material": ["具備氣候屏障與節能性能的雙皮層立面"],
+        "ecological_impact": ["再生衝擊與資源再利用"]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "滿足公眾對工業生產的好奇心，透過公開透明的展示介面與儀式感十足的入口空間，建立公眾信任與理解 [cite: 120, 128]。",
+      "Layer03": {
+        "複合program": ["能源基礎設施+公眾教育展示"],
+        "circulation": ["訪客動線與工業物流的雙向互動"],
+        "social_impact": ["美化生活與提升能源產業透明度"]
+      }
+    }
+  },
+  "Case id": 18,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": ["低矮起伏的量體", "覆土式綠屋頂建築", "順應斜坡地形配置"],
+        "orientation": {
+          "main entrance": ["未明確標註，但建築與景觀路徑連結，透過節奏感立面邀請訪客 [cite: 142, 145, 160]"],
+          "massing orientation": ["沿斜坡地形設置，介於森林、濕地與高爾夫球場之間 [cite: 143]"]
+        },
+        "environmental_response": {
+          "lighting_strategy": ["大面積採光引入自然光 [cite: 163]", "建築外皮高度效率設計 [cite: 163]"],
+          "ventilation_strategy": ["結合高效機械系統 [cite: 163]"]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": ["膠合木（Glulam）桁架結構 [cite: 158]", "在地原生木材 [cite: 156]", "高回收含量材料 [cite: 163]"],
+        "interior_finishes": ["木構造骨架、飾板與複合板 [cite: 155, 156]"],
+        "performance_and_lifecycle": ["LEED 認證規劃 [cite: 162]", "高節能機械系統 [cite: 163]"]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": ["鍋爐房-夾層參觀步道-展覽互動區 [cite: 154]"]
+        },
+        "circulation": ["夾層步行廊道，繞行鍋爐室以利觀察 [cite: 154]"],
+        "spatial_boundaries_and_connectivity": ["室內外透過互動展覽連結，展示生態技術 [cite: 153, 160]"]
+      },
+      "facade": {
+        "materiality_and_texture": ["具節奏感的立面，隱匿或展示其功能 [cite: 145]"],
+        "fenestration_and_transparency": ["高效外殼設計 [cite: 163]"],
+        "tectonic_detailing": ["膠合木結構的長跨度應用 [cite: 159]"]
+      },
+      "scale": {
+        "physical_dimensions": ["16,500 平方英尺 [cite: 140, 144]"],
+        "human_scale_relationship": ["低調的建築高度，確保不突兀於校园環境 [cite: 142]"],
+        "urban_proportion": ["適應校园邊緣的景觀環境 [cite: 142]"]
+      },
+      "program": {
+        "functional_zoning": ["鍋爐房(主要設施)", "夾層展示空間(教學與參觀)"],
+        "spatial_hierarchy": {
+          "Primary": ["生質能鍋爐機組 [cite: 146]"],
+          "Secondary": ["教育展示與互動展區 [cite: 154]"],
+          "others": ["雨水花園與自然觀察路徑 [cite: 160, 161]"]
+        },
+        "occupancy_type": ["校園基礎設施 / 教育空間"]
+      },
+      "structure_and_construction": {
+        "structure_system": ["膠合木（Glulam）桁架結構 [cite: 158, 159]"],
+        "enclosure_system": ["高效外殼與綠屋頂系統 [cite: 144, 163]"],
+        "construction_method": ["使用在地來源的可再生木材 [cite: 156, 157]"]
+      }
+    },
+    "Energy_production": {
+      "generation_type": ["生質能熱能供應 [cite: 146]"],
+      "power_capacity": ["供應校園 85 棟建築、總計 120 萬平方英尺空間 [cite: 146]"],
+      "energy_source": ["永續採收的木屑 (Sustainably harvested woodchips) [cite: 146, 147]"],
+      "output_type": ["熱能 (District Heat) [cite: 146]"],
+      "byproduct_management": ["燃燒後灰燼回收作為學生花園肥料 [cite: 149]"]
+    },
+    "Event": {
+      "status": ["營運中"],
+      "completion": 2012,
+      "renovation": ["無"]
+    },
+    "Site": {
+      "context": {
+        "natural_context": ["斜坡地形，連結森林、濕地與高爾夫球場 [cite: 143]"],
+        "historical_context": ["Hotchkiss 寄宿學校校園邊緣 [cite: 142]"],
+        "cultural_context": ["校園邁向 2020 碳中和目標之核心項目 [cite: 150]"]
+      },
+      "landscape": ["綠屋頂過濾雨水徑流 [cite: 160]", "雨水花園與生態濕地 [cite: 161]"]
+    },
+    "Participant": {
+      "architect": ["Centerbrook Architects & Planners (Jefferson B. Riley) [cite: 140, 150]"],
+      "user": ["Hotchkiss School 師生 [cite: 146]"],
+      "client": ["Hotchkiss School [cite: 146]"],
+      "co_working_designer": ["無資料"],
+      "consultant": ["Milone & MacBroom (Civil), van Zelm Engineers (MEP) [cite: 141]"]
+    },
+    "Sustainability": {
+      "carbon_footprint": ["碳中和燃料，顯著降低硫氧化物排放 [cite: 147, 148]"],
+      "circular_economy": ["灰燼回歸校園農業系統使用 [cite: 149]"],
+      "ecological_impact": ["綠屋頂與雨水花園調節逕流 [cite: 160, 161]"]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "設計將生質能發電廠埋設於斜坡景觀中，利用綠屋頂與自然植被完全與校園周邊環境融合，實現了「設施消失於風景中」的環境目標 [cite: 143, 144]。",
+      "Layer03": {
+        "massing_strategy": ["埋設於斜坡地景中的低矮量體"],
+        "material": ["選用與當地植被顏色協調的綠屋頂"],
+        "site_integration": ["設置自然觀察徑路連結濕地與雨水花園"]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "建築不僅包覆機電設備，更將夾層空間轉化為展示廊道，讓工業運作透明化，透過膠合木結構的溫暖質感，軟化了重工業設施的刻板形象 [cite: 151, 152, 154]。",
+      "Layer03": {
+        "facade": ["具有節奏感且功能靈活的建築皮層"],
+        "剖面特徵": ["環繞鍋爐房的垂直空間與夾層動線"],
+        "aesthetic_transformation": ["使用永續木構造體現工業建築的美學與溫度"]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "利用永續林業副產品進行發電，達成碳中和願景；建築設計採用在地材料與節能技術，強化循環經濟與環境教育意涵 [cite: 147, 149, 150]。",
+      "Layer03": {
+        "副產物利用": ["灰燼轉化為校園肥料"],
+        "material": ["膠合木結構（Glulam）替代傳統鋼構與混凝土"],
+        "energy_signaling": ["通過展示技術與監控系統達成教學功能"]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "將能源基礎設施設計為「生活教室」，透過夾層展覽與互動數據顯示，成功將訪客與社區群體納入能源教育體系 [cite: 152, 153, 154]。",
+      "Layer03": {
+        "複合program": ["生質能能源廠+教育空間+生態廊道"],
+        "circulation": ["夾層步道提供能源運作的教學動線"],
+        "social_impact": ["展示永續技術以引導校園師生對碳中和的理解"]
+      }
+    }
+  },
+  "Case id": 19,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": ["回應校園環境的輕盈與透明感", "水平向度設計以融入校園尺度"],
+        "orientation": {
+          "main entrance": ["作為校園能源設施節點，強調可視性與公開性"],
+          "massing orientation": ["與校園歷史建築群軸線對話"]
+        },
+        "environmental_response": {
+          "lighting_strategy": ["廣泛使用玻璃帷幕引入自然光", "木構件與透明皮層的柔和漫射"],
+          "ventilation_strategy": ["高效能機械通風與熱回收整合"]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": ["板模成型混凝土", "耐候鋼 (CorTen steel)", "回收木材", "拋光鋁材"],
+        "interior_finishes": ["外露混凝土與木造桁架", "拋光鋁金屬表面"],
+        "performance_and_lifecycle": ["長效能能源轉化效率", "降低溫室氣體排放達 68%"]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": ["廠房大廳-辦公與控制區-參觀廊道"]
+        },
+        "circulation": ["動線整合工業物流與人員參觀"],
+        "spatial_boundaries_and_connectivity": ["透過透明介面展現工業機能與永續技術"]
+      },
+      "facade": {
+        "materiality_and_texture": ["板模混凝土呼應石灰岩建築", "耐候鋼呼應赤陶瓦屋頂"],
+        "fenestration_and_transparency": ["大規模玻璃應用，強調輕盈與開放"],
+        "tectonic_detailing": ["木造屋架與金屬工業槽體的材料對比"]
+      },
+      "scale": {
+        "physical_dimensions": ["125,600 平方英尺"],
+        "human_scale_relationship": ["透過木材細節與溫潤材質 soften 工業尺度"],
+        "urban_proportion": ["融入 Stanford 校園脈絡"]
+      },
+      "program": {
+        "functional_zoning": ["重工業發電/儲能核心", "行政辦公與教學參觀空間"],
+        "spatial_hierarchy": {
+          "Primary": ["熱回收與能源轉換系統"],
+          "Secondary": ["辦公與控制室"],
+          "others": ["訪客展示與教育空間"]
+        },
+        "occupancy_type": ["校園工業基礎設施"]
+      },
+      "structure_and_construction": {
+        "structure_system": ["鋼構與木構造桁架結合"],
+        "enclosure_system": ["混凝土、金屬帷幕與木構件"],
+        "construction_method": ["傳統紋理轉譯與當代構造結合"]
+      }
+    },
+    "Energy_production": {
+      "generation_type": ["熱回收系統 (Heat Recovery System) 與熱電共生轉型"],
+      "power_capacity": ["65% 乾淨電力供應"],
+      "energy_source": ["電網電力與熱回收系統"],
+      "output_type": ["電力與熱能供應"],
+      "byproduct_management": ["減少 68% 溫室氣體排放"]
+    },
+    "Event": {
+      "status": ["營運中"],
+      "completion": 2015,
+      "renovation": ["替代舊有化石燃料共生廠"]
+    },
+    "Site": {
+      "context": {
+        "natural_context": ["Stanford 校園環境"],
+        "historical_context": ["呼應校園石灰岩歷史建物與赤陶瓦屋頂色調"],
+        "cultural_context": ["作為永續能源教育的領導者"]
+      },
+      "landscape": ["強調透明性與對周邊校園的開放感"]
+    },
+    "Participant": {
+      "architect": ["ZGF Architects"],
+      "user": ["史丹佛大學師生"],
+      "client": ["史丹佛大學"],
+      "co_working_designer": ["SunPower (合作夥伴)"],
+      "consultant": ["無資料"]
+    },
+    "Sustainability": {
+      "carbon_footprint": ["年減少 15 萬噸二氧化碳排放"],
+      "circular_economy": ["大幅降低化石燃料依賴與水資源使用"],
+      "ecological_impact": ["整合乾淨能源站，提升整體能源效率"]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "能源廠設計與校園景觀深度整合，選材呼應了史丹佛歷史建築的石灰岩與赤陶色系，使工業建築與校園地景和諧共生。",
+      "Layer03": {
+        "massing_strategy": ["回應校園地景之水平配置"],
+        "material": ["混凝土與耐候鋼對應歷史紋理"],
+        "urban_context": ["作為校園能源創新的視覺地標"]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "採用「輕盈與透明」的建築語言，利用大跨距木桁架與玻璃帷幕，將重工業設施轉化為具備美學與教育功能的公共建築。",
+      "Layer03": {
+        "facade": ["玻璃帷幕與金屬柱列定義當代校園語彙"],
+        "剖面特徵": ["巨型桁架提供高效率機房空間"],
+        "transparency": ["透過全景視窗展示能源轉換運作"]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "結合創新的熱回收系統與電網整合，該建築不僅是節能中心，更透過建築設計減少對傳統燃料的依賴，成為氣候行動的典範。",
+      "Layer03": {
+        "副產物利用": ["高效能能源回收循環"],
+        "material": ["回收木材與低耗能建築構件"],
+        "energy_performance": ["大幅削減能源消耗與溫室氣體排放"]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "此設施展現了史丹佛大學在能源透明化上的決心，透過開放參觀與教育展示，加強了能源系統與校園使用者的互動。",
+      "Layer03": {
+        "複合program": ["基礎能源設施+研究教學+環境教育"],
+        "circulation": ["人員參觀廊道提升能源運作的可見度"],
+        "social_impact": ["提升能源效率教育的社會影響力"]
+      }
+    }
+  },
+  "Case id": 20,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": ["Øvre Forsland：模仿雲杉樹的垂直性與不規則性", "Bjørnstokk：模仿冰河遺留的大型岩石（巨石）形態"],
+        "orientation": {
+          "main entrance": ["設置大型開口面向河流與參觀動線"],
+          "massing orientation": ["Øvre Forsland：順應河床與樹林邊緣配置"]
+        },
+        "environmental_response": {
+          "lighting_strategy": ["內部彩色燈光設計，模擬北極光神秘氛圍", "大面積開窗展示內部工業設備"],
+          "ventilation_strategy": ["工業機房標準自然/機械通風"]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": ["木材(模仿森林語彙)", "金屬(模仿地質硬度)"],
+        "interior_finishes": ["外露工業機電設備", "情境式彩色照明"],
+        "performance_and_lifecycle": ["滿足每年約 30 GWh 發電需求"]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": ["河岸入口-橋樑觀察區-機房核心展演區"]
+        },
+        "circulation": ["設置專用橋樑供訪客觀察水流湧出與設備運作"],
+        "spatial_boundaries_and_connectivity": ["大面積開窗建立室內工業生產與外部地景的強烈連結"]
+      },
+      "facade": {
+        "materiality_and_texture": ["呼應環境的垂直森林紋理(Øvre Forsland)", "岩石般的堅硬肌理(Bjørnstokk)"],
+        "fenestration_and_transparency": ["大型開口，將內部技術零件完全暴露給大眾"],
+        "tectonic_detailing": ["技術構造與自然隱喻的結合"]
+      },
+      "scale": {
+        "physical_dimensions": ["中型水力發電站，各產約 30 GWh 電力"],
+        "human_scale_relationship": ["訪客可透過橋樑近距離觀察發電過程，建立參與感"],
+        "urban_proportion": ["以地標姿態融入自然地貌，成為區域旅遊景點"]
+      },
+      "program": {
+        "functional_zoning": ["工業發電核心、訪客參觀體驗區"],
+        "spatial_hierarchy": {
+          "Primary": ["水輪發電機組核心"],
+          "Secondary": ["發電控制與處理"],
+          "others": ["觀景橋樑、參觀走廊"]
+        },
+        "occupancy_type": ["能源基礎設施 / 旅遊景點"]
+      },
+      "structure_and_construction": {
+        "structure_system": ["工業鋼構與混凝土基座"],
+        "enclosure_system": ["反映環境特徵的訂製皮層"],
+        "construction_method": ["基地適應性營建"]
+      }
+    },
+    "Energy_production": {
+      "generation_type": ["水力發電 (Hydraulic Power)"],
+      "power_capacity": ["各約 30 GWh/年 (可供應約 1600 戶家庭)"],
+      "energy_source": ["水流動力"],
+      "output_type": ["綠色電能"],
+      "byproduct_management": ["生產過程展示與教育化"]
+    },
+    "Event": {
+      "status": ["營運中"],
+      "completion": 2015,
+      "renovation": ["無"]
+    },
+    "Site": {
+      "context": {
+        "natural_context": ["Øvre Forsland：河床邊、雲杉森林邊緣；Bjørnstokk：冰河時期巨石地貌"],
+        "historical_context": ["無特別提及，但建築策略強調回應在地地景特徵"],
+        "cultural_context": ["將工業設施轉化為當地吸引遊客的文化地標"]
+      },
+      "landscape": ["與挪威自然地貌（森林與巨石）完美融合"]
+    },
+    "Participant": {
+      "architect": ["Stein Hamre Arkitektkontor"],
+      "user": ["公眾、遊客"],
+      "client": ["Helgelands Kraft AS"],
+      "co_working_designer": ["無資料"],
+      "consultant": ["無資料"]
+    },
+    "Sustainability": {
+      "carbon_footprint": ["高環境雄心的潔淨能源生產"],
+      "circular_economy": ["能源生產過程透明化與再教育"],
+      "ecological_impact": ["低度開發與尊重原始地質特徵"]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "設計策略在於建築物需適應並反映基地特徵，Øvre Forsland 轉譯森林垂直性，Bjørnstokk 轉譯冰河巨石沉重感，使設施化身為景觀的一部份 [cite: 180, 181, 185, 187]。",
+      "Layer03": {
+        "massing_strategy": ["反映基地特徵的隱喻式造型"],
+        "material": ["選用與地質或植被呼應的質感"],
+        "scenic_integration": ["將發電廠打造為旅遊目的地"]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "工業機電設施不再被隱藏，而是透過大型開口向大眾展示 [cite: 190]；利用彩色燈光 dramatize 電力生產過程，將機械核心轉化為展品 [cite: 191]。",
+      "Layer03": {
+        "facade": ["透明化介面揭露內部工業構造"],
+        "剖面特徵": ["與觀景橋樑對接的能源生產視線"],
+        "aesthetic_transformation": ["以神秘感與敘事性呈現工業技術"]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "透過提供電力（每年可供 1600 戶家庭使用 [cite: 183]）以及將基礎設施環境教育化，實現技術與環境的和諧共存 [cite: 180, 182]。",
+      "Layer03": {
+        "副產物利用": ["生產綠色能源並提供教育機會"],
+        "environmental_ambition": ["高環保雄心的選址與配置 [cite: 179]"],
+        "public_education": ["透過建築空間說出電力生產的故事"]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "將原本封閉的工業用地轉變為吸引遊客的目的地，透過公共參觀動線提升大眾對能源生產的理解與興趣 [cite: 180, 188, 189]。",
+      "Layer03": {
+        "複合program": ["水力發電站+能源展示點+景觀打卡點"],
+        "circulation": ["橋樑引導參觀動線以近距離體驗能源生產"],
+        "social_impact": ["扭轉鄰避設施認知，使其具備觀光吸引力"]
+      }
+    }
+  },
+  "Case id": 21,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": ["保留歷史工業結構與設備", "新舊建築量體（現場加建）整合"],
+        "orientation": {
+          "main entrance": ["連結校園山丘與河岸平面的行人動線"],
+          "massing orientation": ["順應 Rock River 河道軸線配置"]
+        },
+        "environmental_response": {
+          "lighting_strategy": ["聚碳酸酯帷幕提供大面積漫射採光", "新舊空間自然光導入"],
+          "ventilation_strategy": ["結合歷史結構與現代保溫技術"]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": ["歷史磚造結構", "聚碳酸酯（Polycarbonate）帷幕", "鋼構"],
+        "interior_finishes": ["外露工業遺址元素", "現代運動設施飾面"],
+        "performance_and_lifecycle": ["新絕熱層調節熱流", "Rock River 水熱能回收系統"]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": ["入口空間-健身與運動中心-多功能協作區"]
+        },
+        "circulation": ["懸浮三線跑道貫穿全建築", "行人橋與電梯連結校園高地與河岸"]
+      },
+      "facade": {
+        "materiality_and_texture": ["工業紅磚（歷史部分）", "半透明聚碳酸酯帷幕（新建部分）"],
+        "fenestration_and_transparency": ["聚碳酸酯牆面提供先進隔熱與自然光"],
+        "tectonic_detailing": ["工業遺址特徵與現代運動設施的空間疊合"]
+      },
+      "scale": {
+        "physical_dimensions": ["120,000 平方英尺"],
+        "human_scale_relationship": ["懸浮跑道創造多層次的人類尺度空間"],
+        "urban_proportion": ["連接 town、gown 與河岸的橋樑角色"]
+      },
+      "program": {
+        "functional_zoning": ["健身中心、娛樂體育館、八道游泳池、室內草坪場地、咖啡廳、禮堂"],
+        "spatial_hierarchy": {
+          "Primary": ["運動與康體空間"],
+          "Secondary": ["多功能社交與教學空間"],
+          "others": ["能源輔助與歷史展示空間"]
+        },
+        "occupancy_type": ["校園體育與活動中心（原發電廠）"]
+      },
+      "structure_and_construction": {
+        "structure_system": ["既有百年工業結構加固", "聚碳酸酯帷幕加建"],
+        "enclosure_system": ["歷史磚牆與現代輕量帷幕"],
+        "construction_method": ["工業遺產保護與節能 retrofit"]
+      }
+    },
+    "Energy_production": {
+      "generation_type": ["能源系統更新（舊發電廠轉型）"],
+      "power_capacity": ["N/A（轉型為運動設施）"],
+      "energy_source": ["Rock River 熱能回收系統 (Radiant panel and slab system)"],
+      "output_type": ["建築恆溫與空氣品質控制"],
+      "byproduct_management": ["能源效率極大化"]
+    },
+    "Event": {
+      "status": ["營運中"],
+      "completion": 2020,
+      "renovation": ["Blackhawk Generating Station (1908-1947) 再利用"]
+    },
+    "Site": {
+      "context": {
+        "natural_context": ["Rock River 河畔", "鄰近校園高地與市區"],
+        "historical_context": ["百年黑鷹發電廠（Blackhawk Generating Station）舊址"],
+        "cultural_context": ["連結 town（市鎮）、gown（大學）與 river（河川）的社區核心"]
+      },
+      "landscape": ["河岸路徑、公園與行人橋整合"]
+    },
+    "Participant": {
+      "architect": ["Studio Gang"],
+      "user": ["Beloit College 師生與當地社群"],
+      "client": ["Beloit College"],
+      "co_working_designer": ["Hastings+Chivetta Architects"],
+      "consultant": ["Applied Ecological Services (Landscape)"]
+    },
+    "Sustainability": {
+      "carbon_footprint": ["極小化總能源使用"],
+      "circular_economy": ["既有建築結構與工業設備再利用"],
+      "ecological_impact": ["河水熱能利用與高品質室內空氣維持"]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "本案利用新建行人橋與電梯，克服了校園與河岸的高差，將發電廠轉化為連結市鎮、校園與河流的樞紐 [cite: 200, 201]。",
+      "Layer03": {
+        "massing_strategy": ["新舊量體咬合與延伸"],
+        "connectivity": ["跨河動線連結town、gown與river"],
+        "contextual_adaptation": ["保留工業歷史特徵作為地景錨點"]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "設計保留了原廠房的工業裝備與結構 [cite: 194]，並在內部置入懸浮跑道與運動場域 [cite: 195]，實現了工業遺產與現代康體機能的層次疊合。",
+      "Layer03": {
+        "facade": ["聚碳酸酯帷幕提供擴散自然光"],
+        "剖面特徵": ["懸浮跑道穿越多種運動功能區"],
+        "adaptive_reuse": ["工業遺留物轉化為教學與社交媒介"]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "建築採用 Rock River 的水熱能來滿足大部分冷暖氣需求 [cite: 199]，並透過高效絕熱層解決歷史建物高能耗的問題 [cite: 197, 198]。",
+      "Layer03": {
+        "副產物利用": ["岩石與河流能量再生利用"],
+        "material": ["新絕熱層提升歷史空間舒適度"],
+        "energy_signaling": ["高能效 HVAC 系統與空氣品質維持"]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "空間不僅是運動場，更包含咖啡廳、禮堂等多元機能 [cite: 196]，成功讓發電廠遺址成為充滿活力的校園社交與公共聚集地 [cite: 194, 201]。",
+      "Layer03": {
+        "複合program": ["運動設施+校園社交中心+教學空間"],
+        "circulation": ["跑道作為公共動線穿梭新舊區域"],
+        "social_impact": ["將鄰避的電廠遺址轉化為社區地標"]
+      }
+    }
+  },
+  "Case id": 22,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": ["地景化的線形量體", "夯土牆體（Rammed earth）與水平紋理堆疊"],
+        "orientation": {
+          "main entrance": ["配合水路動線與公共碼頭登陸點"],
+          "massing orientation": ["與潟湖、農田及水道呈水平平行發展"]
+        },
+        "environmental_response": {
+          "lighting_strategy": ["薄白色燈飾（Thin white lights）於夜間照亮公共空間", "透過建築構造介面與環境光互動"],
+          "ventilation_strategy": ["整合於低矮線性量體與夯土牆構造間"]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": ["夯土/有色混凝土", "石材", "磚", "木材"],
+        "interior_finishes": ["原始夯土質感", "木構造組件"],
+        "performance_and_lifecycle": ["材料依據淹水區與非淹水區選用"]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": ["軍事塔樓-碼頭-水道-農田遺跡"]
+        },
+        "circulation": ["白色瀝青路面-橋樑-公共碼頭-水道連接"],
+        "spatial_boundaries_and_connectivity": ["透過牆體構築與水道，將軍事遺址、碼頭與地景縫合"]
+      },
+      "facade": {
+        "materiality_and_texture": ["粗糙暖紅色夯土牆", "木條柵與磚材飾面"],
+        "fenestration_and_transparency": ["極少開口，強調牆體的連續性與實體感"],
+        "tectonic_detailing": ["利用石材、磚、木材三種材質界定與土地的淹水高度關係"]
+      },
+      "scale": {
+        "physical_dimensions": ["覆蓋威尼斯潟湖內的廣大基地範圍"],
+        "human_scale_relationship": ["低矮的線性構造與地景層疊，保持人的觀察視角"],
+        "urban_proportion": ["修復並整合原有軍事防禦設施的尺度"]
+      },
+      "program": {
+        "functional_zoning": ["軍事塔樓保護與展示", "公共碼頭與水道處理", "農業景觀再造"],
+        "spatial_hierarchy": {
+          "Primary": ["Maximilian 塔樓（紀念碑保護）"],
+          "Secondary": ["碼頭基礎設施與停靠系統"],
+          "others": ["農田路徑、公共廣場"]
+        },
+        "occupancy_type": ["基礎設施 / 遺址保護 / 公園地景"]
+      },
+      "structure_and_construction": {
+        "structure_system": ["夯土牆構造", "磚石承重系統"],
+        "enclosure_system": ["線性牆體界定與開放空間鋪面整合"],
+        "construction_method": ["在地材料建構，考量潮汐與淹水區域"]
+      }
+    },
+    "Energy_production": {
+      "generation_type": ["基礎設施機能與水利管理"],
+      "power_capacity": ["N/A"],
+      "energy_source": ["潟湖水路運作"],
+      "output_type": ["設施運作機能與景觀連結"],
+      "byproduct_management": ["水域與土地資源循環"]
+    },
+    "Event": {
+      "status": ["完成營運中"],
+      "completion": "N/A",
+      "renovation": ["軍事防禦遺址保護與景觀重組"]
+    },
+    "Site": {
+      "context": {
+        "natural_context": ["威尼斯潟湖（Lagoon of Venice）地貌", "潮汐區域與溼地"],
+        "historical_context": ["Maximilian 塔樓（19世紀軍事遺址）", "農田遺留肌理", "古老鐵路軌跡"],
+        "cultural_context": ["保留軍事防禦建築見證", "對抗地產投機的景觀保存"]
+      },
+      "landscape": ["白色瀝青步道、磚與檉柳（Tamerixes）邊界", "水陸介面的設計整合"]
+    },
+    "Participant": {
+      "architect": ["N/A"],
+      "user": ["大眾、遊客"],
+      "client": ["N/A"],
+      "co_working_designer": ["N/A"],
+      "consultant": ["N/A"]
+    },
+    "Sustainability": {
+      "carbon_footprint": ["低干預景觀設計"],
+      "circular_economy": ["既有軍事遺址再利用", "線性基礎設施整合"],
+      "ecological_impact": ["溼地與海岸防禦功能的景觀化"]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "計畫將軍事遺址與水路基礎設施重組為完整的地景系統，不僅修復了地景肌理，更透過材質選擇界定了陸地與水體的淹水高度。",
+      "Layer03": {
+        "massing_strategy": ["線性牆體疊加設計"],
+        "material": ["依淹水高度分層使用石、磚、木材"],
+        "landscape_integration": ["將水利基礎設施機能隱藏於景觀地貌中"]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "建築操作如同地質挖掘，透過線性牆體作為引導介面，將現代碼頭與服務設施與歷史性的 Maximilian 塔樓結合。",
+      "Layer03": {
+        "facade": ["強調夯土牆的水平層次感"],
+        "剖面特徵": ["與地形起伏及潮汐水位呼應之構築"],
+        "aesthetic_transformation": ["將基礎設施伪裝成傳統農業構造物"]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "通過抗洪規劃與在地材料選用，本計畫展現了一種與自然潮汐共存的基礎設施邏輯，強調對歷史遺址的尊重與保存。",
+      "Layer03": {
+        "副產物利用": ["既有軍事構築物再生利用"],
+        "material": ["選用與當地環境共生之天然材質"],
+        "environmental_design": ["抗洪區與非抗洪區的空間定義"]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "計畫透過設計步道與碼頭系統，將原本封閉的軍事設施轉化為市民可進入的公共地景，強化大眾對潟湖環境的意識。",
+      "Layer03": {
+        "複合program": ["遺址展示+碼頭基礎設施+休閒地景"],
+        "circulation": ["連結碼頭至塔樓的公共參觀路徑"],
+        "social_impact": ["保存軍事見證以對抗地產投機破壞"]
+      }
+    }
+  },
+  "Case id": 23,
+  "Layer01_基本資料": {
+    "Building": {
+      "form": {
+        "massing_strategy": ["新舊共構", "在歷史建築上方植入新機組結構", "曲面金屬網結構包裹機具"],
+        "orientation": {
+          "main entrance": ["與 Central Park 園區動線連結"],
+          "massing orientation": ["順應原有的舊鍋爐房（Old Boiler House）軸線"]
+        },
+        "environmental_response": {
+          "lighting_strategy": ["沖孔金屬網過濾光線", "利用網格通透性滿足冷卻塔換氣需求"],
+          "ventilation_strategy": ["巨大冷卻塔的大風量進氣口設計"]
+        }
+      },
+      "material": {
+        "primary_tectonic_material": ["歷史紅磚", "客製化鋅合金網（Zinc mesh）", "鋼構"],
+        "interior_finishes": ["外露的鋼骨連結細部", "舊有鋼鐵漏斗（Coal hoppers）"],
+        "performance_and_lifecycle": ["三聯產能源效率極大化", "歷史遺產保護與現代技術共生"]
+      },
+      "space": {
+        "spatial_organization": {
+          "spatial_sequence": ["歷史建築遺址區-新置工業機組層-頂部能源處理區"]
+        },
+        "circulation": ["工業鋼構樓梯與平台動線"],
+        "spatial_boundaries_and_connectivity": ["新鋼骨結構作為垂直支撐，穿越並懸浮於舊遺址上方"]
+      },
+      "facade": {
+        "materiality_and_texture": ["古老磚牆的厚重感 vs. 流線型鋅合金金屬網的輕盈感"],
+        "fenestration_and_transparency": ["沖孔網減少透光，兼具通風與遮蔽工業機具功能"],
+        "tectonic_detailing": ["明顯可見的鋼構連接螺栓與接板，直率表現工業美學"]
+      },
+      "scale": {
+        "physical_dimensions": ["26,400 平方公尺"],
+        "human_scale_relationship": ["歷史細節建立人的共鳴，新構件呈現機械的宏偉尺度"],
+        "urban_proportion": ["成為都市更新園區的重要地標與歷史錨點"]
+      },
+      "program": {
+        "functional_zoning": ["底層：歷史遺產展示區/辦公；中上層：三聯產能源機組與冷卻塔"],
+        "spatial_hierarchy": {
+          "Primary": ["三聯產能源生產與冷卻塔系統"],
+          "Secondary": ["既有釀酒廠遺產保存空間"],
+          "others": ["行政辦公與社區共享空間"]
+        },
+        "occupancy_type": ["能源基礎設施 / 都市文化遺產"]
+      },
+      "structure_and_construction": {
+        "structure_system": ["既有磚造結構 + 新置工業鋼骨桁架框架"],
+        "enclosure_system": ["鋅合金網曲面皮層"],
+        "construction_method": ["與歷史建築錨固共構，精密的鋼骨組裝"]
+      }
+    },
+    "Energy_production": {
+      "generation_type": ["三聯產能源（熱、電、冷）"],
+      "power_capacity": ["供應周邊大規模混合用途開發案"],
+      "energy_source": ["高效三聯產能源生產"],
+      "output_type": ["電力、熱水、冷水"],
+      "byproduct_management": ["廢熱與廢冷高效再利用"]
+    },
+    "Event": {
+      "status": ["營運中"],
+      "completion": 2015,
+      "renovation": ["Carlton and United Brewery 原址重造"]
+    },
+    "Site": {
+      "context": {
+        "natural_context": ["雪梨 CBD 邊緣，城市化的工業區塊"],
+        "historical_context": ["20世紀初的釀酒廠，為該處保留最完整的遺址群"],
+        "cultural_context": ["兼顧歷史記憶的能源轉型象徵"]
+      },
+      "landscape": ["作為 Central Park 更新案的能源核心"]
+    },
+    "Participant": {
+      "architect": ["TZANNES"],
+      "user": ["Central Park 社區居民、大學"],
+      "client": ["N/A"],
+      "co_working_designer": ["N/A"],
+      "consultant": ["歷史顧問、技術顧問等團隊協力"]
+    },
+    "Sustainability": {
+      "carbon_footprint": ["高效能供應模式，顯著減少能源損耗"],
+      "circular_economy": ["既有建築與基礎設施循環再利用"],
+      "ecological_impact": ["減少電力輸送損耗並優化熱力資源"]
+    }
+  },
+  "Layer02_複合分析_Layer03_反映在設計哪些方面": {
+    "Layer02_Energy_production_Site": {
+      "analysis_summary": "基地保留歷史建築群作為能源轉型的錨點，透過新機組「浮」於舊鍋爐房上方，實現歷史地標與未來技術的垂直重疊 [cite: 216, 220]。",
+      "Layer03": {
+        "massing_strategy": ["新舊垂直疊加與寄生"],
+        "material": ["紅磚與鋅合金網的新舊對話"],
+        "contextual_alignment": ["錨定該區域的歷史工業座標"]
+      }
+    },
+    "Layer02_Energy_production_Building": {
+      "analysis_summary": "利用「布料 drape」概念包覆有機形狀的冷卻塔，不僅滿足工業設備大通風量的要求，亦營造出未來感的都市雕塑 [cite: 219, 221]。",
+      "Layer03": {
+        "facade": ["鋅合金沖孔網曲面屋頂"],
+        "剖面特徵": ["巨型鋼構門型框架支撐冷卻塔空間"],
+        "aesthetic_transformation": ["將冷卻塔的複雜廓形轉化為動態幾何體"]
+      }
+    },
+    "Layer02_Energy_production_Sustainability": {
+      "analysis_summary": "透過提供高效能的三聯產能源（電力、熱、冷），為周邊都市開發區提供永續解決方案，並展現工業技術與歷史結構的和諧 [cite: 226]。",
+      "Layer03": {
+        "副產物利用": ["熱冷能源同步供給"],
+        "material": ["工業化鋼板與 bolt 接頭的誠實展現"],
+        "energy_signaling": ["將新技術整合於具文化重要性的結構中"]
+      }
+    },
+    "Layer02_Energy_production_Participant": {
+      "analysis_summary": "該計畫成功將原本封閉的工業用地轉型為社區共享的能源與文化空間，為雪梨都市更新區域帶來積極的社會效益 [cite: 226, 227]。",
+      "Layer03": {
+        "複合program": ["能源基礎設施+歷史遺產展示+都市活動空間"],
+        "circulation": ["工業化的樓梯與動線體驗"],
+        "social_impact": ["透過現代能源技術為歷史地標賦予新價值"]
+      }
+    }
+  }
+}
