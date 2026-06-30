@@ -5,7 +5,7 @@
 - 將 `Precedent DNA產出結果` 作為 `AI consultant Gem（發電廠諮詢）` 的參考知識庫
 
 ### Step 02
-- 與 `AI consultant Gem（發電廠諮詢）` 進行對答，它將分析使用者的設計需求求並給予參考案例推薦與設計建議
+- 與 `AI consultant Gem（發電廠諮詢）` 進行對答，它將分析使用者的設計需求並給予參考案例推薦與設計建議
   
 # 工具簡介
 
