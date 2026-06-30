@@ -21,6 +21,7 @@
     - Layer01：建築物的基本資料，此Layer之下可再分為六大領域
     - Layer02：將第一層的相對客觀的分析結果進行複合的關聯式分析
     - Layer03：郵遞二層的結果推導進到設計層面的回應。
+- 輸出格式檔案位置：`輸出結果json格式.json`
 
 ### 分析架構圖
 <img width="2662" height="1825" alt="發電廠發電方式如何影響建築各層面 (4)" src="https://github.com/user-attachments/assets/23e2f7e4-8e85-4808-9720-dc779e73c18b" />
@@ -29,3 +30,6 @@
 
 <img width="4030" height="2062" alt="發電廠發電方式如何影響建築各層面 (6)" src="https://github.com/user-attachments/assets/7bdbcfa7-8cd0-46fe-b2a6-01e35112a753" />
 
+### 應用示範
+
+<img width="827" height="920" alt="image" src="https://github.com/user-attachments/assets/efec0082-3da0-4e00-99f7-a68e7d0b0dae" />
