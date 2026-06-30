@@ -15,7 +15,7 @@
 
 > output：以 json 格式輸出結構化解讀結果（檔案位置：`precedent DNA_output data`）
 
-- 工具使用連結：https://gemini.google.com/gem/10sSxflxZ-6IgBuWUN0Xn8MpvHOeGGwQg?usp=sharing 
+- 工具使用連結：https://gemini.google.com/gem/1HSG_fMr-QFREHZHUeJwpFIOTMv-OHZK5?usp=sharing
 - 用途/目的：回應我們一開始案例總覽的初步分析方向以及探討「不同發電方式」與建築各層面的關係
 - 分析架構：這套架構分為三個層次。
     - Layer01：建築物的基本資料，此Layer之下可再分為六大領域
