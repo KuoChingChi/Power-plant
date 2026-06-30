@@ -1,35 +1,39 @@
 # Workflow
-<img width="821" height="333" alt="螢幕擷取畫面 2026-06-30 232913" src="https://github.com/user-attachments/assets/68d71d55-e760-4ccf-8ae3-bac7e1a7ab8a" />
+<img width="869" height="456" alt="螢幕擷取畫面 2026-06-30 235324" src="https://github.com/user-attachments/assets/4bc94d96-cb4e-45f5-80d2-fa597bf3b3ba" />
 
 ### Step 01
-- 將 `Preprocess Gem 產出結果` 以及 `案例純文字資料` 打包成壓縮檔，並使用 `Precedent DNA` 進行分析
+- 將 `Precedent DNA產出結果` 作為 `AI consultant Gem（發電廠諮詢）` 的參考知識庫
 
 ### Step 02
-- 將產出結果作為 `AI consultant Gem（發電廠諮詢` 的知識庫使用，並進行下一步應用
-
+- 與 `AI consultant Gem（發電廠諮詢）` 進行對答，它將分析使用者的設計需求求並給予參考案例推薦與設計建議
+  
 # 工具簡介
 
-## Precedent DNA Gem：
+## AI consultant Gem（發電廠諮詢）：
 
-> input：`Preprocess Gem 產出結果` + `案例純文字資料` 的壓縮檔（檔案位置：`precedent DNA_input data`）
+> input：`Precedent DNA產出結果` （檔案位置：`precedent DNA_output data / DNA_01-23.json`）
 
-> output：以 json 格式輸出結構化解讀結果（檔案位置：`precedent DNA_output data`）
+> output：設計總結報告
 
-- 工具使用連結：https://gemini.google.com/gem/10sSxflxZ-6IgBuWUN0Xn8MpvHOeGGwQg?usp=sharing 
-- 用途/目的：回應我們一開始案例總覽的初步分析方向以及探討「不同發電方式」與建築各層面的關係
-- 分析架構：這套架構分為三個層次。
-    - Layer01：建築物的基本資料，此Layer之下可再分為六大領域
-    - Layer02：將第一層的相對客觀的分析結果進行複合的關聯式分析
-    - Layer03：郵遞二層的結果推導進到設計層面的回應。
-- 輸出格式檔案位置：`輸出結果json格式.json`
+- 工具使用連結：https://gemini.google.com/gem/1MIhjq5IW0feteMW8nw9uGj8RvqG0alcK?usp=sharing 
+- 用途/目的：在傳統的建築設計或學術研究流程中，使用者在面對龐大的歷史與技術案例時，往往因缺乏結構化的提問思維，導致檢索結果流於表面。為解決此痛點，本系統揚棄了傳統「一問一答」的單向檢索模式，改採雙階段的「多輪引導與知識庫比對」機制。
 
-### 分析架構圖
-<img width="2662" height="1825" alt="發電廠發電方式如何影響建築各層面 (4)" src="https://github.com/user-attachments/assets/23e2f7e4-8e85-4808-9720-dc779e73c18b" />
+### 應用機制：
+### 1. 第一階段：多輪引導式問卷機制（獲取使用者設計需求）
+     
+  系統會透過動態的多輪問卷形式與使用者互動，逐步挖掘並精準獲取使用者在四個核心維度上的具體「設計需求」。
 
-### 發電廠建築類型Ontology
+  <img width="929" height="537" alt="image" src="https://github.com/user-attachments/assets/ad56d8ad-cfa7-44e3-9a51-fc5f80bbdb95" />
 
-<img width="4030" height="2062" alt="發電廠發電方式如何影響建築各層面 (6)" src="https://github.com/user-attachments/assets/7bdbcfa7-8cd0-46fe-b2a6-01e35112a753" />
+### 2. 第二階段：案例知識庫比對機制（生成設計建議）
+     
+  將第一階段所產出的四維度設計需求，與後台內建的「案例知識庫」進行深度的比對與交叉分析。根據比對結果，系統將提煉出具備參考價值的洞察，最終「生成設計建議總結報告」。
+
+  <img width="934" height="559" alt="image" src="https://github.com/user-attachments/assets/b54764e9-e93d-42af-9346-ea4fef992c7c" />
 
 ### 應用示範
 
-<img width="827" height="920" alt="image" src="https://github.com/user-attachments/assets/efec0082-3da0-4e00-99f7-a68e7d0b0dae" />
+<img width="1080" height="908" alt="image" src="https://github.com/user-attachments/assets/9953675d-943f-4226-b822-bce3411759c9" />
+
+<img width="1080" height="930" alt="image" src="https://github.com/user-attachments/assets/2b6caabe-1c6b-4234-bde5-2eb960d379ba" />
+
