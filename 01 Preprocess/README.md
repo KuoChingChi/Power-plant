@@ -34,7 +34,7 @@
 
 - 工具使用連結：https://gemini.google.com/gem/1nan83MbLn_H0WyQ1UllMhxG37verotT1?usp=sharing
 - 用途/目的：針對圖面P1、P2、P3的分類進行三個方面分析
-- 介紹：在P1部分，將進行空間名稱的提取、數量估算、空間關係、整體空間印象等等辨識；P2部分，著重於感官氛圍與材質的解讀 ；最後P3部分，則是訓練AI透過圖面提供的文字資訊去解讀設計概念與構造邏輯等等。
+- 分析架構：在P1部分，將進行空間名稱的提取、數量估算、空間關係、整體空間印象等等辨識；P2部分，著重於感官氛圍與材質的解讀 ；最後P3部分，則是訓練AI透過圖面提供的文字資訊去解讀設計概念與構造邏輯等等。
 
 ### 應用範例
 <img width="799" height="905" alt="image" src="https://github.com/user-attachments/assets/283cdfa9-efd2-4c27-88d9-becf7ab4c74d" />
